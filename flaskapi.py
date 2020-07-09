@@ -1,17 +1,17 @@
 from flask_api import FlaskAPI, status, exceptions
 from flask import request, url_for
-import pandas as pd 
+# import pandas as pd 
 import numpy as np
 import tensorflow as tf
-from flask_ngrok import run_with_ngrok
-from keras.models import load_model
+# from flask_ngrok import run_with_ngrok
+# from keras.models import load_model
 
 
 global graph
 graph = tf.get_default_graph() 
 
 app = FlaskAPI(__name__)
-run_with_ngrok(app)   #starts ngrok when the app is run
+# run_with_ngrok(app)   #starts ngrok when the app is run
 
 # parameters: 'avgtempC', 'sunHour', 'humidity',
 #             'windspeedKmph', 'visibility', 'pressure', 'cloudcover',
@@ -56,8 +56,8 @@ import pickle
 flood_clf = pickle.load(open('flood_model.sav', 'rb'))
 rain_clf = pickle.load(open('rain_model.sav', 'rb'))
 
-rainfall_model = load_model('lstm-v3-1.h5')
-rainfall_model.compile(loss='mean_squared_error', optimizer='adam')
+# rainfall_model = load_model('lstm-v3-1.h5')
+# rainfall_model.compile(loss='mean_squared_error', optimizer='adam')
 
 # A route to return all of the available entries in our catalog.
 @app.route('/', methods=['GET', 'POST'])
@@ -81,24 +81,24 @@ def get_results():
 	# if method == GET
 	return histories
 
-@app.route('/rainfall', methods=['GET', 'POST'])
-def get_rainFall():
-	if request.method == 'POST':
-		posted_data = request.get_json()
+# @app.route('/rainfall', methods=['GET', 'POST'])
+# def get_rainFall():
+# 	if request.method == 'POST':
+# 		posted_data = request.get_json()
 		
-		data = []
-		for item in posted_data.items():
-			data.append(item[1])
-			# print(item)
+# 		data = []
+# 		for item in posted_data.items():
+# 			data.append(item[1])
+# 			# print(item)
 
-		with graph.as_default():
-		  predict = rainfall_model.predict(np.array(data).reshape(1, 1, 3))
+# 		with graph.as_default():
+# 		  predict = rainfall_model.predict(np.array(data).reshape(1, 1, 3))
 		
-		posted_data['predicted_rainfall'] = predict.tolist()[0][0] 
-		print(data, predict[0][0])
+# 		posted_data['predicted_rainfall'] = predict.tolist()[0][0] 
+# 		print(data, predict[0][0])
 
-		return {'data': posted_data}
+# 		return {'data': posted_data}
 
-	return 'done'
+# 	return 'done'
 
 app.run()
