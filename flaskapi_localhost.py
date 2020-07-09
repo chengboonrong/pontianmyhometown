@@ -1,9 +1,7 @@
 from flask_api import FlaskAPI, status, exceptions
 from flask import request, url_for
-# import pandas as pd 
 import numpy as np
 import tensorflow as tf
-# from flask_ngrok import run_with_ngrok
 # from keras.models import load_model
 
 
@@ -11,7 +9,6 @@ global graph
 graph = tf.get_default_graph() 
 
 app = FlaskAPI(__name__)
-# run_with_ngrok(app)   #starts ngrok when the app is run
 
 # parameters: 'avgtempC', 'sunHour', 'humidity',
 #             'windspeedKmph', 'visibility', 'pressure', 'cloudcover',
@@ -76,7 +73,7 @@ def get_results():
 	    posted_data['chanceofflood'] = round(flood_Result.tolist()[0], 1)
 	    histories.append(posted_data)
 
-	    return {'rain': posted_data['rain'], 'flood': posted_data['flood']}
+	    return {'rain': posted_data['chanceofrain'], 'flood': posted_data['chanceofflood']}
 	    
 	# if method == GET
 	return histories
