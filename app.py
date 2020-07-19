@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, url_for
 import requests
 import json
 import pickle
@@ -13,6 +13,7 @@ flood_clf = pickle.load(open('./models/my_flood_model.sav', 'rb'))
 rain_clf = pickle.load(open('./models/my_rain_model.sav', 'rb'))
 
 app = Flask(__name__)
+app.static_folder = 'static'
 
 keys = ['apparentTemperature', 'humidity', 'windSpeed', 'visibility', 'pressure']
 
