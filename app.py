@@ -25,7 +25,7 @@ API_URL = 'http://api.openweathermap.org/data/2.5/weather?q=Pontian,my&appid=e35
 def home():
     raw_data = requests.get(API_URL).json()
     # print(raw_data)
-    weather_data = [round(raw_data['main']['temp'], 0), raw_data['main']['humidity'], raw_data['wind']['speed'], raw_data['visibility'], raw_data['main']['pressure'], raw_data['clouds']['all']]
+    weather_data = [round(raw_data['main']['temp'], 0), raw_data['main']['humidity'], round(raw_data['wind']['speed'] / 1000 * 3600, 1)  , raw_data['visibility'], raw_data['main']['pressure'], raw_data['clouds']['all']]
     # print(weather_data)
 
     cor = round(rain_clf.predict(np.array(weather_data).reshape(1, -1))[0], 1)

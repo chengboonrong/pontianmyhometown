@@ -15,6 +15,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
+      
+
 
     <title> PONTIAN </title>
   </head>
@@ -31,7 +33,9 @@
             <div class="card-body pb-3">
 
                 <!-- Title -->
-                <h4 class="card-title font-weight-bold">Pontian</h4>
+                <h4 class="card-title font-weight-bold"> 
+                    <a class="material-tooltip-main" href="https://www.google.com.my/maps/place/Pontian+District,+Johor/@1.4988958,103.3761729,13z/data=!3m1!4b1!4m5!3m4!1s0x31d09868a603832b:0x66971af1fa7551ea!8m2!3d1.485561!4d103.3878589" data-toggle="tooltip" title="(1.4988958,103.3761729)" target="_blank"> Pontian </a> 
+                </h4>
                 <!-- Text -->
                 <p class="card-text">Right now it is</p>
                 <div class="d-flex justify-content-between">
@@ -40,7 +44,7 @@
                 </div>
                 <div class="d-flex justify-content-between mb-4">
                   <p><i class="fas fa-tint fa-lg text-info pr-2"></i>{{ data[1] }}% Humidity</p>
-                  <p><i class="fas fa-leaf fa-lg grey-text pr-2"></i>{{ data[2] / 1000 * 3600 }}km/h Winds</p>
+                  <p><i class="fas fa-leaf fa-lg grey-text pr-2"></i>{{ data[2] }}km/h Winds</p>
                 </div>
                 <div class="d-flex justify-content-between mb-4">
                   <p><i class="fas fa-compress fa-lg text-info pr-2"></i>{{ data[4] }} Pressure</p>
@@ -50,16 +54,32 @@
             </div>
         </div>
 
+        <hr style="width:100%;text-align:left;margin-left:0">
+
     </div>
 
+    <!-- Footer -->
+    <footer class="page-footer font-small special-color-dark">
+
+      <!-- Copyright -->
+      <div class="footer-copyright text-center py-3">© 2020 Copyright:
+        <a href="#"> PontianKia </a>
+      </div>
+      <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
+
     
     
     
 
-
+    
     <!-- Optional JavaScript -->
     <!-- JQuery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Main.js -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js') }}"></script>
     <!-- Bootstrap tooltips -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
