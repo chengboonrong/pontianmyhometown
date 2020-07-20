@@ -1,9 +1,9 @@
-import json
+# import json
 
-with open('./data/pharmacy.txt', 'r') as f:
-	data = json.load(f)
-	names = [d['name'] for d in data]
-	print(names)
+# with open('./data/pharmacy.txt', 'r') as f:
+# 	data = json.load(f)
+# 	names = [d['name'] for d in data]
+# 	print(names)
 
 
 	# <!-- <div class="row">
