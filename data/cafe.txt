@@ -1,0 +1,414 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pusat Perdagangan Pontian, 45G, Jln Delima 2, Kampung Atap, 82200 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-355 5001",
+    "name": "Coolblog - Pontian Shoplot",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 8:30 PM",
+        "Tuesday: 10:00 AM \u2013 8:30 PM",
+        "Wednesday: 10:00 AM \u2013 8:30 PM",
+        "Thursday: 10:00 AM \u2013 8:30 PM",
+        "Friday: 10:00 AM \u2013 8:30 PM",
+        "Saturday: 10:00 AM \u2013 8:30 PM",
+        "Sunday: 10:00 AM \u2013 8:30 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://coolblog.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "11G, Jln Delima 7, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 0175",
+    "name": "LYM Tea Cafe - Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 12:30 \u2013 11:00 PM",
+        "Tuesday: 12:30 \u2013 11:00 PM",
+        "Wednesday: 12:30 \u2013 11:00 PM",
+        "Thursday: 12:30 \u2013 11:00 PM",
+        "Friday: 12:30 \u2013 11:00 PM",
+        "Saturday: 12:30 \u2013 11:00 PM",
+        "Sunday: 12:30 \u2013 11:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/18cteacafe/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Econsave Pontian, Mukim Rimba Terjun Lot No: PT 31, H.S. (M) 2032, PTD 11023, Kampung Tengah, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "07-355 5001",
+    "name": "Coolblog - Econsave Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 10:00 PM",
+        "Tuesday: 10:00 AM \u2013 10:00 PM",
+        "Wednesday: 10:00 AM \u2013 10:00 PM",
+        "Thursday: 10:00 AM \u2013 10:00 PM",
+        "Friday: 10:00 AM \u2013 10:00 PM",
+        "Saturday: 10:00 AM \u2013 10:00 PM",
+        "Sunday: 10:00 AM \u2013 10:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://coolblog.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "82100 Kayu Ara Pasong, Johor, Malaysia",
+    "formatted_phone_number": "013-363 7175",
+    "name": "Warung Cenggini Parit Sikom",
+    "rating": 4.1,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.cenggini.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "DH17A, Lorong A-4, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "011-1513 6749",
+    "name": "platform coffee & homestay - pekan nanas, Pontian, Johor",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 11:00 AM \u2013 6:00 PM",
+        "Tuesday: 11:00 AM \u2013 6:00 PM",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00 AM \u2013 6:00 PM",
+        "Saturday: 11:00 AM \u2013 6:00 PM",
+        "Sunday: 11:00 AM \u2013 6:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "types": [
+      "cafe",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/platform.coffee.homestay/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1, Jalan Utama 2, Taman Utama, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 3103",
+    "name": "18\u00b0c",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 11:00 AM \u2013 11:00 PM",
+        "Tuesday: 11:00 AM \u2013 11:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 11:00 AM \u2013 11:00 PM",
+        "Friday: 11:00 AM \u2013 11:00 PM",
+        "Saturday: 11:00 AM \u2013 11:00 PM",
+        "Sunday: 11:00 AM \u2013 11:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Besar, Kampung Ulu Choh, 81500 Pekan Nanas, Johor, Malaysia",
+    "name": "\u4e9a\u516d\u5496\u5561\u5e97 Ah Luck Kopitiam",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 6:30 AM \u2013 4:30 PM",
+        "Tuesday: 6:30 AM \u2013 4:30 PM",
+        "Wednesday: 6:30 AM \u2013 4:30 PM",
+        "Thursday: 6:30 AM \u2013 4:30 PM",
+        "Friday: 6:30 AM \u2013 4:30 PM",
+        "Saturday: 6:30 AM \u2013 4:30 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/AhLuckKopitiam/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Ulu Choh, 81500 Pekan Nanas, Johor, Malaysia",
+    "name": "Ulu Choh Cafe",
+    "rating": 3.7,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/pages/%E6%98%8C%E6%98%8E%E8%8C%B6%E5%AE%A4/325543114205048"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "107, Jln. Pontian, Sanglang, 82200 Benut, Johor, Malaysia",
+    "formatted_phone_number": "012-714 2731",
+    "name": "GPC Ayer Baloi",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:30 AM \u2013 7:00 PM",
+        "Tuesday: 10:30 AM \u2013 7:00 PM",
+        "Wednesday: 10:30 AM \u2013 7:00 PM",
+        "Thursday: 10:30 AM \u2013 7:00 PM",
+        "Friday: 10:30 AM \u2013 7:00 PM",
+        "Saturday: 10:30 AM \u2013 7:00 PM",
+        "Sunday: 10:30 AM \u2013 7:00 PM"
+      ]
+    },
+    "rating": 3.4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "74A , Kampung Pulai, 81550 Gelang Patah, Johor, Malaysia",
+    "formatted_phone_number": "07-510 1273",
+    "name": "ammrcomp",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 11:30 PM",
+        "Tuesday: 10:00 AM \u2013 11:30 PM",
+        "Wednesday: 10:00 AM \u2013 11:30 PM",
+        "Thursday: 10:00 AM \u2013 11:30 PM",
+        "Friday: 10:00 AM \u2013 11:30 PM",
+        "Saturday: 10:00 AM \u2013 11:00 PM",
+        "Sunday: 10:00 AM \u2013 11:00 PM"
+      ]
+    },
+    "rating": 3.8,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "11, Lorong Anggerik, Jalan Umno, Kampung Dalam, 82000 Pontian District, Johor, Malaysia",
+    "name": "Omar Awang",
+    "rating": 5,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "540-2C, Jalan Teo Kang Sui, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "name": "\u963f\u5149\u5496\u5561\u5e97 KEDAI KOPI KWAN",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 6:00 AM \u2013 5:00 PM",
+        "Tuesday: 6:00 AM \u2013 5:00 PM",
+        "Wednesday: 6:00 AM \u2013 5:00 PM",
+        "Thursday: Closed",
+        "Friday: 6:00 AM \u2013 5:00 PM",
+        "Saturday: 6:00 AM \u2013 5:00 PM",
+        "Sunday: 6:00 AM \u2013 5:00 PM"
+      ]
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2, Jalan Teo Kang Sui, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "012-797 9779",
+    "name": "\u5c0f\u6728\u5c4b\u2022\u6742\u8d27\u94fa",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 11:00 AM \u2013 9:00 PM",
+        "Tuesday: 11:00 AM \u2013 9:00 PM",
+        "Wednesday: 11:00 AM \u2013 9:00 PM",
+        "Thursday: 11:00 AM \u2013 9:00 PM",
+        "Friday: 11:00 AM \u2013 9:00 PM",
+        "Saturday: 11:00 AM \u2013 9:00 PM",
+        "Sunday: 11:00 AM \u2013 9:00 PM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/littlemuwu/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Teo Kang Sui, No. 684, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 0018",
+    "name": "18\u00b0C Tea Cafe",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 3:00 PM \u2013 12:00 AM",
+        "Tuesday: 3:00 PM \u2013 12:00 AM",
+        "Wednesday: 3:00 PM \u2013 12:00 AM",
+        "Thursday: Closed",
+        "Friday: 3:00 PM \u2013 12:00 AM",
+        "Saturday: 3:00 PM \u2013 12:30 AM",
+        "Sunday: 1:00 \u2013 4:00 PM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/18c.teacafe.hq/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Abas, Kampung Dalam, 82000 Pontian, Johor, Malaysia",
+    "name": "R&R Pontian",
+    "rating": 4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kampung Dalam, 82000 Pontian, Johor, Malaysia",
+    "name": "Rojak Asmah Faris",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "304, Jalan Pejabat, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "name": "WARONG CLASSIC",
+    "rating": 4,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "7, Lorong Abadi Kampung Atap, Pontian Kechil, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "017-783 3530",
+    "name": "ALG Pot Santai",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 4:00 PM \u2013 12:00 AM",
+        "Wednesday: 4:00 PM \u2013 12:00 AM",
+        "Thursday: 4:00 PM \u2013 12:00 AM",
+        "Friday: 4:00 PM \u2013 12:00 AM",
+        "Saturday: 4:00 PM \u2013 12:00 AM",
+        "Sunday: 4:00 PM \u2013 12:00 AM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "381, Lorong Taat, Kampung Dalam, 82000 Pontian, Johor, Malaysia",
+    "name": "Juara Tomyam Seafood Restaurant, Pontian, Johore.",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 6:00 PM \u2013 2:00 AM",
+        "Tuesday: 6:00 PM \u2013 2:00 AM",
+        "Wednesday: 6:00 PM \u2013 2:00 AM",
+        "Thursday: 6:00 PM \u2013 2:00 AM",
+        "Friday: 6:00 PM \u2013 2:00 AM",
+        "Saturday: 6:00 PM \u2013 2:00 AM",
+        "Sunday: 6:00 PM \u2013 2:00 AM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lorong Cendol, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "017-701 7027",
+    "name": "Cendol at lorong cendol Pontian",
+    "rating": 4.3,
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -5,48 +5,51 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
 
     <title> PONTIAN </title>
   </head>
   <body>
     <div class="hero jumbotron text-center">
-        <h1> Pontian - My Hometown ~</h1>
-        <p> Today's weather forecast</p>    
+        <h1> Pontian - My Hometown </h1>
+        <p> <!-- Today's weather forecast --></p>    
     </div>
     
     <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <a id='coord' data-toggle="tooltip" title="Click here to view in map" href="https://www.google.com.my/maps/place/Pontian+District,+Johor/@1.4988958,103.3761729,13z/data=!3m1!4b1!4m5!3m4!1s0x31d09868a603832b:0x66971af1fa7551ea!8m2!3d1.485561!4d103.3878589" target="_blank">Coordinates: {{ data['coord']['lat'], data['coord']['lon'] }}</a>
-                <p id='summary'>Summary: {{ data['weather'][0]['main']}}</p>
-            </div>
-            <div class="col-sm-4">
-                <p id='temperate'>Temperate: {{data['main']['temp']}} °C</p>
-                <p id='pressure'>Pressure: {{data['main']['pressure']}} hPa</p>
-                <p id='humidity'>Humidity: {{data['main']['humidity']}} %</p>
-            </div>
-            <div class="col-sm-4">
-                <p id='visibility'>Visibility: {{data['visibility'] / 1000}} kilometer</p>
-                <p id='windSpeed'>Wind Speed: {{data['wind']['speed'] / 1000 * 3600 }} kmph</p>
-                <p id='cloudCover'>Cloudiness: {{data['clouds']['all']}} %</p>
+        <div class="card weather-card">
+
+            <!-- Card content -->
+            <div class="card-body pb-3">
+
+                <!-- Title -->
+                <h4 class="card-title font-weight-bold">Pontian</h4>
+                <!-- Text -->
+                <p class="card-text">Right now it is</p>
+                <div class="d-flex justify-content-between">
+                  <p class="display-1 degree">{{ data[0]}}°</p>
+                  <i class="fas fa-sun-o fa-5x pt-3 amber-text"></i>
+                </div>
+                <div class="d-flex justify-content-between mb-4">
+                  <p><i class="fas fa-tint fa-lg text-info pr-2"></i>{{ data[1] }}% Humidity</p>
+                  <p><i class="fas fa-leaf fa-lg grey-text pr-2"></i>{{ data[2] / 1000 * 3600 }}km/h Winds</p>
+                </div>
+                <div class="d-flex justify-content-between mb-4">
+                  <p><i class="fas fa-compress fa-lg text-info pr-2"></i>{{ data[4] }} Pressure</p>
+                  <p><i class="fas fa-cloud fa-lg grey-text pr-2"></i>{{ data[5] }}% Clouds</p>
+                </div>
+                <p class="card-text">Mostly {{raw['weather'][0]['main']}}, there is a {{ cor }}% chance of rain</p>
             </div>
         </div>
 
-        <!-- <div class="row">
-            <div class="col-sm-12">
-                
-            </div>
-        </div> -->
-
-        <div class="card">
-            <div class="card-body">
-                <p id='cor'>Chance of rain: {{ cor }}</p>
-                <!-- <p id='cof'>Chance of flood: {{ cof }}</p> -->
-            </div>
-          </div>
     </div>
 
     
@@ -55,9 +58,14 @@
 
 
     <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+
   </body>
 </html>

@@ -1,0 +1,402 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "34, Jalan Delima, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 0809",
+    "name": "Guardian",
+    "rating": 4,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "website": "https://guardian.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "745, Tingkat Bawah, Wisma Koperasi, Jalan Taib,, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 3766",
+    "name": "Farmasi Gamma",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 8:30 AM \u2013 9:30 PM",
+        "Tuesday: 8:30 AM \u2013 9:30 PM",
+        "Wednesday: 8:30 AM \u2013 9:30 PM",
+        "Thursday: 8:30 AM \u2013 9:30 PM",
+        "Friday: Closed",
+        "Saturday: 8:30 AM \u2013 9:30 PM",
+        "Sunday: 8:30 AM \u2013 9:30 PM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No. 667, Jalan Taib, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 0002",
+    "name": "Radiant Pharmacy Sdn Bhd, 667 Jalan Taib Pontian Johor",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 8:00 PM",
+        "Tuesday: 9:00 AM \u2013 8:00 PM",
+        "Wednesday: 9:00 AM \u2013 8:00 PM",
+        "Thursday: 9:00 AM \u2013 8:00 PM",
+        "Friday: 9:00 AM \u2013 8:00 PM",
+        "Saturday: 9:00 AM \u2013 8:00 PM",
+        "Sunday: 9:00 AM \u2013 8:00 PM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "website": "https://radiantpharmacysdnbhd.business.site/?utm_source=gmb&utm_medium=referral"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No 2769, Lot 122-G, Jln Bakek Jaya 3, Tmn, Jalan Bakek Jaya Utama, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "016-578 2796",
+    "name": "HAIDAH BEAUTY SHOP",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 9:00 PM",
+        "Tuesday: 9:00 AM \u2013 9:00 PM",
+        "Wednesday: 9:00 AM \u2013 9:00 PM",
+        "Thursday: 9:00 AM \u2013 9:00 PM",
+        "Friday: 9:00 AM \u2013 9:00 PM",
+        "Saturday: 9:00 AM \u2013 9:00 PM",
+        "Sunday: 9:00 AM \u2013 9:00 PM"
+      ]
+    },
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "012-753 7375",
+    "name": "\u7956\u4f20\u767d\u9e64\u62f3\u672f\u533b\u836f\u6240",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 1:00 \u2013 5:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 1:00 \u2013 5:00 PM",
+        "Thursday: 1:00 \u2013 5:00 PM",
+        "Friday: 1:00 \u2013 5:00 PM",
+        "Saturday: 1:00 \u2013 5:00 PM",
+        "Sunday: 1:00 \u2013 5:00 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "name": "Watsons",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No. 104, Aras Bawah, Bangunan Hokkien, Jalan Johor Kanan, 82000, Kampung Tengah, 82000 Pontian, Johor, Malaysia",
+    "name": "Procuci Pontian",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Malaysia, Johor, Pontian District, Kampung Tengah, Jalan Johor, no126, batu\u90ae\u653f\u7f16\u7801: 82000",
+    "formatted_phone_number": "07-686 2729",
+    "name": "\u6d4e\u661f\u53c2\u8338\u836f\u884c",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 12:30 PM, 2:30 \u2013 8:00 PM",
+        "Tuesday: 2:30 \u2013 8:00 PM",
+        "Wednesday: 10:00 AM \u2013 12:30 PM, 2:30 \u2013 8:00 PM",
+        "Thursday: Closed",
+        "Friday: 10:00 AM \u2013 12:30 PM, 2:30 \u2013 8:00 PM",
+        "Saturday: 10:00 AM \u2013 12:30 PM, 2:30 \u2013 8:00 PM",
+        "Sunday: 10:00 AM \u2013 12:30 PM, 2:30 \u2013 6:00 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/KedaiUbatChaySeng/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "139, Lorong Indah 6, Taman Sri Pinang, 82000 Pontian, Johor, Malaysia",
+    "name": "Eng Heng Mee Trading",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Makam, Kampung Penerok, 82300 Penerok, Johor, Malaysia",
+    "formatted_phone_number": "014-606 4601",
+    "name": "norfasha binti abdullah",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:01 AM \u2013 1:00 PM",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lorong B-1, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "name": "Kedai Ubat Weng Foh Chan",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 7:00 PM",
+        "Tuesday: 9:00 AM \u2013 7:00 PM",
+        "Wednesday: 9:00 AM \u2013 7:00 PM",
+        "Thursday: 9:00 AM \u2013 7:00 PM",
+        "Friday: 9:00 AM \u2013 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Sawah, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 4615",
+    "name": "Kedai Ubat Ta Ann",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 8:00 AM \u2013 8:00 PM",
+        "Tuesday: 8:00 AM \u2013 8:00 PM",
+        "Wednesday: 8:00 AM \u2013 8:00 PM",
+        "Thursday: 8:00 AM \u2013 8:00 PM",
+        "Friday: 8:00 AM \u2013 8:00 PM",
+        "Saturday: 8:00 AM \u2013 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Malaysia, Johor, Pekan Nanas, Jalan Sawah, SH118\u90ae\u653f\u7f16\u7801: 81500",
+    "formatted_phone_number": "012-783 2088",
+    "name": "\u8fbe\u5b89\u53c2\u8338\u836f\u884c",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "SH 64, Jalan Besar, Pekan Nanas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 6044",
+    "name": "Farmasi D'Safia",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Malaysia, Johor, Pekan Nanas, Taman Sri Pekan Nenas, Unnamed Road\u90ae\u653f\u7f16\u7801: 81500",
+    "name": "\u5317\u4e7e\u90a3\u90a3\u836f\u5e97",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "53, Jalan Utama 5, Taman Utama, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "017-796 1118",
+    "name": "JIAN KANG HERBS AND HEATH",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:30 AM \u2013 5:00 PM",
+        "Wednesday: 9:30 AM \u2013 5:00 PM",
+        "Thursday: 9:30 AM \u2013 5:00 PM",
+        "Friday: 9:30 AM \u2013 5:00 PM",
+        "Saturday: 9:30 AM \u2013 5:00 PM",
+        "Sunday: 9:30 AM \u2013 5:00 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "92,, 3, Jalan Utama 24, Taman Utama, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 4493",
+    "name": "Thetacare Pharmacy",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 8:30 PM",
+        "Tuesday: 9:00 AM \u2013 8:30 PM",
+        "Wednesday: Closed",
+        "Thursday: 9:00 AM \u2013 8:30 PM",
+        "Friday: 9:00 AM \u2013 8:30 PM",
+        "Saturday: 9:00 AM \u2013 8:30 PM",
+        "Sunday: 9:00 AM \u2013 8:30 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/pages/Thetacare-Pharmacy/1811807865723656"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "107, Jalan Utama 3, Taman Utama, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "012-778 7095",
+    "name": "\u989c\u671d\u57fa\u4f20\u7edf\u533b\u836f\u4e2d\u5fc3",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 6:00 \u2013 9:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 6:00 \u2013 9:00 PM",
+        "Thursday: 6:00 \u2013 9:00 PM",
+        "Friday: 6:00 \u2013 9:00 PM",
+        "Saturday: 6:00 \u2013 9:00 PM",
+        "Sunday: 6:00 \u2013 9:00 PM"
+      ]
+    },
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "82300 Kampong Sungai Boh, Johor, Malaysia",
+    "name": "Klinik desa",
+    "types": [
+      "pharmacy",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "9, Jalan Jaafar, Benut, 82200 Benut, Johor, Malaysia",
+    "formatted_phone_number": "07-690 4203",
+    "name": "Kedai Ubat Thye Ho Thong",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 8:00 AM \u2013 9:30 PM",
+        "Tuesday: 8:00 AM \u2013 9:30 PM",
+        "Wednesday: 8:00 AM \u2013 9:30 PM",
+        "Thursday: 8:00 AM \u2013 9:30 PM",
+        "Friday: 8:00 AM \u2013 9:30 PM",
+        "Saturday: 8:00 AM \u2013 9:30 PM",
+        "Sunday: 8:00 AM \u2013 6:00 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "pharmacy",
+      "food",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  }
+]

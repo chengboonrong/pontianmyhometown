@@ -1,0 +1,287 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "BT. 34, Jalan Johor, Kampung Seri Bunian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 8494",
+    "name": "SMK. TAN SRI OSMAN MOHD SA'AT",
+    "rating": 4.4,
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.stoms.edu.my/wp"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lot 12723, Jln Parit Ibrahim, Pontian Besar, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-241 8043",
+    "name": "Tadika Hikmah YPJ(Dimiliki sepenuhnya oleh Kumpulan Pendidikan YPJ Sdn Bhd)",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No. 13, Jln Alsagoff, Pontian,, 82000, Pontian, Johor, Kampung Dalam, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "07-687 5406",
+    "name": "Pontian Adventist Kindergarden",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pontian Besar, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 3980",
+    "name": "Pei Chun High School",
+    "rating": 4.8,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.peichunhs.edu.my/v2/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lot 1140, Parit Haji Omar, Api-api, 82010 Pontian District, Johor, Malaysia",
+    "name": "Sati Meditation Centre (\u6b63\u5ff5\u7985\u4fee\u6797)",
+    "rating": 5,
+    "types": [
+      "place_of_worship",
+      "school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.sati-meditation.org/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1021, Jln. Alsagoff, Kampung Dalam, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 6877",
+    "name": "Sekolah Kebangsaan Bandar Pontian (Integrasi)",
+    "rating": 4.8,
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/skbandarpontian/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "82020, Kampung Belokok, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-688 6261",
+    "name": "SK Belokok",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://skbelokok.pontian.edu.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Smt Pontian, Pekan Rambah, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-688 1631",
+    "name": "Johor Technical Matriculation College",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No.4 A Jalan Sentosa 1, Taman Sentosa, Jalan Parit Mesjid, 82000 Pontian, Johor., Pontian Kechil, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "012-721 7016",
+    "name": "\u5b66\u800c\u4f18 (\u7b28\u73cd\u5206\u9662) Happyland Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 4:30 AM",
+        "Tuesday: 9:00 AM \u2013 4:30 AM",
+        "Wednesday: Closed",
+        "Thursday: 9:00 AM \u2013 4:30 AM",
+        "Friday: 9:00 AM \u2013 4:30 AM",
+        "Saturday: 9:00 AM \u2013 4:30 AM",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.happyland.edu.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pontian Besar, Jalan Persisiran Megah, Taman Megah, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "07-686 0703",
+    "name": "Pei Chun High School",
+    "rating": 3.9,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.peichunhs.edu.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "29-1 Jalan Emas 3, Pusat Perniagaan Kota Emas, Taman Nong Chick, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "011-1050 1101",
+    "name": "Tadika Little Caliphs Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 7:00 AM \u2013 6:00 PM",
+        "Tuesday: 7:00 AM \u2013 6:00 PM",
+        "Wednesday: 7:00 AM \u2013 6:00 PM",
+        "Thursday: 7:00 AM \u2013 6:00 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: 7:00 AM \u2013 6:00 PM"
+      ]
+    },
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.littlecaliphs.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pekan Rambah, 82000 Pontian, Johor, Malaysia",
+    "name": "bengkel pke kmtj",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.kmtj.edu.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "31, Jalan Parit Selangor, 82000 Pontian, Johor, Malaysia",
+    "name": "Pusat Internet Parit Selangor",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 6:00 PM",
+        "Tuesday: 9:00 AM \u2013 6:00 PM",
+        "Wednesday: 9:00 AM \u2013 6:00 PM",
+        "Thursday: 9:00 AM \u2013 6:00 PM",
+        "Friday: 9:00 AM \u2013 6:00 PM",
+        "Saturday: 9:00 AM \u2013 6:00 PM",
+        "Sunday: 9:00 AM \u2013 6:00 PM"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kampung Ayer Baloi, 82100 Ayer Baloi, Johor, Malaysia",
+    "formatted_phone_number": "07-693 1134",
+    "name": "Sekolah Kebangsaan Ayer Baloi, Pontian, Johor.",
+    "rating": 4.8,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/SK-AYER-BALOI-275562333290246/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pekan Nanas, Jalan Sawah, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 1831",
+    "name": "SMK DATO' MOHD YUNOS SULAIMAN",
+    "rating": 4.8,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://smkdmyspekannanas.blogspot.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kampung Parit Panjang, 82100 Ayer Baloi, Johor, Malaysia",
+    "formatted_phone_number": "07-693 3513",
+    "name": "Sekolah Kebangsaan Jaya Mulia",
+    "rating": 4,
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/pages/Sekolah-Agama-Jaya-Mulia-Parit-Panjang-Ayer-Baloi/1202477306519510"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1\u00b037'43. 103\u00b018'28., Jalan PJS 8/9, Saujana 0-lot, 46150 Petaling Jaya, Selangor, Malaysia",
+    "formatted_phone_number": "07-693 3744",
+    "name": "MRSM TDI",
+    "rating": 5,
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lot PTD 8886, Mukim Ayer Baloi, Sanglang, Johor, Kampung Parit Haji Ahmad, 82100 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-690 2086",
+    "name": "Giatmara Pontian (Sungai Benut)",
+    "rating": 4.3,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/pages/GIATMARA-PONTIAN-SG-BENUT/148239142025607"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Sekolah Menengah Kebangsaan Sri Kukup, Kampung Permas Besar, 82300 Kukup, Johor, Malaysia",
+    "name": "Musolla al Falah",
+    "rating": 4,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://alfalahsmksk.weebly.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Pulai, Kampung Pulai, 81550 Gelang Patah, Johor, Malaysia",
+    "formatted_phone_number": "07-510 3548",
+    "name": "SK Kampung Pulai",
+    "rating": 4.4,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://skkpulai.blogspot.my/"
+  }
+]

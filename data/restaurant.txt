@@ -1,0 +1,499 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No.34, Jln Delima 2, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "012-718 4333",
+    "name": "Kafe Rasa Ria Restaurant, Pontian, Johore.",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 9:30 PM",
+        "Tuesday: 9:00 AM \u2013 9:30 PM",
+        "Wednesday: 9:00 AM \u2013 9:30 PM",
+        "Thursday: 9:00 AM \u2013 9:30 PM",
+        "Friday: 9:00 AM \u2013 9:30 PM",
+        "Saturday: 9:00 AM \u2013 9:30 PM",
+        "Sunday: 9:00 AM \u2013 9:30 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/pages/category/Malaysian-Restaurant/Kafe-Rasa-Ria-135635869797305/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "766, Lorong Anggerik, Kampung Parit Mesjid, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 1975",
+    "name": "Heng Heng Original Tomato Wanton Mee",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:30 AM \u2013 3:30 PM",
+        "Tuesday: 9:30 AM \u2013 3:30 PM",
+        "Wednesday: 9:30 AM \u2013 3:30 PM",
+        "Thursday: 9:30 AM \u2013 3:30 PM",
+        "Friday: Closed",
+        "Saturday: 9:30 AM \u2013 3:30 PM",
+        "Sunday: 9:30 AM \u2013 3:30 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lot 1088 - 1091 & 3279, Mukim Rimba Terjun 82000 Daerah Pontian, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "011-6562 2880",
+    "name": "KFC Pontian Drive-Thru",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 7:00 AM \u2013 10:00 PM",
+        "Tuesday: 7:00 AM \u2013 10:00 PM",
+        "Wednesday: 7:00 AM \u2013 10:00 PM",
+        "Thursday: 7:00 AM \u2013 10:00 PM",
+        "Friday: 7:00 AM \u2013 10:00 PM",
+        "Saturday: 7:00 AM \u2013 10:00 PM",
+        "Sunday: 7:00 AM \u2013 10:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://kfc.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "668, Jalan Taib, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 0453",
+    "name": "KFC Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 10:00 PM",
+        "Tuesday: 10:00 AM \u2013 10:00 PM",
+        "Wednesday: 10:00 AM \u2013 10:00 PM",
+        "Thursday: 10:00 AM \u2013 10:00 PM",
+        "Friday: 10:00 AM \u2013 10:00 PM",
+        "Saturday: 10:00 AM \u2013 10:00 PM",
+        "Sunday: 10:00 AM \u2013 10:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://kfc.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1-2, Jalan Delima 13, Pusat Perdagangan Pontian, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "07-687 0288",
+    "name": "\u5929\u53f0 Pontian Rooftop Restaurant",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 1:00 \u2013 11:00 PM",
+        "Wednesday: 1:00 \u2013 11:00 PM",
+        "Thursday: 1:00 \u2013 11:00 PM",
+        "Friday: 1:00 \u2013 11:00 PM",
+        "Saturday: 1:00 \u2013 11:00 PM",
+        "Sunday: 1:00 \u2013 11:00 PM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://pontian-rooftop-restaurant.business.site/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "9, Jalan Delima, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 1280",
+    "name": "Marrybrown",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 11:00 PM",
+        "Tuesday: 10:00 AM \u2013 11:00 PM",
+        "Wednesday: 10:00 AM \u2013 11:00 PM",
+        "Thursday: 10:00 AM \u2013 11:00 PM",
+        "Friday: 10:00 AM \u2013 11:00 PM",
+        "Saturday: 10:00 AM \u2013 11:00 PM",
+        "Sunday: 10:00 AM \u2013 11:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.marrybrown.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pusat Perdagangan Pontian, 82000 Pontian Kecil, Johor, Malaysia",
+    "formatted_phone_number": "07-688 3133",
+    "name": "\u7b28\u73cd\u5c0f\u5a18\u60f9\u83dc\u9986 Pontian Baba Nonya Recipe",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 12:00 \u2013 9:00 PM",
+        "Tuesday: 12:00 \u2013 9:00 PM",
+        "Wednesday: 12:00 \u2013 9:00 PM",
+        "Thursday: 12:00 \u2013 9:00 PM",
+        "Friday: 12:00 \u2013 9:00 PM",
+        "Saturday: 12:00 \u2013 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/PontianBabaNyonyaRecipe?ref=page_internal&_rdr"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "66, Jalan Delima 1, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-688 4031",
+    "name": "Secret Recipe Restaurant, Pontian, Johore.",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 11:00 AM \u2013 10:00 PM",
+        "Tuesday: 11:00 AM \u2013 10:00 PM",
+        "Wednesday: 11:00 AM \u2013 10:00 PM",
+        "Thursday: 11:00 AM \u2013 10:00 PM",
+        "Friday: 11:00 AM \u2013 10:00 PM",
+        "Saturday: 11:00 AM \u2013 10:00 PM",
+        "Sunday: 11:00 AM \u2013 10:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.secretrecipe.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No 527 Jalan Kukup Rimba Terjun 82000 Pontian Johor \u98de\u7ffc\u822c\u7f8e\u98df\u5496\u5561\u5e97 \u7b28\u73cd 82000, Pontian Kecil, 12345 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "012-413 9829",
+    "name": "\u592a\u5e73\u53fb\u6c99",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 7:00 AM \u2013 2:00 PM",
+        "Tuesday: 2:00 AM \u2013 2:00 PM",
+        "Wednesday: 7:00 AM \u2013 2:00 PM",
+        "Thursday: Closed",
+        "Friday: 7:00 AM \u2013 2:00 AM",
+        "Saturday: 7:00 AM \u2013 2:00 PM",
+        "Sunday: 7:00 AM \u2013 2:00 PM"
+      ]
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/profile.php?id=345351668998665"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "17, Jalan Sungai Gurap, Taman Kota Emas, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-686 3603",
+    "name": "Pontian Noodle House",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 4:00 PM",
+        "Tuesday: 9:00 AM \u2013 4:00 PM",
+        "Wednesday: 9:00 AM \u2013 4:00 PM",
+        "Thursday: Closed",
+        "Friday: 9:00 AM \u2013 4:00 PM",
+        "Saturday: 9:00 AM \u2013 4:00 PM",
+        "Sunday: 9:00 AM \u2013 4:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/Pontiannoodlehouse"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Malaysia, Johor, Pontian District, Kampung Kubor, 40G, Jalan Emas 2, Pusat Perniagaan Kota Emas, Batu 36\u90ae\u653f\u7f16\u7801: 82000",
+    "formatted_phone_number": "012-710 1286",
+    "name": "86 Corner \u8f6c\u89d2\u5e78\u798f\u7ad9",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 11:30 AM \u2013 10:00 PM",
+        "Tuesday: 11:30 AM \u2013 10:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 11:30 AM \u2013 10:00 PM",
+        "Friday: 11:30 AM \u2013 10:00 PM",
+        "Saturday: 11:30 AM \u2013 10:00 PM",
+        "Sunday: 11:30 AM \u2013 10:00 PM"
+      ]
+    },
+    "rating": 3.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.facebook.com/86corner"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Batu 6, Telok Kerang, Jalan Kukup, Kampung Timor Laut, 82300 Kukup, Johor, Malaysia",
+    "formatted_phone_number": "012-761 4840",
+    "name": "Nang Tomyam",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 5:00 PM \u2013 12:00 AM",
+        "Tuesday: 5:00 PM \u2013 12:00 AM",
+        "Wednesday: 5:00 PM \u2013 12:00 AM",
+        "Thursday: Closed",
+        "Friday: 5:00 PM \u2013 12:00 AM",
+        "Saturday: 5:00 PM \u2013 12:00 AM",
+        "Sunday: 5:00 PM \u2013 12:00 AM"
+      ]
+    },
+    "rating": 3.9,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.facebook.com/nangtomyam"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No.11, Medan Selera Pekan Nanas, Pekan Nanas, 81500 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "016-380 1852",
+    "name": "Selera Kelantan Cikgu Mek",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 6:00 AM \u2013 4:00 PM",
+        "Wednesday: 6:00 AM \u2013 4:00 PM",
+        "Thursday: 6:00 AM \u2013 4:00 PM",
+        "Friday: 6:00 AM \u2013 4:00 PM",
+        "Saturday: 6:00 AM \u2013 4:00 PM",
+        "Sunday: 6:00 AM \u2013 4:00 PM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.facebook.com/NasiKerabuCikguMek"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No. SH31, Jalan Besar, Pekan Nanas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 1045",
+    "name": "KFC Pekan Nenas",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:30 AM \u2013 10:00 PM",
+        "Tuesday: 10:30 AM \u2013 10:00 PM",
+        "Wednesday: 10:30 AM \u2013 10:00 PM",
+        "Thursday: 10:30 AM \u2013 10:00 PM",
+        "Friday: 10:30 AM \u2013 10:00 PM",
+        "Saturday: 10:30 AM \u2013 10:00 PM",
+        "Sunday: 10:30 AM \u2013 10:00 PM"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://kfc.com.my/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Jalan Sawah, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "012-799 1152",
+    "name": "Village Fried Chicken (VFC)",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 7:00 PM",
+        "Tuesday: 10:00 AM \u2013 7:00 PM",
+        "Wednesday: 10:00 AM \u2013 7:00 PM",
+        "Thursday: 10:00 AM \u2013 7:00 PM",
+        "Friday: 10:00 AM \u2013 7:00 PM",
+        "Saturday: 10:00 AM \u2013 7:00 PM",
+        "Sunday: 10:00 AM \u2013 7:00 PM"
+      ]
+    },
+    "rating": 3.9,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "http://www.facebook.com/villagefriedchicken"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "no 5, medan niaga ayer baloi,, ayer baloi, 82100 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "011-1471 7251",
+    "name": "warisan tiga abdul",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 7:00 PM \u2013 1:00 AM",
+        "Tuesday: 7:00 PM \u2013 1:00 AM",
+        "Wednesday: 7:00 PM \u2013 1:00 AM",
+        "Thursday: 7:00 PM \u2013 1:00 AM",
+        "Friday: 7:00 PM \u2013 1:00 AM",
+        "Saturday: 7:00 PM \u2013 1:00 AM",
+        "Sunday: 7:00 PM \u2013 1:00 AM"
+      ]
+    },
+    "rating": 3.9,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "lot ptd 4642,no 6 kg jerom choh barat,, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 1267",
+    "name": "pekan nanas seafood village",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:30 AM \u2013 11:00 PM",
+        "Tuesday: 10:30 AM \u2013 11:00 PM",
+        "Wednesday: 10:30 AM \u2013 11:00 PM",
+        "Thursday: 10:30 AM \u2013 11:00 PM",
+        "Friday: 10:30 AM \u2013 11:00 PM",
+        "Saturday: 10:30 AM \u2013 11:00 PM",
+        "Sunday: 10:30 AM \u2013 11:00 PM"
+      ]
+    },
+    "rating": 3.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://m.facebook.com/%E5%8C%97%E5%B9%B2%E9%82%A3%E9%82%A3%E5%AE%B6%E4%B9%A1%E6%B5%B7%E9%B2%9C%E5%9B%AD%E9%92%93%E8%99%BE%E4%BC%91%E9%97%B2%E4%B8%AD%E5%BF%83-pekan-nanas-seafood-village-1109036415833718/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Lebuhraya Skudai - Pontian, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "019-731 5778",
+    "name": "Rekreasi Kolam Lan Dayun Trading",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM \u2013 2:00 AM",
+        "Wednesday: 10:00 AM \u2013 2:00 AM",
+        "Thursday: 10:00 AM \u2013 2:00 AM",
+        "Friday: 10:00 AM \u2013 2:00 AM",
+        "Saturday: 10:00 AM \u2013 2:00 AM",
+        "Sunday: 10:00 AM \u2013 12:00 AM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Bt24,, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "012-752 5832",
+    "name": "Kolam Pancing Lan Dayun Trading",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 10:00 AM \u2013 2:00 AM",
+        "Tuesday: 10:00 AM \u2013 2:00 AM",
+        "Wednesday: 10:00 AM \u2013 2:00 AM",
+        "Thursday: 10:00 AM \u2013 2:00 AM",
+        "Friday: 10:00 AM \u2013 2:00 AM",
+        "Saturday: 10:00 AM \u2013 2:00 AM",
+        "Sunday: 10:00 AM \u2013 12:00 AM"
+      ]
+    },
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "LOT 15315, MUKIM JERAM BATU Pekan Nenas, Ulu Choh, 81500 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "018-367 4688",
+    "name": "Yummy Nasi Lemak House Ulu Choh",
+    "rating": 2.8,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]
