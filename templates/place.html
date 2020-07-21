@@ -16,7 +16,7 @@
         <!-- Material Design Bootstrap -->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
 
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
+        <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">  -->
 
         <title> {{ type }} </title>
     </head>
@@ -29,6 +29,7 @@
             <section class="px-md-5 mx-md-5 py-5 text-center white-text elegant-color z-depth-1 rounded">
         
               <h3 class="">Made with <i class="fa fa-heart red-text mx-1"></i> by MDB</h3>
+              <a class="btn" type="button" href="/"> Home </a>
         
             </section>
             <!--Section: Content-->
@@ -36,49 +37,40 @@
         
         </div>
 
-        <div class="row"> 
-            <div class="column col-sm-4">
-                <!-- Card -->
+        <div class="row" style="margin: auto;">
+            {% for i in range(length)%}
+            <div class="column col-sm-3" style="padding: 1%; margin-left: auto;">
                 <div class="card booking-card">
-                    <!-- Card image -->
                     <div class="view overlay">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/8-col/img (5).jpg" alt="Card image cap">
-                    <a href="#!">
+                    <img class="card-img-top" src="data:image/jpg;base64, {{ placeList[i]['photo'] }}" alt="No image found" onerror=this.src="/static/image/altImg.png">
+                    <a href="data:image/jpg;base64, {{ placeList[i]['photo'] }}">
                         <div class="mask rgba-white-slight"></div>
                     </a>
                     </div>
-                
-                    <!-- Card content -->
                     <div class="card-body">
-                
-                    <!-- Title -->
-                    <h4 class="card-title font-weight-bold"><a> {{ placeList[0]['name'] }} </a></h4>
-                    <!-- Data -->
+                    {% if placeList[i]['website'] %}
+                        <h4 class="card-title font-weight-bold"><a href="{{ placeList[i]['website'] }}" target="_blank"> {{ placeList[i]['name'] }} </a></h4>
+                    {% else %}
+                        <h4 class="card-title font-weight-bold"><a href="#"> {{ placeList[i]['name'] }} </a></h4>
+                    {% endif %}
                     <ul class="list-unstyled list-inline rating mb-0">
                         <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
                         <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
                         <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
                         <li class="list-inline-item mr-0"><i class="fa fa-star-half-o amber-text"></i></li>
                         <li class="list-inline-item"><i class="fa fa-star-o amber-text"></i></li>
-                        <li class="list-inline-item"><p class="text-muted">{{ placeList[0]['rating'] }} Rating</p></li>
+                        <li class="list-inline-item"><p class="text-muted">{{ placeList[i]['rating'] }} ({{ placeList[i]['user_ratings_total']}})</p></li>
                     </ul>
-                    <p class="mb-2">{{ placeList[0]['types'][0].capitalize() }}</p>
-                    <!-- Text -->
-                    <p class="card-text">Address: {{ placeList[0]['formatted_address'] }}</p>
+                    <p class="mb-2">{{ placeList[i]['types'][0].capitalize() }}</p>
+                    <p class="card-text">Address: {{ placeList[i]['formatted_address'] }}</p>
                     <hr class="my-4">
-                    <p> Website: <a href="{{ placeList[0]['website'] }}">{{ placeList[0]['website'] }}</a> </p>
+                    <p> Another text content here </p>
                     </div>
                 </div>
-                <!-- Card -->
             </div>
-
-            </div>
+            {% endfor %}
 
         </div>
-
-
-
-
 
         
         

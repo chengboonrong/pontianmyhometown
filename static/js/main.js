@@ -1,14 +1,17 @@
 // Tooltips Initialization
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
+  console.log(check())
 })
 
-// get user location
-if(!navigator.geolocation) {
-  status.textContent = 'Geolocation is not supported by your browser';
-} else {
-  status.textContent = 'Locating…';
-  navigator.geolocation.getCurrentPosition(success, error);
+const check = () => {
+  // get user location
+  if(!navigator.geolocation) {
+    status.textContent = 'Geolocation is not supported by your browser';
+  } else {
+    status.textContent = 'Locating…';
+    navigator.geolocation.getCurrentPosition(success, error);
+  }
 }
 
 function success(position) {
@@ -16,8 +19,11 @@ function success(position) {
   const longitude = position.coords.longitude;
   if (latitude - 1.4988958 > 1 || latitude - 1.4988958 < -1  && longitude - 103.3761729 > 1 || longitude - 103.3761729 < -1) {
     console.log("You are not in Pontian area, please come back home >.< "); // send notification if the person is not in Pontian area
+    return true;
   }
-  // if latitude
+  else {
+    return false;
+  }
 }
 
 function error() {

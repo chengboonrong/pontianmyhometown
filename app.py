@@ -31,7 +31,7 @@ def home():
 
     cor = round(rain_clf.predict(np.array(weather_data).reshape(1, -1))[0], 1)
 
-    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p.capitalize() for p in placeTypes])
+    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p for p in placeTypes])
 
 @app.route('/test')
 def test():
@@ -43,9 +43,9 @@ def getPlaces(placeType):
         with open(f'./data/{placeType}.txt', 'r') as file_:
             data = json.load(file_)
             places = [d for d in data]
-            print(places[0])
+            # print(places[0]['photo'])
 
-        return render_template('place.html', type=str(placeType).capitalize(), placeList=places)
+        return render_template('place.html', type=str(placeType).capitalize(), placeList=places, length=len(places))
     
     else:
         abort(404)
