@@ -9,8 +9,7 @@ import os
 
 global graph
 graph = tf.get_default_graph() 
-# RandomForest model to predict flood and rain
-flood_clf = pickle.load(open('./models/my_flood_model.sav', 'rb'))
+# RandomForest model to predict rain
 rain_clf = pickle.load(open('./models/my_rain_model.sav', 'rb'))
 
 app = Flask(__name__)
