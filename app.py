@@ -20,7 +20,7 @@ API_URL = 'http://api.openweathermap.org/data/2.5/weather?q=Pontian,my&appid=e35
 # API_KEY = 'e357f3a75f4a8d5c96ccb0742cccdc27'
 # raw_data = requests.get(API_URL).json()
 # print(raw_data)
-placeTypes = ['atm', 'cafe', 'convenience_store', 'pharmacy', 'restaurant', 'school', 'nothing']
+placeTypes = ['atm', 'cafe', 'convenience_store', 'pharmacy', 'restaurant', 'school', 'nothing', 'hello']
 
 @app.route('/')
 def home():
