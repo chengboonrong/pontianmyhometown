@@ -1,0 +1,101 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"> -->
+        <!-- Google Fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+        <!-- Bootstrap core CSS -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Material Design Bootstrap -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
+
+        <title> {{ type }} </title>
+    </head>
+    
+    <body>
+        <div class="container my-5">
+
+ 
+            <!--Section: Content-->
+            <section class="px-md-5 mx-md-5 py-5 text-center white-text elegant-color z-depth-1 rounded">
+        
+              <h3 class="">Made with <i class="fa fa-heart red-text mx-1"></i> by MDB</h3>
+        
+            </section>
+            <!--Section: Content-->
+        
+        
+        </div>
+
+        <div class="row"> 
+            <div class="column col-sm-4">
+                <!-- Card -->
+                <div class="card booking-card">
+                    <!-- Card image -->
+                    <div class="view overlay">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/8-col/img (5).jpg" alt="Card image cap">
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+                
+                    <!-- Card content -->
+                    <div class="card-body">
+                
+                    <!-- Title -->
+                    <h4 class="card-title font-weight-bold"><a> {{ placeList[0]['name'] }} </a></h4>
+                    <!-- Data -->
+                    <ul class="list-unstyled list-inline rating mb-0">
+                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fa fa-star-half-o amber-text"></i></li>
+                        <li class="list-inline-item"><i class="fa fa-star-o amber-text"></i></li>
+                        <li class="list-inline-item"><p class="text-muted">{{ placeList[0]['rating'] }} Rating</p></li>
+                    </ul>
+                    <p class="mb-2">{{ placeList[0]['types'][0].capitalize() }}</p>
+                    <!-- Text -->
+                    <p class="card-text">Address: {{ placeList[0]['formatted_address'] }}</p>
+                    <hr class="my-4">
+                    <p> Website: <a href="{{ placeList[0]['website'] }}">{{ placeList[0]['website'] }}</a> </p>
+                    </div>
+                </div>
+                <!-- Card -->
+            </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        
+        
+
+    
+    </body>
+
+    <!-- Optional JavaScript -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Main.js -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+
+</html>

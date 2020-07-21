@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <!-- Google AdSense -->
-    <script data-ad-client="ca-pub-6505700221260107" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- <script data-ad-client="ca-pub-6505700221260107" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+    
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <!-- Google Fonts -->
@@ -15,18 +15,18 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
-
+    <!-- Main.css -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
       
-    <!-- start webpushr code --> 
-    <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;
+    <!-- start webpushr code for notification --> 
+    <!-- <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;
     w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};
     var js, fjs = d.getElementsByTagName(s)[0];
     js = d.createElement(s); 
     js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
     fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
     webpushr('setup',{'key':'BDQqHmMEqyIuOZXEW_mXMaPVR7ShOUawalAmEZ3jdDKcEMQmrdNA0DjvCsSFfxdEcd1cr1UiKi3DeJbB_DioViU' });
-    </script>
+    </script> -->
     <!-- end webpushr code -->
 
 
@@ -65,8 +65,66 @@
                 <p class="card-text">Mostly {{raw['weather'][0]['main']}}, there is a {{ cor }}% chance of rain</p>
             </div>
         </div>
-
         <hr style="width:100%;text-align:left;margin-left:0">
+
+        {% for t in types %}
+          <a href="{{ url_for('getPlaces', placeType=t) }}"> {{ t }} </a> -
+        {% endfor %}
+
+        <!--
+        <h4> Some questions for you 😎 </h4>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+          Click me
+        </button>
+
+        The Modal
+        <div class="modal fade" id="myModal">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+            
+              Modal Header
+              <div class="modal-header">
+                <h4 class="modal-title">Modal Heading</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </div>
+              
+              Modal body
+              <div class="modal-body">
+                Modal body..
+              </div>
+              
+              Modal footer
+              <div class="modal-footer">
+                <button id="btn" type="submit" class="btn btn-danger" data-dismiss="modal" data-toggle="modal" data-target="#thankModal">Submit</button>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="thankModal">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+            
+              Modal Header
+              <div class="modal-header">
+                <h4 class="modal-title">Submitted!</h4>
+              </div>
+              
+              Modal body
+              <div class="modal-body">
+                Thank you for your sharing !
+              </div>
+              
+              Modal footer
+              <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+              </div>
+              
+            </div>
+          </div>
+        </div> 
+      -->
 
     </div>
 
@@ -81,7 +139,7 @@
 
     </footer>
     <!-- Footer -->    
-    
+
     <!-- Optional JavaScript -->
     <!-- JQuery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

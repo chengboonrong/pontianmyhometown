@@ -1,9 +1,10 @@
-from flask import Flask, render_template, request, jsonify, url_for
+from flask import Flask, render_template, request, jsonify, url_for, abort
 import requests
 import json
 import pickle
 import numpy as np
 import tensorflow as tf
+import os
 
 
 global graph
@@ -20,6 +21,7 @@ API_URL = 'http://api.openweathermap.org/data/2.5/weather?q=Pontian,my&appid=e35
 # API_KEY = 'e357f3a75f4a8d5c96ccb0742cccdc27'
 # raw_data = requests.get(API_URL).json()
 # print(raw_data)
+placeTypes = ['atm', 'cafe', 'convenience_store', 'pharmacy', 'restaurant', 'school', 'nothing']
 
 @app.route('/')
 def home():
@@ -30,11 +32,30 @@ def home():
 
     cor = round(rain_clf.predict(np.array(weather_data).reshape(1, -1))[0], 1)
 
-    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor)
+    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p.capitalize() for p in placeTypes])
 
 @app.route('/test')
 def test():
     return render_template('index.html')
+
+@app.route('/<placeType>')
+def getPlaces(placeType):
+    if os.path.isfile(f'./data/{placeType}.txt'):
+        with open(f'./data/{placeType}.txt', 'r') as file_:
+            data = json.load(file_)
+            places = [d for d in data]
+            print(places[0])
+
+        return render_template('place.html', type=str(placeType).capitalize(), placeList=places)
+    
+    else:
+        abort(404)
+
+@app.errorhandler(404)
+def page_not_found(e):
+    # note that we set the 404 status explicitly
+    return render_template('404.html'), 404
+
 
 if __name__ == '__main__':
    app.run(debug=True, host='0.0.0.0')
