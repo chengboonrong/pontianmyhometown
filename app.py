@@ -31,7 +31,12 @@ def home():
 
     cor = round(rain_clf.predict(np.array(weather_data).reshape(1, -1))[0], 1)
 
-    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p for p in placeTypes])
+    with open('./data/pontianCity.txt', 'r') as file_:
+            data = json.load(file_)
+            mapCities = [c for c in data]
+            # print(mapCities[0])
+
+    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p for p in placeTypes], mapCities=mapCities)
 
 @app.route('/test')
 def test():
@@ -44,6 +49,8 @@ def getPlaces(placeType):
             data = json.load(file_)
             places = [d for d in data]
             # print(places[0]['photo'])
+
+
 
         return render_template('place.html', type=str(placeType).capitalize(), placeList=places, length=len(places))
     

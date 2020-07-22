@@ -1,15 +1,17 @@
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-    position: relative;
-    min-height: 100%;
-}
+html,
 body {
-    margin-bottom: 10px; /* Margin bottom by footer height */
+    height: 100%;
 }
 
+#map {
+    height: 50%;
+    width: 75%;
+    margin: auto;
+    padding: 1%;
+  }
+
 .page-footer {
-    position: absolute;
+    margin-top: 5%;
     bottom: 0;
     width: 100%;
 }
@@ -17,4 +19,8 @@ body {
 .hero {
     background-image: url('../pontian_beach.jpg'); background-size:cover;
     color: #fff;
+}
+
+.place {
+    place-content: center;
 }

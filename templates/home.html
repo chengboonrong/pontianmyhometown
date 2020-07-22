@@ -4,6 +4,62 @@
     <!-- Google AdSense -->
     <!-- <script data-ad-client="ca-pub-6505700221260107" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
     
+    <!-- Main.css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
+    <!-- Google Maps API -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKqSLy4MMxiNwEXSPqpomf7m94-pSTzk4&callback=initMap&libraries=&v=weekly" async defer></script>
+    <script>
+      (function(exports) {
+        "use strict";
+
+        function getmapCities(mapCities){
+            return mapCities
+        };
+
+        function addMarker(city, map) {
+          var infowindow = new google.maps.InfoWindow({
+              content: city['annotation']
+            });
+
+            var marker = new google.maps.Marker({
+              position: {lat: city['latlng'][0], lng: city['latlng'][1]},
+              map: map,
+              title: city['city']
+            });
+
+            marker.addListener('click', function() {
+              infowindow.open(map, marker);
+            });
+        }
+
+        function initMap() {
+          var myLatLng = {lat: 1.485561, lng: 103.387856};
+          exports.map = new google.maps.Map(document.getElementById("map"), {
+            center: myLatLng,
+            zoom: 10,
+            disableDefaultUI: true
+          });
+
+          map.data.loadGeoJson("{{ url_for('static', filename='map.geojson')}}");
+          map.data.setStyle({
+            fillColor: 'green',
+            strokeWeight: 2
+          });
+
+          var cities = getmapCities({{ mapCities|tojson }});
+          // console.log(cities.length);  
+
+          for (var i = 0; i < cities.length; i++) {
+            addMarker(cities[i], map)
+          }
+         
+        }
+
+        exports.initMap = initMap;
+      })((this.window = this.window || {}));
+    
+    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,19 +71,6 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
-    <!-- Main.css -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
-      
-    <!-- start webpushr code for notification --> 
-    <!-- <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;
-    w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};
-    var js, fjs = d.getElementsByTagName(s)[0];
-    js = d.createElement(s); 
-    js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
-    fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
-    webpushr('setup',{'key':'BDQqHmMEqyIuOZXEW_mXMaPVR7ShOUawalAmEZ3jdDKcEMQmrdNA0DjvCsSFfxdEcd1cr1UiKi3DeJbB_DioViU' });
-    </script> -->
-    <!-- end webpushr code -->
 
 
     <title> PONTIAN </title>
@@ -38,9 +81,8 @@
         <p> <!-- Today's weather forecast --></p>    
     </div>
     
-    <main role="main" class="container">
+    <div class="container">
         <div class="card weather-card">
-
             <!-- Card content -->
             <div class="card-body pb-3">
 
@@ -64,12 +106,21 @@
                 </div>
                 <p class="card-text">Mostly {{raw['weather'][0]['main']}}, there is a {{ cor }}% chance of rain</p>
             </div>
-        </div>
-        <hr style="width:100%;text-align:left;margin-left:0">
+          </div>
+          
+      <hr style="width:100%;text-align:left;margin-left:0">
 
         {% for t in types %}
-        <a href="{{ url_for('getPlaces', placeType=t) }}"> {{ t.capitalize() }} </a> -
+        <a class="place" href="{{ url_for('getPlaces', placeType=t) }}"> {{ t.capitalize() }} </a> -
         {% endfor %}
+
+    </div>
+
+    <div id="map"></div>
+
+
+
+
 
         <!--
         <h4> Some questions for you 😎 </h4>
@@ -125,8 +176,6 @@
           </div>
         </div> 
       -->
-
-    </main>
 
     <!-- Optional JavaScript -->
     <!-- JQuery -->
