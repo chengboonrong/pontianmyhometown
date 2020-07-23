@@ -25,12 +25,22 @@
             var marker = new google.maps.Marker({
               position: {lat: city['latlng'][0], lng: city['latlng'][1]},
               map: map,
+              animation: google.maps.Animation.DROP,
               title: city['city']
             });
 
             marker.addListener('click', function() {
+              toggleBounce();
               infowindow.open(map, marker);
             });
+        }
+
+        function toggleBounce() {
+          if (marker.getAnimation() !== null) {
+            marker.setAnimation(null);
+          } else {
+            marker.setAnimation(google.maps.Animation.BOUNCE);
+          }
         }
 
         function initMap() {

@@ -1,0 +1,35 @@
+{
+    "cities": 
+    {
+        "Benut": {
+            "latlng": [1.6495, 103.2586],
+            "annotation": "Benut is a small town in Johor. It is located to the north of Pontian Kechil, and is within the Pontian District. Benut was named after asam benut, a local tree. \n Located at the confluence of Sungai Benut and Sungai Pinggan, Benut does not have much in terms of tourist attractions. The main road in town is Jalan Jaafar."
+        },
+        "Pontian": {
+            "latlng": [1.485561, 103.387856],
+            "annotation": "Pontian is a town on the southwestern part of Johor. There are in fact two towns by that name, Pontian Kechil and Pontian Besar to the north of it. In general, Pontian refers to Pontian Kechil, which is the administrative centre for Pontian District. Both towns are named after the rivers that flow through them, Sungai Pontian Kechil and Sungai Pontian Besar. The area that is today Pontian was settled by Malay, Bugis and Javanese settlers. According to the Kesultanan Johor blog, in the past, the area was known as Kukup or Kukub, after the town that is today part of Pontian District.1 The name Pontian itself is said to have been a corruption of \"Perhentian\". It refers to pirate hideouts in the estuaries of the two rivers. During bad weather, ships would enter the estuaries to seek shelter, and there, they would be ambushed by the pirates. The main road through Pontian District is called Jalan Alsagoff. Now part of Federal Route 5, this road was named after Tuan Syed Muhamad Alsagoff, an Arab merchant from Singapore who arrived in the area in 1878 and developed it for agriculture."
+        },
+        "Kukup": {
+            "latlng": [1.3269, 103.4460],
+            "annotation": "Kukup is a small fishing village in Pontian District, on the southwest part of Johor. It is on the west coast of Johor, about 40 km from Johor Bahru. In the past decade, Kukup has become a tourist destination attracting visitors from Johor Bahru and Singapore who come to view the rural way of life. A number of seafood restaurants have been established here to cash in on the influx of tourists to Kukup. Many of these restaurants are built on stilt above the water. The village of Kukup is located on the coast overlooking Pulau Kukup, an island off the coast."
+        },
+        "Tanjung Piai": {
+            "latlng": [1.2665, 103.5111],
+        "annotation": "Tanjung Piai is a promontory which is the southernmost part of the Asian continent. It is located in the Pontian District, some 80 km from Johor Bahru. The area is mostly wetlands. There are five rivers that flow through it. To preserve the environment, the mangrove swamps around Tanjung Piai was gazetted as the Tanjung Piai National Park."
+        },
+        "Pulau Kukup": {
+            "latlng": [1.3219, 103.4252],
+            "annotation": ""
+        },
+        "Teluk Kerang":{
+            "latlng": [1.4155, 103.4244],
+            "annotation": ""
+        },
+        "Pekan Nanas": {
+            "latlng": [1.5076, 103.5125],
+            "annotation": "Pekan Nanas is a small town in Pontian District, Johor. The town got its name from the pineapple industry. Its name Pekan Nanas means \"Pineapple Village\". It is not surprising that there is a pineapple canning facility in town. The landmark of Pekan Nanas is a giant-size pineapple."
+ 
+        }
+    } 
+}
+    

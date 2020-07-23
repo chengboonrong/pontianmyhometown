@@ -1,7 +1,6 @@
 // Tooltips Initialization
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
-  console.log(check())
 })
 
 const check = () => {
@@ -30,12 +29,12 @@ function error() {
   console.log('Unable to retrieve your location');
 }
 
-$('#btn').submit(function(e) {
-  e.preventDefault();
-  // Coding
-  $('#thankModel').modal('toggle'); //or  $('#IDModal').modal('hide');
-  return false;
-});
+// $('#btn').submit(function(e) {
+//   e.preventDefault();
+//   // Coding
+//   $('#thankModel').modal('toggle'); //or  $('#IDModal').modal('hide');
+//   return false;
+// });
 
 // if ('serviceWorker' in navigator && 'PushManager' in window) {
 //   console.log('Service Worker and Push are supported');

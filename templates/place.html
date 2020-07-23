@@ -42,8 +42,8 @@
             <div class="column col-sm-3" style="padding: 1%; margin-left: auto;">
                 <div class="card booking-card">
                     <div class="view overlay">
-                    <img class="card-img-top" src="data:image/jpg;base64, {{ placeList[i]['photo'] }}" alt="No image found" onerror=this.src="/static/image/altImg.png">
-                    <a href="data:image/jpg;base64, {{ placeList[i]['photo'] }}">
+                    <img class="card-img-top" src="http://localhost:5002/{{ placeList[i]['photo']}}" alt="No image found" onerror=this.src="/static/image/altImg.png">
+                    <a href="http://localhost:5002/{{ placeList[i]['photo']}}">
                         <div class="mask rgba-white-slight"></div>
                     </a>
                     </div>
