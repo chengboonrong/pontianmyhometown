@@ -44,8 +44,8 @@ def test():
 
 @app.route('/<placeType>')
 def getPlaces(placeType):
-    if os.path.isfile(f'./data/{placeType}.json'):
-        with open(f'./data/{placeType}.json', 'r') as file_:
+    if os.path.isfile(f'./data/{placeType}.txt'):
+        with open(f'./data/{placeType}.txt', 'r') as file_:
             data = json.load(file_)
             places = [d for d in data]
             # print(places[0]['photo'])
