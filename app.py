@@ -3,14 +3,13 @@ import requests
 import json
 import pickle
 import numpy as np
-import tensorflow as tf
 import os
 
-
-global graph
-graph = tf.get_default_graph() 
-# RandomForest model to predict rain
-rain_clf = pickle.load(open('./models/my_rain_model.sav', 'rb'))
+# import tensorflow as tf
+# global graph
+# graph = tf.get_default_graph() 
+# # RandomForest model to predict rain
+# rain_clf = pickle.load(open('./models/my_rain_model.sav', 'rb'))
 
 app = Flask(__name__)
 app.static_folder = 'static'
@@ -25,18 +24,16 @@ placeTypes = ['atm', 'cafe', 'convenience_store', 'pharmacy', 'restaurant', 'sch
 @app.route('/')
 def home():
     raw_data = requests.get(API_URL).json()
-    # print(raw_data)
     weather_data = [round(raw_data['main']['temp'], 0), raw_data['main']['humidity'], round(raw_data['wind']['speed'] / 1000 * 3600, 1)  , raw_data['visibility'], raw_data['main']['pressure'], raw_data['clouds']['all']]
-    # print(weather_data)
 
-    cor = round(rain_clf.predict(np.array(weather_data).reshape(1, -1))[0], 1)
+    # cor = round(rain_clf.pre  dict(np.array(weather_data).reshape(1, -1))[0], 1)
 
-    with open('./data/pontianCity.txt', 'r') as file_:
+    with open('./data/pontianCity.json', 'r') as file_:
             data = json.load(file_)
-            mapCities = [c for c in data]
+            mapCities = [c for c in data['cities']]
             # print(mapCities[0])
 
-    return render_template('home.html', raw=raw_data ,data=weather_data, cor=cor, types=[p for p in placeTypes], mapCities=mapCities)
+    return render_template('home.html', raw=raw_data ,data=weather_data, cor="cor", types=[p for p in placeTypes], mapCities=mapCities)
 
 @app.route('/test')
 def test():

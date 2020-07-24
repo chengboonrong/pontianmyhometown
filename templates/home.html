@@ -30,12 +30,12 @@
             });
 
             marker.addListener('click', function() {
-              toggleBounce();
+              toggleBounce(marker);
               infowindow.open(map, marker);
             });
         }
 
-        function toggleBounce() {
+        function toggleBounce(marker) {
           if (marker.getAnimation() !== null) {
             marker.setAnimation(null);
           } else {
@@ -58,9 +58,10 @@
           });
 
           var cities = getmapCities({{ mapCities|tojson }});
-          // console.log(cities.length);  
+          // console.log(cities[0]);  
 
           for (var i = 0; i < cities.length; i++) {
+            // console.log(cities[i]);
             addMarker(cities[i], map)
           }
          
