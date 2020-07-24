@@ -9,7 +9,7 @@
     <!-- Google Maps API -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKqSLy4MMxiNwEXSPqpomf7m94-pSTzk4&callback=initMap&libraries=&v=weekly" async defer></script>
-    <script>
+    <script type='text/javascript'>
       (function(exports) {
         "use strict";
 
@@ -33,7 +33,7 @@
               toggleBounce(marker);
               infowindow.open(map, marker);
             });
-        }
+        };
 
         function toggleBounce(marker) {
           if (marker.getAnimation() !== null) {
@@ -41,7 +41,7 @@
           } else {
             marker.setAnimation(google.maps.Animation.BOUNCE);
           }
-        }
+        };
 
         function initMap() {
           var myLatLng = {lat: 1.485561, lng: 103.387856};
@@ -57,7 +57,7 @@
             strokeWeight: 2
           });
 
-          var cities = getmapCities({{ mapCities|tojson }});
+          var cities = getmapCities({{mapCities|tojson}});
           // console.log(cities[0]);  
 
           for (var i = 0; i < cities.length; i++) {
@@ -65,7 +65,7 @@
             addMarker(cities[i], map)
           }
          
-        }
+        };
 
         exports.initMap = initMap;
       })((this.window = this.window || {}));
@@ -120,10 +120,13 @@
           </div>
           
       <hr style="width:100%;text-align:left;margin-left:0">
+      
+    </div>
 
-        {% for t in types %}
-        <a class="place" href="{{ url_for('getPlaces', placeType=t) }}"> {{ t.capitalize() }} </a> -
-        {% endfor %}
+    <div class="city text-center">
+      {% for c in cities %}
+        <a class="btn place grey" href="{{ url_for('getCity', city=c) }}"> {{ c.capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
+      {% endfor %}
 
     </div>
 

@@ -1,0 +1,1867 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.50856,
+                "lng": 103.50845
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509941030291502,
+                    "lng": 103.5098072802915
+                },
+                "southwest": {
+                    "lat": 1.507243069708498,
+                    "lng": 103.5071093197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "73f75695f6e5a1cdcb708272c2efc023911f56f9",
+        "name": "Toilet",
+        "place_id": "ChIJNXGC26-f0DERp0bW8W1QmpM",
+        "plus_code": {
+            "compound_code": "GG55+C9 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG55+C9"
+        },
+        "reference": "ChIJNXGC26-f0DERp0bW8W1QmpM",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Mobil, MLO 2361, Jalan Johor, Pekan Nanas"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.518149,
+                    "lng": 103.5183948
+                },
+                "southwest": {
+                    "lat": 1.503301,
+                    "lng": 103.5057769
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "06733913019bd882dc00538c45581b61380e23c3",
+        "name": "Pekan Nanas",
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/115153777239286990455\"\u003ewjs William\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAWFHMQRLmn_MouxATTDFUdblrMr7ygjLb3sVWjs36uUX3gJVaZrZraq_-KIpDy37kTffGg2PhM0OhxqOAih7fKxPm0FjKjrMlrdPAqQWKusRbM9tmnhTI5L21f23R1dpSEhBmBOKI_GsVOPthFwhGZhbcGhRMIzLfo7LVpRfBctOYt9D26nOCPA",
+                "width": 2176
+            }
+        ],
+        "place_id": "ChIJVwKmILef0DERbneIXD_xaOg",
+        "reference": "ChIJVwKmILef0DERbneIXD_xaOg",
+        "scope": "GOOGLE",
+        "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+        ],
+        "vicinity": "Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5082877,
+                "lng": 103.5099761
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509568630291502,
+                    "lng": 103.5113063302915
+                },
+                "southwest": {
+                    "lat": 1.506870669708498,
+                    "lng": 103.5086083697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "85b76fdbddb18ade3c150e71751cd0e551a79f41",
+        "name": "Hijrah Permata HQ",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/102929507111653196751\"\u003eHijrah Permata HQ\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAvTMtJbAHBVz-cwgWm1PP5TRov_xYJfMi1VTajqVCcqfSyu5y2IU0i5I6xk7egJg_hxC2d50KWrevnbZvnnJQVcf0VEOhB3CLAePFpAanB_-StRw8mHzFUIeBol9_olsHEhCqDw5A758gDQ1sKdkXsqTAGhSACHfSPwB_0mTue-n2B0tsjd2Egw",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJlTkvvuNy2jERmofzxNoLBUI",
+        "plus_code": {
+            "compound_code": "GG55+8X Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG55+8X"
+        },
+        "reference": "ChIJlTkvvuNy2jERmofzxNoLBUI",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH-146, Jalan Besar, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.504983,
+                "lng": 103.51122
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.506364630291502,
+                    "lng": 103.5125777802915
+                },
+                "southwest": {
+                    "lat": 1.503666669708498,
+                    "lng": 103.5098798197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d21745ac45fa52f3a501906b4c3b7b532aec6f0b",
+        "name": "Roticoin Marketing",
+        "photos": [
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/101613919223592120340\"\u003eKit Kee Chen\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAA0A_Efd_P2ItbyKvOSk0xBJM3CVKuVSgWybys_VDiVk_1IdsrzsMUW7Hm-aNH354gbbciDlDI9upUkaUy-doWeDnEd5Rw4TC_w64DoRwXQHI1yStWawz9JBgMiG8OdolnEhD6Dt_Tkt0f8IoPDckK6oqfGhRQb3RkN8zC-WQFu_gqyYOOCo5X3Q",
+                "width": 3096
+            }
+        ],
+        "place_id": "ChIJcWan_Lqf0DERjhxOV4J1_fo",
+        "plus_code": {
+            "compound_code": "GG36+XF Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG36+XF"
+        },
+        "rating": 1,
+        "reference": "ChIJcWan_Lqf0DERjhxOV4J1_fo",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "No. 132, Jalan Utama 4, Taman Utama, Johor, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.508074,
+                "lng": 103.510608
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509376480291502,
+                    "lng": 103.5119449302915
+                },
+                "southwest": {
+                    "lat": 1.506678519708498,
+                    "lng": 103.5092469697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "b667d34ec033e260acdfcd5515dea2a6ceeeadf8",
+        "name": "Chee Kee Store",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/116344778739579644824\"\u003eFung Hwang\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAnF56RJ5Ow4y94IoTolNoEjr1M2wE8RmGBuWl9FUpfHmD4wgsyPQEFp00DQ4sngCZDL3sSobsVSfk1KwmrinhzBmJgN0_09bXjdGJsUk2izB6NEmY0-c6tVdP-Wi2d3QwEhAXAruKQiB87QDXGfLncLa7GhShbZwdlkADOfWBFNtlq8vu4K1E6w",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ6ZRlj8qf0DERChUUlEbmBm8",
+        "plus_code": {
+            "compound_code": "GG56+66 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+66"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ6ZRlj8qf0DERChUUlEbmBm8",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 30,
+        "vicinity": "SH-137, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5081103,
+                "lng": 103.5103325
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509398230291502,
+                    "lng": 103.5116677802915
+                },
+                "southwest": {
+                    "lat": 1.506700269708498,
+                    "lng": 103.5089698197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "61eaa2c7982020e1584b9e285aa2451edc5f1606",
+        "name": "Hijrah Permata Pekan Nanas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/105538770478287008107\"\u003eHijrah Permata Pekan Nanas\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAr0Ci7V6cMMwOrgGAtR7cx2gfHpNEBLWfm8LQAvCUN_lFASLoU56XoswfxgwPDpQ_2XirB8FRtG-e572RrIK4DfR-nGzhfw6yoj_hzjHH9xHF1fBN1ped5Fzhzu0vQQwlEhCQRojYXRF6CJ2-9Zll4JhsGhT-uVOIlIf2Gn_pnyRgO2WVJ2ct_Q",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJV4L6FbCf0DER0SxHa_8mTWs",
+        "plus_code": {
+            "compound_code": "GG56+64 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+64"
+        },
+        "rating": 5,
+        "reference": "ChIJV4L6FbCf0DER0SxHa_8mTWs",
+        "scope": "GOOGLE",
+        "types": [
+            "doctor",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "Wisma Haji Ibrahim SH, 146, Jalan Besar, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5076748,
+                "lng": 103.5120426
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509018130291502,
+                    "lng": 103.5134115802915
+                },
+                "southwest": {
+                    "lat": 1.506320169708498,
+                    "lng": 103.5107136197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "1c370f996f2697e5b984e88b4386b3c3bfb53ea8",
+        "name": "Petron Pekan Nenas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/111136993876059946218\"\u003eSze fong Lee\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAayGpZdxF2Awr1dr7PB7_P85V3thiL6RtVKl1AqRfgiW1YPz3sxnYlWRXhEJe-Brkymtm7sFxM_KHQ69oMJVqkzptnGddL6GEbHO_ddlFbLCN3O3r2k_M0u1piJnbPGV4EhDxg5VAF4wWNNK42CnYXwzhGhTeg-7xPknNt1UcpqvJXDGwd2rAxQ",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJaWTviLCf0DERoPKYQ_xfb1Q",
+        "plus_code": {
+            "compound_code": "GG56+3R Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+3R"
+        },
+        "rating": 3.4,
+        "reference": "ChIJaWTviLCf0DERoPKYQ_xfb1Q",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 61,
+        "vicinity": "Esso, 40a, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5074392,
+                "lng": 103.5107637
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508858180291502,
+                    "lng": 103.5121318802915
+                },
+                "southwest": {
+                    "lat": 1.506160219708498,
+                    "lng": 103.5094339197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+        "id": "3538aab5002fb6dce5132eda3c7e27aba567a88a",
+        "name": "Public Bank Pekan Nenas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/107139609661772878376\"\u003eJock Lee\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAQ909BTpdEEZbYoYbA8thQQt1liJ-FLYIr6otzD0Ol2QHa7XHHHhdmnDXJNzzUl2oYZjux0RbQpV_Xqog0YVLZL_552lAIPBoeBlI6nArQXsYs_z533MuIBzDj3AO2bgOEhCWGi4eVzKKR8eWpX7BoSNVGhQbqXf3SW6vai7cCrjzyHNeKU7Maw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ36TrcLCf0DERLIzXxP5afGs",
+        "plus_code": {
+            "compound_code": "GG46+X8 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG46+X8"
+        },
+        "rating": 4,
+        "reference": "ChIJ36TrcLCf0DERLIzXxP5afGs",
+        "scope": "GOOGLE",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "SH9;;SH10, Jalan Besar, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.50987,
+                "lng": 103.513
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.511232530291502,
+                    "lng": 103.5143531802915
+                },
+                "southwest": {
+                    "lat": 1.508534569708498,
+                    "lng": 103.5116552197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "efa714e99e9c42c1a6a9e662ccb00d40ccacf871",
+        "name": "KlinikTaqwa",
+        "place_id": "ChIJl3iPGbGf0DERlwQOjXh5BXw",
+        "plus_code": {
+            "compound_code": "GG57+W5 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+W5"
+        },
+        "reference": "ChIJl3iPGbGf0DERlwQOjXh5BXw",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Block B, No. 8, MT 663, Pusat Perdagangan, Masjid Tanah, 78300, Masjid Tanah, Melaka"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075188,
+                "lng": 103.5125035
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508832930291502,
+                    "lng": 103.5138433302915
+                },
+                "southwest": {
+                    "lat": 1.506134969708498,
+                    "lng": 103.5111453697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "52b49ba322cf73a70935a6e0b05060be75c511f4",
+        "name": "Motor Sri Maju Parts & Accessories",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 437,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/112044967303674283780\"\u003eKh Lee\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAA5xP11ZbTz-noANVxGpNdjYtcgzQhQjXY7TNtiE8BIAC3A0E58tSdb1YeK6XtulPYt-_P7lxaya0pdV-7mPX6vhHbyfJiF2gPDkcRuE4Rx-SK6HOseMHVBNl6-uTY6zjHEhA9oWtDu4m0GPx4_DWHueK5GhQwzzl0DRHhl8WZujdVBqcm4D63kA",
+                "width": 583
+            }
+        ],
+        "place_id": "ChIJOd9dwsqf0DERUqNSPDiW33o",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "rating": 4.1,
+        "reference": "ChIJOd9dwsqf0DERUqNSPDiW33o",
+        "scope": "GOOGLE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "SH45, Jalan Besar, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.508211,
+                "lng": 103.5125476
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509518580291502,
+                    "lng": 103.5138852802915
+                },
+                "southwest": {
+                    "lat": 1.506820619708498,
+                    "lng": 103.5111873197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/post_office-71.png",
+        "id": "38a476b746c84362cf7a8c9cd15178d72aece2fb",
+        "name": "Pos Malaysia Pekan Nanas",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJYcnjHLqf0DERCHpVqONe6UY",
+        "plus_code": {
+            "compound_code": "GG57+72 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+72"
+        },
+        "rating": 2.3,
+        "reference": "ChIJYcnjHLqf0DERCHpVqONe6UY",
+        "scope": "GOOGLE",
+        "types": [
+            "post_office",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "JKR1249, Jalan Pasar Lama, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5082701,
+                "lng": 103.5115364
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509678380291502,
+                    "lng": 103.5129010802915
+                },
+                "southwest": {
+                    "lat": 1.506980419708498,
+                    "lng": 103.5102031197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+        "id": "6a011153d3f635cb3a5dd3910d57607aae1e657c",
+        "name": "Faspadu Sdn Bhd",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/108365415864891501753\"\u003eAdrian Ng\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAXpT3fCvnyZ78DNyhp5rxx2doHA1zc2K_F6f0_KH43Fu0es2ryxVMLOUpO1QOySsbzo4Lh5p2FgJ6iGjDGLKlDGpzkfYSur-UYfjrU_a-PtLLXs6C3fOYRn660YjqHRhuEhAplwh2SiCTMJObOVufZiBoGhSu79hePGFjmznavGPb9am58-Tv0w",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJJekLXrCf0DERxmDPuRns3gI",
+        "plus_code": {
+            "compound_code": "GG56+8J Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+8J"
+        },
+        "reference": "ChIJJekLXrCf0DERxmDPuRns3gI",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH66, Jalan Pasar Lama, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5079006,
+                "lng": 103.5113436
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509190330291502,
+                    "lng": 103.5126759802915
+                },
+                "southwest": {
+                    "lat": 1.506492369708498,
+                    "lng": 103.5099780197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "866c66c4c3e6a27700932265b1bf31302ecb7016",
+        "name": "Pekan Nanas Philharmoniker 想樂坊 - Music Centre - Children Education - Event Venue",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/107809801660155130881\"\u003ePekan Nanas Philharmoniker 想樂坊 - Music Centre - Children Education - Event Venue\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAx9HI3h-KNOQiWnETdaNAwn0xDCU0yzTzMHv1ImCeZhkkHAsTnnO9UXbEP3T3L6cewV-KUheIrzYcQHVS94K3qNcJumsxkViTBt_3GU31lFN8v92hQ8b5s4JZyI3ME5s1EhCO3ouJ8dqVqGvIX_MCEOhNGhTGCny70yw_mPtC3jZYmVut3H7N5A",
+                "width": 4934
+            }
+        ],
+        "place_id": "ChIJeyctZLCf0DERASHG8h5EyxY",
+        "plus_code": {
+            "compound_code": "GG56+5G Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+5G"
+        },
+        "rating": 5,
+        "reference": "ChIJeyctZLCf0DERASHG8h5EyxY",
+        "scope": "GOOGLE",
+        "types": [
+            "electronics_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "SH-37, 1st Floor, Lebuhraya Skudai - Pontian, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.5976979,
+                    "lng": 103.5756873
+                },
+                "southwest": {
+                    "lat": 1.4471141,
+                    "lng": 103.4502553
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "106e04588bdef559428e0001c8cc8c7ef619d737",
+        "name": "Pekan Nanas",
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/102781489616556928977\"\u003eChan KQ\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAEgeJ-yJTePcE8Ry4mdpUE1mKRqlf5DPxDYuqQDeCbF2WhOvBeYoqQVW1AcACI9WxAgL-GGkuiMOeKNf7wYbV5AqdUHoXkz4jXdGFDhA0ApGBmpYMvhqcsAIp0gBfnb3REhDnmmVtBzsIGP4BDpju883eGhQgR7CC6-r_aZx8Y2Rv6plQ-CWDVA",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ2eplj8qf0DER1VYsjt9HJa0",
+        "reference": "ChIJ2eplj8qf0DER1VYsjt9HJa0",
+        "scope": "GOOGLE",
+        "types": [
+            "locality",
+            "political"
+        ],
+        "vicinity": "Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5071686,
+                "lng": 103.5145193
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508455730291502,
+                    "lng": 103.5158499302915
+                },
+                "southwest": {
+                    "lat": 1.505757769708498,
+                    "lng": 103.5131519697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+        "id": "f55c7d37235e7c518ab0226c312bfaa0bb8922df",
+        "name": "Village Custle",
+        "place_id": "ChIJWT9LqrCf0DERXxj6m_LUV98",
+        "plus_code": {
+            "compound_code": "GG47+VR Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+VR"
+        },
+        "rating": 4.3,
+        "reference": "ChIJWT9LqrCf0DERXxj6m_LUV98",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "DH 447 Pekan Nanas Pontian Kecil, Pontian Kecil"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "9cc54c99dcd09a7c69b131e0abf7e846b1ef5a23",
+        "name": "Associated Concrete Products (M) Sdn. Bhd.",
+        "place_id": "ChIJG2JchbCf0DERu1PcY2F4xGo",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "rating": 3,
+        "reference": "ChIJG2JchbCf0DERu1PcY2F4xGo",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "Lot 676 & 677, Jalan Ong Eng Kee, Kampung Choh, 81500, Pekan Nenas, Johor, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "bedb9708841b88311ded3c8cf7ff0c512a61d5d2",
+        "name": "VALYOU Money Transfer",
+        "place_id": "ChIJG2JchbCf0DER6reuIAZYj4o",
+        "plus_code": {
+            "compound_code": "GG57+22 Pontian District, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJG2JchbCf0DER6reuIAZYj4o",
+        "scope": "GOOGLE",
+        "types": [
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "No. 2649, Jalan Abu Bakar Majid, Pekan Nanas, 81500, Pontian, Johor, Pontian District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507549,
+                "lng": 103.512454
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508854930291502,
+                    "lng": 103.5137918302915
+                },
+                "southwest": {
+                    "lat": 1.506156969708498,
+                    "lng": 103.5110938697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "32e13553d9e47040b6e9499e29d8282ebc35748e",
+        "name": "Eight Zero Eight Live Telecommunication",
+        "place_id": "ChIJPcIMhbCf0DERTVFhz5o5YjA",
+        "plus_code": {
+            "compound_code": "GG56+2X Pontian District, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "reference": "ChIJPcIMhbCf0DERTVFhz5o5YjA",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH 24, Pekan Nenas, 81500, Pontian, Johor, Pontian District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507534,
+                "lng": 103.512464
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508845780291502,
+                    "lng": 103.5138033802915
+                },
+                "southwest": {
+                    "lat": 1.506147819708498,
+                    "lng": 103.5111054197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "570fa9c2295d573b4c617a49ea53bedacd551d35",
+        "name": "Persada Seroja Sdn. Bhd.",
+        "place_id": "ChIJPwsOhbCf0DERnzejzOSIpHA",
+        "plus_code": {
+            "compound_code": "GG56+2X Pontian District, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "reference": "ChIJPwsOhbCf0DERnzejzOSIpHA",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH 26, Pekan Nanas, 81500, Pontian, Pontian District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075659,
+                "lng": 103.5124213
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508867880291502,
+                    "lng": 103.5137581302915
+                },
+                "southwest": {
+                    "lat": 1.506169919708498,
+                    "lng": 103.5110601697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "fe07cb9d9b61d572de31cbfa293e07b311afc89c",
+        "name": "Pusat Jam & Telekomunikasi Zhi Fu",
+        "place_id": "ChIJSzuehbCf0DERYh07_FoleH8",
+        "plus_code": {
+            "compound_code": "GG56+2X Pontian District, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "reference": "ChIJSzuehbCf0DERYh07_FoleH8",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH 135A, Jalan Besar, Pekan Nanas, 81500, Pontian, Johor, Pontian District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075359,
+                "lng": 103.5124393
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508849780291502,
+                    "lng": 103.5137791802915
+                },
+                "southwest": {
+                    "lat": 1.506151819708498,
+                    "lng": 103.5110812197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "75a8528d24db4428d866f6713db50df3827360e0",
+        "name": "Farmasi Medi-home",
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/112044967303674283780\"\u003eKh Lee\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAx1zgH52tdq098Yima12ysI8q-dePvmI5B3E5KrzzR002jpoKbL_ZRnwf7ijIK40-I-0Mq-GjaS7YoFke_prVf9idchTdO1Th-uWlCc7VxTeOqtHBRzP3gFuYt8wB1FbREhCbEGnssntcgoHk5Yi_BFzqGhTcTtdQQD-KJqO7vdAWPMjgQsAv-Q",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJBfanhbCf0DER-h7zfi92x24",
+        "plus_code": {
+            "compound_code": "GG56+2X Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "reference": "ChIJBfanhbCf0DER-h7zfi92x24",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Jalan Besar, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075188,
+                "lng": 103.5125035
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508832930291502,
+                    "lng": 103.5138434802915
+                },
+                "southwest": {
+                    "lat": 1.506134969708498,
+                    "lng": 103.5111455197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "88694c2c1e537979b8322ed164d326881a409081",
+        "name": "Eastern Photo Studio 东方摄影社",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ9UcTVPCf0DERcwofaJynZf8",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJ9UcTVPCf0DERcwofaJynZf8",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH 8, Jalan Besar, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508947980291502,
+                    "lng": 103.5138819802915
+                },
+                "southwest": {
+                    "lat": 1.506250019708498,
+                    "lng": 103.5111840197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "d7dcf4404e2fc6dc1e71146a80d8748819beb7b6",
+        "name": "Coway by Fieza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 607,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/114692844955437967614\"\u003eCoway by Fieza\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAZkXghAHGRGACyHTRYuxCkY2J94kUTT080mGmQZbPAvJRRm8LLbof75HA9d83CsDRlPPy1aI6EVGKaovP4FeUgp_uOyzg7HYg3mq6u-1Yf8RgCFwEcYOwK_eqwveofajTEhAzsxTgBM28MeKqf1xBPJQiGhSRtGpNA3MUSLhl36h5CP2N-viFcA",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ_VUyAsOf0DEReP6rde3ABmI",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJ_VUyAsOf0DEReP6rde3ABmI",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.506541,
+                "lng": 103.508297
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.507873280291502,
+                    "lng": 103.5096365802915
+                },
+                "southwest": {
+                    "lat": 1.505175319708498,
+                    "lng": 103.5069386197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7d2d4de404f5eaa23b415e19a6e2eb5a4bade691",
+        "name": "KLS Marketing Sdn. Bhd.",
+        "place_id": "ChIJifMMUKWf0DER3aQjU0LxUjc",
+        "plus_code": {
+            "compound_code": "GG45+J8 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG45+J8"
+        },
+        "reference": "ChIJifMMUKWf0DER3aQjU0LxUjc",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "No. 1 & 3, Jalan Industri Pekan Nenas, 81500, Pekan Nenas, Johor"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.50838,
+                "lng": 103.50909
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509702680291502,
+                    "lng": 103.5104317802915
+                },
+                "southwest": {
+                    "lat": 1.507004719708498,
+                    "lng": 103.5077338197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "32a8f4b48b0d76b304bcbca4ca9d1dd3c3b37e10",
+        "name": "Dewan Tunku Ibrahim Ismail",
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/105376827494703597938\"\u003eZulikifli Hasim\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAArcU4ILGC7XsgOaSdYKNNP_ESHbQ_etxHz_ijUTimNNBWd6N9qOy7bzsUuiDnn8gqKewpvSRi5Duav72MmTm0gjQrWsmujIvha0TAwQ8_tj-rc-r1FiSuzDjg47bQCya4EhBYT9mUkHtGKhuUUbw5sntOGhTVXiFR0oXmojNODqvUy-_K7RNqsw",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJQ5hfILCf0DER_pmWSEJcsX8",
+        "plus_code": {
+            "compound_code": "GG55+9J Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG55+9J"
+        },
+        "rating": 3.9,
+        "reference": "ChIJQ5hfILCf0DER_pmWSEJcsX8",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 48,
+        "vicinity": "Dewan Tunku Ibrahim Ismail, Jalan Johor, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.508828,
+                "lng": 103.508228
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.510200830291502,
+                    "lng": 103.5095830302915
+                },
+                "southwest": {
+                    "lat": 1.507502869708498,
+                    "lng": 103.5068850697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "385bb2e8c4b886b1b8b24ed8858e4543f22b5962",
+        "name": "Petron Pekan Nenas",
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/116945375216858901706\"\u003eJessie Sng\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAYeybkBegVaW5Nty-YHGyWXgwV7cbw1vA4aggoP36mDru5AecrZmNNCvhBtNdNtsSRb64FgLgE6qA9oM1Whc4hOy0FlicyB84fRTszIjHydofZMV1XyGJWm4_DB8Jaun8EhAtOPzWFxmIbEKBaerGFJE8GhTt9naUISnMr-PL95yhbVE3PVNoFw",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ8-lXxa-f0DERrMrCLMuRfmM",
+        "plus_code": {
+            "compound_code": "GG55+G7 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG55+G7"
+        },
+        "rating": 3.6,
+        "reference": "ChIJ8-lXxa-f0DERrMrCLMuRfmM",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 69,
+        "vicinity": "Mobil Mlo, 2361, Jalan Johor, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075812,
+                "lng": 103.5124821
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508868630291502,
+                    "lng": 103.5138151802915
+                },
+                "southwest": {
+                    "lat": 1.506170669708498,
+                    "lng": 103.5111172197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "9a11190e4f30cd64bfde0dde2ef7b45b45a5d19a",
+        "name": "crystal trading",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/111386384674789090287\"\u003ecrystal trading\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAASg7WjaZnyTmdJBdrQmUhJhdsLQX1bvbmzQZn19xp7Z5hwyTpPCN8l24gjPZpuy0k9P9wkW2OYso-I5zRx1TQXdsqkOgHKMw2B6TJlwP569coNhY3n6iFdDcYGHv3bcpTEhCFJNw45ZQ5jArI8bXssBL6GhRwDBc_2i6OBapSTjZ_VnDjxd8HxQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJKQJvhbCf0DER8Jj5ohYyaMU",
+        "plus_code": {
+            "compound_code": "GG56+2X Pontian District, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "rating": 3,
+        "reference": "ChIJKQJvhbCf0DER8Jj5ohYyaMU",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "SH42，jalan besar, pekan nanas, Pontian"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507625,
+                "lng": 103.5124624
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508894330291502,
+                    "lng": 103.5137907802915
+                },
+                "southwest": {
+                    "lat": 1.506196369708498,
+                    "lng": 103.5110928197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5b545f056834bff60f6e38ef08afcfd6974930e3",
+        "name": "MU Communication Centre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJR67OerCf0DERfCKSg3VmmMk",
+        "plus_code": {
+            "compound_code": "GG56+3X Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+3X"
+        },
+        "reference": "ChIJR67OerCf0DERfCKSg3VmmMk",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "vicinity": "SH47, Jalan Besar,Pekan Nenas81500 Pekan Nenas, JohorPekan Nenas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "6f126cc0f34d504d72f4a96c8d6ee27183978772",
+        "name": "Distributor NASA johor Malaysia & Medan Indonesia",
+        "photos": [
+            {
+                "height": 890,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/116162631757064479590\"\u003eDistributor NASA johor Malaysia &amp; Medan Indonesia\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAqvytiXmBNdjXZV73qvD4F_iHcDcyJw9kEklLdtn8KHl50cp60QfRhyerk4E_J_W68WkX9lRg9vsR2Jg_57PCejYp05-H47mWuNsUBGOuUJq_ffduGzPaMoc0JyXpS5tKEhAUQ3FnQBPnfyCWzVl9QDqUGhRqo486r_-A0HnR0lORMi8DHMs5xA",
+                "width": 552
+            }
+        ],
+        "place_id": "ChIJBSiPwJWf0DERmPX_0hcV-24",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJBSiPwJWf0DERmPX_0hcV-24",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "vicinity": "Pangsapuri seri nanas aka Hostel shimano, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "22c8c41ee36f22fc0aaa45668a0fa538bd49747e",
+        "name": "Kedai emas xingli",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 553,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/116508855652078322329\"\u003eKedai emas xingli\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAsfAB1W9trAVsyKseK8DCj95nkB77gZC-ePLuW-_bcDNvD3tR6iCtGeHexilApAKeu92EjdcgFaszMW8k1JB1yxpNdtPnb6vqvkM1wQIazhlaiAD2tgGgL4ELeul1dcg_EhAFxZmnN0Li1qICtHusyw-9GhSuv2l8u4NDa-8eaXyOJCJPCe99rQ",
+                "width": 984
+            }
+        ],
+        "place_id": "ChIJsTaj-Ayf0DERgPOuY1bl5_s",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJsTaj-Ayf0DERgPOuY1bl5_s",
+        "scope": "GOOGLE",
+        "types": [
+            "jewelry_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "vicinity": "GROUND FLOOR OF SH 37, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/pharmacy_cross-71.png",
+        "id": "e05024920d8e400dee9040084d9d13639d890c58",
+        "name": "北乾那那药店",
+        "place_id": "ChIJnbNH5tKf0DERbjfntTxwQN4",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJnbNH5tKf0DERbjfntTxwQN4",
+        "scope": "GOOGLE",
+        "types": [
+            "pharmacy",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "vicinity": "Unnamed Road, Taman Sri Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "38fb97546a5c70c0daf19a31d5dc40dc0fe1d079",
+        "name": "Pusat Tingkatan Enam, SMK Dato' Mohd. Yunos Sulaiman",
+        "place_id": "ChIJjehgPEKf0DERpYcUmbpyKB0",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJjehgPEKf0DERpYcUmbpyKB0",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Pusat Tingkatan Enam SMK Dato' Mohd Yunos Sulaiman, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507599,
+                "lng": 103.512533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508871930291502,
+                    "lng": 103.5138623302915
+                },
+                "southwest": {
+                    "lat": 1.506173969708498,
+                    "lng": 103.5111643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "fef69277ebb4d4f7f888c95e4d5c9257c3d5c434",
+        "name": "Public Gold Pekan Nanas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJG2JchbCf0DERmNwEviwBpxc",
+        "plus_code": {
+            "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+22"
+        },
+        "reference": "ChIJG2JchbCf0DERmNwEviwBpxc",
+        "scope": "GOOGLE",
+        "types": [
+            "finance",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "vicinity": "Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5073828,
+                "lng": 103.5128808
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508728680291502,
+                    "lng": 103.5142289802915
+                },
+                "southwest": {
+                    "lat": 1.506030719708498,
+                    "lng": 103.5115310197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7ea8d47897bc83166179de0fd7fb24fd9de09ac7",
+        "name": "Restoran Shahadat",
+        "place_id": "ChIJKaPsm7Cf0DERdTzxv-rVFhQ",
+        "plus_code": {
+            "compound_code": "GG47+X5 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X5"
+        },
+        "reference": "ChIJKaPsm7Cf0DERdTzxv-rVFhQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Malaysia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5073828,
+                "lng": 103.5128808
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508728680291502,
+                    "lng": 103.5142289802915
+                },
+                "southwest": {
+                    "lat": 1.506030719708498,
+                    "lng": 103.5115310197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7ea8d47897bc83166179de0fd7fb24fd9de09ac7",
+        "name": "Restoran Shahadat",
+        "place_id": "ChIJKaPsm7Cf0DERdTzxv-rVFhQ",
+        "plus_code": {
+            "compound_code": "GG47+X5 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X5"
+        },
+        "reference": "ChIJKaPsm7Cf0DERdTzxv-rVFhQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Malaysia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5074558,
+                "lng": 103.512846
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508757980291502,
+                    "lng": 103.5141828802915
+                },
+                "southwest": {
+                    "lat": 1.506060019708498,
+                    "lng": 103.5114849197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5df0e4d823e0850b2b2aede7f359b8e295724bf0",
+        "name": "Grace Saloon Pekan Nanas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2673,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/116595264927238006076\"\u003eGrace Saloon Pekan Nanas\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAADHVUNGdTkFgkoKalorwsNaExhzQ22GFXeAuQ9KY-3u-ola4lOlc4E5EF0fnHANPPfQuJqV2tYR-8rwALPPCw-tRxa8J91e_cJvAz4aiqO4OZ92FyJEHxytuG__hYTWY2EhBSdYfiIPXjXaXoqAGBOamzGhRjxkXSGhRwGvoMYJVNTVag74oRHg",
+                "width": 3564
+            }
+        ],
+        "place_id": "ChIJ6ZRlj8qf0DERmJZ7cRNJzSY",
+        "plus_code": {
+            "compound_code": "GG47+X4 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X4"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ6ZRlj8qf0DERmJZ7cRNJzSY",
+        "scope": "GOOGLE",
+        "types": [
+            "beauty_salon",
+            "hair_care",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "MY Johor Pekan Nanas SH50, Jalan Besar"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5074488,
+                "lng": 103.5127467
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508766280291502,
+                    "lng": 103.5140875302915
+                },
+                "southwest": {
+                    "lat": 1.506068319708498,
+                    "lng": 103.5113895697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+        "id": "03b9f90ea7b974020435904f465959d71ccf7ac5",
+        "name": "Bank Simpanan Nasional",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/110580095086767049527\"\u003eMohamad nizam Azmi\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAASlSmbtOyzKX6sLwLHp37B87c-m4hEx9u5u5T5hs-3U29mMKw8seR2bSO_vdwS86-E41tEg6OE5ja8gc73EQBK120zZkt7xJIhVjlYphc19tRiqX1tOiC-83i9tTaIsjEhDbvw1k_nlUBKXvrNQ2AdI6GhSPL6WacDpExX3EeB6Vdl0erov1kQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJtShFm7Cf0DERBJhHzmQIPm4",
+        "plus_code": {
+            "compound_code": "GG47+X3 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X3"
+        },
+        "rating": 3.4,
+        "reference": "ChIJtShFm7Cf0DERBJhHzmQIPm4",
+        "scope": "GOOGLE",
+        "types": [
+            "bank",
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "SH, 49, Jalan Besar, Kampung Masjid, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5074565,
+                "lng": 103.5127977
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508764180291502,
+                    "lng": 103.5141360302915
+                },
+                "southwest": {
+                    "lat": 1.506066219708498,
+                    "lng": 103.5114380697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+        "id": "09ec5e85078fd7b2f70268787cdb2c63166af021",
+        "name": "BSN Bank",
+        "place_id": "ChIJUfxEnbCf0DERjYgPMWjwr5I",
+        "plus_code": {
+            "compound_code": "GG47+X4 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X4"
+        },
+        "reference": "ChIJUfxEnbCf0DERjYgPMWjwr5I",
+        "scope": "GOOGLE",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "36, Lebuhraya Skudai - Pontian, Taman Sri Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5074998,
+                "lng": 103.5124571
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508838580291502,
+                    "lng": 103.5138034802915
+                },
+                "southwest": {
+                    "lat": 1.506140619708498,
+                    "lng": 103.5111055197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "5c4badb1633568453aeef43c5079e73fb7ec3c50",
+        "name": "Mj",
+        "place_id": "ChIJX3wEhbCf0DER1SnKC_PRV50",
+        "plus_code": {
+            "compound_code": "GG46+XX Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG46+XX"
+        },
+        "reference": "ChIJX3wEhbCf0DER1SnKC_PRV50",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Malaysia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075342,
+                "lng": 103.5123893
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508857180291502,
+                    "lng": 103.5137315802915
+                },
+                "southwest": {
+                    "lat": 1.506159219708498,
+                    "lng": 103.5110336197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "2480707fccde912d5588228f2f89467f9c29ae9e",
+        "name": "First Optic",
+        "place_id": "ChIJN4GkhbCf0DERAAloDLNm-No",
+        "plus_code": {
+            "compound_code": "GG56+2X Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+2X"
+        },
+        "reference": "ChIJN4GkhbCf0DERAAloDLNm-No",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Malaysia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5077706,
+                "lng": 103.5124686
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508970930291502,
+                    "lng": 103.5137791302915
+                },
+                "southwest": {
+                    "lat": 1.506272969708498,
+                    "lng": 103.5110811697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c699dbbe5ecaaeeaea7b5312825922778eed5287",
+        "name": "Elit Press Industries Sdn Bhd",
+        "place_id": "ChIJK1mtj7Cf0DER9nnXXkX9ioY",
+        "plus_code": {
+            "compound_code": "GG56+4X Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+4X"
+        },
+        "reference": "ChIJK1mtj7Cf0DER9nnXXkX9ioY",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "No. 32 & 34, Jalan Industri 1, Taman Perindustrian Pekan Nanas, Johor, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507453,
+                "lng": 103.5125888
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508803780291502,
+                    "lng": 103.5139382802915
+                },
+                "southwest": {
+                    "lat": 1.506105819708498,
+                    "lng": 103.5112403197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "654556681bf2bb1a436d4e6df5bc056f37dab38f",
+        "name": "Maxis Exclusive Partner Pekan Nenas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJA7fThLCf0DERaQY0ChUTZ6M",
+        "plus_code": {
+            "compound_code": "GG47+X2 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG47+X2"
+        },
+        "rating": 3,
+        "reference": "ChIJA7fThLCf0DERaQY0ChUTZ6M",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "SH 47, Jalan Besar, Pekan Nenas, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5075504,
+                "lng": 103.5123045
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508878680291502,
+                    "lng": 103.5136481802915
+                },
+                "southwest": {
+                    "lat": 1.506180719708498,
+                    "lng": 103.5109502197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "305dfdb80c11bcd168d60c458c2bbae499cb7ab0",
+        "name": "Klinik Pergigian AR",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/105216325244218876649\"\u003eTing Zhang Lee\u003c/a\u003e"
+                ],
+                "photo_reference": "CmRaAAAAzes33tOsQVnmmnop47onXGUAsFyguDDzzCcWc6HSh1a31-zgZULxRqs2dFWXrXMF8ZBg_q8DblioqgoXnC-WurLCPxa40qqHlM-Tm37Fe5rwW1U45lziOEXGVan_2WpUEhANyFCgg-V4MeLawbC5fLfWGhQDesZqDSua-hCRpC-SBKTSa3UWOA",
+                "width": 2736
+            }
+        ],
+        "place_id": "ChIJ4eJ2EhKf0DERL17-JpuwXwg",
+        "plus_code": {
+            "compound_code": "GG56+2W Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG56+2W"
+        },
+        "rating": 5,
+        "reference": "ChIJ4eJ2EhKf0DERL17-JpuwXwg",
+        "scope": "GOOGLE",
+        "types": [
+            "hospital",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "SH42, Tingkat 1, Jalan Besar, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.5077118,
+                "lng": 103.5126631
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.508916130291502,
+                    "lng": 103.5139746802915
+                },
+                "southwest": {
+                    "lat": 1.506218169708498,
+                    "lng": 103.5112767197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "859af0014748b4e5d50463eed3beb97be1b9c86c",
+        "name": "Rangkaian Cuti Sdn. Bhd.",
+        "place_id": "ChIJ9Vs8kLCf0DERHvYpYaBJcOw",
+        "plus_code": {
+            "compound_code": "GG57+33 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+33"
+        },
+        "reference": "ChIJ9Vs8kLCf0DERHvYpYaBJcOw",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "SH-912A, Jalan Sawah, Taman Bunga, 81500, Pekan Nanas, Johor, Pekan Nanas"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 1.507826,
+                "lng": 103.5126764
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.509295430291502,
+                    "lng": 103.5140598302915
+                },
+                "southwest": {
+                    "lat": 1.506597469708498,
+                    "lng": 103.5113618697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "539e30a9cd50bca954bb3a2ea7f4c7c7959b726c",
+        "name": "PS Auto Aircon Service",
+        "place_id": "ChIJ77DGkbCf0DERJKVvrJdRv8M",
+        "plus_code": {
+            "compound_code": "GG57+43 Pekan Nanas, Johor, Malaysia",
+            "global_code": "6PH5GG57+43"
+        },
+        "reference": "ChIJ77DGkbCf0DERJKVvrJdRv8M",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "No. 5, Jalan Tuah 1, Taman Tuah, Pekan Nanas"
+    }
+]

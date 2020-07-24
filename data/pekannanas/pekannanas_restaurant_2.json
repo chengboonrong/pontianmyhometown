@@ -1,0 +1,72 @@
+{
+   "business_status": "OPERATIONAL",
+   "geometry": {
+      "location": {
+         "lat": 1.507599,
+         "lng": 103.512533
+      },
+      "viewport": {
+         "northeast": {
+            "lat": 1.508871930291502,
+            "lng": 103.5138623302915
+         },
+         "southwest": {
+            "lat": 1.506173969708498,
+            "lng": 103.5111643697085
+         }
+      }
+   },
+   "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+   "id": "e6a317a57ee1b70d0aa3e6c93e51b1b6fb29de2a",
+   "name": "La Anjas Boutique & Cafe",
+   "place_id": "ChIJG2JchbCf0DERNVLhMvJ6T3g",
+   "plus_code": {
+      "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+      "global_code": "6PH5GG57+22"
+   },
+   "reference": "ChIJG2JchbCf0DERNVLhMvJ6T3g",
+   "scope": "GOOGLE",
+   "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+   ],
+   "vicinity": "Pekan Nanas"
+},
+{
+   "business_status": "OPERATIONAL",
+   "geometry": {
+      "location": {
+         "lat": 1.507599,
+         "lng": 103.512533
+      },
+      "viewport": {
+         "northeast": {
+            "lat": 1.508871930291502,
+            "lng": 103.5138623302915
+         },
+         "southwest": {
+            "lat": 1.506173969708498,
+            "lng": 103.5111643697085
+         }
+      }
+   },
+   "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+   "id": "31901946b1bafe0f16eb6b424bb350ee1f66e9f8",
+   "name": "庄伟仁",
+   "place_id": "ChIJA8agC3Wf0DERJL9epP9TQFY",
+   "plus_code": {
+      "compound_code": "GG57+22 Pekan Nanas, Johor, Malaysia",
+      "global_code": "6PH5GG57+22"
+   },
+   "reference": "ChIJA8agC3Wf0DERJL9epP9TQFY",
+   "scope": "GOOGLE",
+   "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+   ],
+   "vicinity": "马来西亚柔佛北干那那邮政编码, :"
+}

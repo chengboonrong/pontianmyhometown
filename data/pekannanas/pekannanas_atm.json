@@ -1,0 +1,253 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5074488,
+        "lng": 103.5127467
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.508767129892722,
+          "lng": 103.5140883798927
+        },
+        "southwest": {
+          "lat": 1.506067470107278,
+          "lng": 103.5113887201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "03b9f90ea7b974020435904f465959d71ccf7ac5",
+    "name": "Bank Simpanan Nasional",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110580095086767049527\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAABBKvV2XB9Mb7Xuy5qdEkmTmoksd8pDrSnFiHoFbnePp-7ztN4Otn5ibPr3RaHRkQJS98mAwO-qspGOekrqq7xcqkfqm5_2Ghk6cD1OvY-cb-vZEmMf9LP1YRNCiS2l6nEhD8B33lQRPFNybzTdmCpU9qGhT8PnadzVvl8ClVYTZgg9h6fwrMiw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJtShFm7Cf0DERBJhHzmQIPm4",
+    "plus_code": {
+      "compound_code": "GG47+X3 Pekan Nanas, Johor",
+      "global_code": "6PH5GG47+X3"
+    },
+    "rating": 3.4,
+    "reference": "ChIJtShFm7Cf0DERBJhHzmQIPm4",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "SH, 49, Jalan Besar, Kampung Masjid, Pekan Nanas",
+    "photo": "/static/image/pekannanas/atm/BankSimpananNasional-0.jpg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5074392,
+        "lng": 103.5107637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.508859029892722,
+          "lng": 103.5121327298927
+        },
+        "southwest": {
+          "lat": 1.506159370107278,
+          "lng": 103.5094330701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "3538aab5002fb6dce5132eda3c7e27aba567a88a",
+    "name": "Public Bank Pekan Nenas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107139609661772878376\">Janny Lee</a>"
+        ],
+        "photo_reference": "CmRaAAAA0IPZZBjKpaYnAcEl1dIKNgrOo77Vvd4P1xLMdPTfYpZQK0NN82cXfpfP6ppS2CaP0GsRZijYkuiYRWz0HX6V04RWg0ZQkS9tT7YXk92m0QS1NIJE1UlHgClWhtW4NiwfEhDuOv0oRb0OBKLYpA8nrlm0GhTK7BHRz2K_81Wx7lLiNW34P9HT5Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ36TrcLCf0DERLIzXxP5afGs",
+    "plus_code": {
+      "compound_code": "GG46+X8 Pekan Nanas, Johor",
+      "global_code": "6PH5GG46+X8"
+    },
+    "rating": 4,
+    "reference": "ChIJ36TrcLCf0DERLIzXxP5afGs",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "SH9;;SH10, Jalan Besar, Pekan Nenas, Pekan Nanas",
+    "photo": "/static/image/pekannanas/atm/PublicBankPekanNenas-0.jpg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5022845,
+        "lng": 103.5170252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.503639179892722,
+          "lng": 103.5184021798927
+        },
+        "southwest": {
+          "lat": 1.500939520107278,
+          "lng": 103.5157025201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "48e55cec3e567507607e27d347049ae32c4b5e8b",
+    "name": "Maybank Pekan Nenas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100680459721087662246\">Malcolm Anthony</a>"
+        ],
+        "photo_reference": "CmRaAAAAiN6SG6xXRu1FzaHirYo7QVzKlfk8ERc1tVcfObtO16vR9KqXclMQmTIJbivNq7eT5t4akeUUvT_7hoQ8pUHCvDZ8Z83WwLUwDZVRkOAciHuEPIdvKpjCHWsFgTafglwcEhDVNt_zPgPqGK290ZrGFkRGGhRtnK7JH4a9X6izlWNqMbku151qcQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJK2zq0r6f0DERK-lcBSzw_6c",
+    "plus_code": {
+      "compound_code": "GG28+WR Pekan Nanas, Johor",
+      "global_code": "6PH5GG28+WR"
+    },
+    "rating": 3.4,
+    "reference": "ChIJK2zq0r6f0DERK-lcBSzw_6c",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "NO 3 & NO 4, Jalan Abu Bakar Majid, Pekan Nanas",
+    "photo": "/static/image/pekannanas/atm/MaybankPekanNenas-0.jpg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5089494,
+        "lng": 103.5076086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.510337779892722,
+          "lng": 103.5089720298927
+        },
+        "southwest": {
+          "lat": 1.507638120107278,
+          "lng": 103.5062723701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "fe00b01d20d5bd25b55bd3d2edad1310fc01211d",
+    "name": "Bank Simpanan Nasional (BSN) ATM @ Petronas Pontian",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108943838736514679139\">Mohd Fadzli Rashid</a>"
+        ],
+        "photo_reference": "CmRaAAAAe8ctfjFQUbdypHQnlu3vLyZHbSdqJrXfxnJ8N-yJbU54qaKPtliz-T7GVZxC6HZ1PtkHwnqVZFGuwV5DERNUMDpvoGzOnbbbt9d0EpebVyeHaS0mP28eaXgErTdJctF-EhBadzJIAdyqJe0Yhz324tRoGhSJ84hYZNJVEsIJMjsZ6tZM2wqRbw",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJa7fRTlKe0DERRQp-AS4K0z0",
+    "plus_code": {
+      "compound_code": "GG55+H2 Pekan Nanas, Johor",
+      "global_code": "6PH5GG55+H2"
+    },
+    "rating": 3.5,
+    "reference": "ChIJa7fRTlKe0DERRQp-AS4K0z0",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "No. 493, Batu 35, Jalan Johor, Johor",
+    "photo": "/static/image/pekannanas/atm/BankSimpananNasional(BSN)ATM@PetronasPontian-0.jpg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5078091,
+        "lng": 103.5113949
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.509142329892722,
+          "lng": 103.5127400298927
+        },
+        "southwest": {
+          "lat": 1.506442670107278,
+          "lng": 103.5100403701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "0bcd5bf305c25bd376ed710ec882453d82052c46",
+    "name": "\u6cf0\u548c\u7576\u91d1\u5e97",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLflaZLCf0DERa5VrIMd5y0U",
+    "plus_code": {
+      "compound_code": "GG56+4H Pekan Nanas, Johor",
+      "global_code": "6PH5GG56+4H"
+    },
+    "rating": 0,
+    "reference": "ChIJLflaZLCf0DERa5VrIMd5y0U",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "36, Skudai - Pontian Highway, Taman Sri Pekan Nenas, Pekan Nanas",
+    "photo": "#"
+  }
+]

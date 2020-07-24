@@ -24,3 +24,7 @@ body {
 .place {
     place-content: center;
 }
+
+.city {
+    padding: 1%;
+}

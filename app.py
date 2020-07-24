@@ -19,7 +19,8 @@ API_URL = 'http://api.openweathermap.org/data/2.5/weather?q=Pontian,my&appid=e35
 # API_KEY = 'e357f3a75f4a8d5c96ccb0742cccdc27'
 # raw_data = requests.get(API_URL).json()
 # print(raw_data)
-placeTypes = ['atm', 'cafe', 'convenience_store', 'pharmacy', 'restaurant', 'school', 'nothing', 'hello']
+cities = ['benut', 'pontian', 'kukup', 'pekan nanas']
+types = ['atm', 'restaurant', 'hotel', 'school']
 
 @app.route('/')
 def home():
@@ -33,23 +34,37 @@ def home():
             mapCities = [c for c in data['cities']]
             # print(mapCities[0])
 
-    return render_template('home.html', raw=raw_data ,data=weather_data, cor="cor", types=[p for p in placeTypes], mapCities=mapCities)
+    return render_template('home.html', raw=raw_data ,data=weather_data, cor="cor", cities=[p for p in cities], mapCities=mapCities)
 
 @app.route('/test')
 def test():
     return render_template('index.html')
 
-@app.route('/<placeType>')
-def getPlaces(placeType):
-    if os.path.isfile(f'./data/{placeType}.txt'):
-        with open(f'./data/{placeType}.txt', 'r') as file_:
+@app.route('/<city>')
+def getCity(city):
+    city = ''.join(city.split(' '))
+    if os.path.isfile(f'./data/{city}/{city}_restaurant_new.json'):
+        with open(f'./data/{city}/{city}_restaurant_new.json', 'r') as file_:
             data = json.load(file_)
             places = [d for d in data]
-            # print(places[0]['photo'])
-
-
-
-        return render_template('place.html', type=str(placeType).capitalize(), placeList=places, length=len(places))
+            # print(places)
+            
+        return render_template('place.html', cities=cities, city=city, city_capital=str(city).capitalize(), placeList=places, length=len(places), types=types)
+    
+    else:
+        abort(404)
+        
+@app.route('/<city>/<type_>')
+def getPlaces(city, type_):
+    city = ''.join(city.split(' '))
+    print(city)
+    if os.path.isfile(f'./data/{city}/{city}_{type_}_new.json'):
+        with open(f'./data/{city}/{city}_{type_}_new.json', 'r') as file_:
+            data = json.load(file_)
+            places = [d for d in data]
+            # print(places)
+            
+        return render_template('place.html', cities=cities, city=city, city_capital=str(city).capitalize(), placeList=places, length=len(places), types=types)
     
     else:
         abort(404)

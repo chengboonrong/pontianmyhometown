@@ -1,0 +1,1719 @@
+[  {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.486332,
+          "lng" : 103.391389
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487725480291502,
+             "lng" : 103.3927191802915
+          },
+          "southwest" : {
+             "lat" : 1.485027519708498,
+             "lng" : 103.3900212197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id" : "c31ddf4397c9cb112d8870180e2ba6b9d8d701ac",
+    "name" : "SUNFLOWER EXPRESS HOTEL",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 513,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/110485627976373376360\"\u003eSUNFLOWER EXPRESS HOTEL\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA7CnC1OH0cMZ-DLwX1e5QU9n1E_-m-wvTm6srDYF43tjI8j2norBgaDidxL94dd73-3NV0SmCE4Cq3lfUb1_L7OiQOyFo0wDTGeOt83IcZK2yxIA-wwtY6mVrg384dkHhEhBKoQxPKtr-z8JfpDKroLyYGhSfJkLGO18Gu09x2hKRUunXsfK-Ag",
+          "width" : 912
+       }
+    ],
+    "place_id" : "ChIJI00q93CY0DERu6yyWQzNaH0",
+    "plus_code" : {
+       "compound_code" : "F9PR+GH Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+GH"
+    },
+    "rating" : 3.8,
+    "reference" : "ChIJI00q93CY0DERu6yyWQzNaH0",
+    "scope" : "GOOGLE",
+    "types" : [ "lodging", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 177,
+    "vicinity" : "726, Jalan Taib, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4867492,
+          "lng" : 103.3903922
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488074230291502,
+             "lng" : 103.3916985802915
+          },
+          "southwest" : {
+             "lat" : 1.485376269708498,
+             "lng" : 103.3890006197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "1e3ea883c9927a542c290e76297d5eeedd2183b5",
+    "name" : "Public Bank",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 3648,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/105847270007472018662\"\u003e佐々木黎明\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAD9oHSwgh_-0ooLQd6gLqBDFUnHLxuJUCfytMLPA6mCvxWSF9AoXX5QHKfGd9SJfi5roEI4h1-APZ1lV0BThlmvzHGPJi1cI0t6Bm_PpIS_JA_O7ffX1maR2ttVUG8RqUEhB91smQUSKhAFejxuYPDfYLGhRJznPGJ7vXISLfIfdZfnUXiqwynw",
+          "width" : 5472
+       }
+    ],
+    "place_id" : "ChIJRRtoqXGY0DERsGywDoS37u4",
+    "plus_code" : {
+       "compound_code" : "F9PR+M5 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+M5"
+    },
+    "rating" : 3.4,
+    "reference" : "ChIJRRtoqXGY0DERsGywDoS37u4",
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 8,
+    "vicinity" : "761, Jalan Taib, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.487187,
+          "lng" : 103.388036
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488467730291502,
+             "lng" : 103.3894013802915
+          },
+          "southwest" : {
+             "lat" : 1.485769769708498,
+             "lng" : 103.3867034197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "e698285cfe562eeafa778495c2c4718b8daebc6c",
+    "name" : "Pejabat Pos Pontian",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 3024,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100699453741025595883\"\u003es c\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAArx68Qm_rL5ancKdrL9kbpVcfOndzgY5cVliFJamfCFt4C7vrS1_jeBvMqciD8gcnOuPVavTQHIsq_FqlKQATNP1cuBDdHnyPYlYU5-d1wCMAGMdJPo5lhlkwz_G6SLd_EhB8ckD1Kwo8FXWIwg8ndPqwGhTJa2EFP_3Dp3ApUWWCnM7ldAWO4w",
+          "width" : 4032
+       }
+    ],
+    "place_id" : "ChIJ3T33hXGY0DERIBAibAu31yM",
+    "plus_code" : {
+       "compound_code" : "F9PQ+V6 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+V6"
+    },
+    "rating" : 2.8,
+    "reference" : "ChIJ3T33hXGY0DERIBAibAu31yM",
+    "scope" : "GOOGLE",
+    "types" : [ "post_office", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 17,
+    "vicinity" : "JKR 1479, Jalan Pejabat, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4865347,
+          "lng" : 103.3876009
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488025530291502,
+             "lng" : 103.3888931802915
+          },
+          "southwest" : {
+             "lat" : 1.485327569708498,
+             "lng" : 103.3861952197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "02fa5d7e2120097516c1f3b5aa560e9d350a0de7",
+    "name" : "Dewan Jubli Intan Pontian, Johor.",
+    "photos" : [
+       {
+          "height" : 2268,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/116532737876260100930\"\u003eAkmal Muslim\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAADrVnwMzg60UTLfU3d-pELfLEZ4wBRyU9mRSJD4nUhZ7gc1QszqHzPgPBPR_W2w-nsAKhmNReJ0qKlI70JVYDv0FyYNKAgc42X43A8B68IcFSkjBs4-MSkOXCEtHOLSXcEhAEDU0b4PEGKbKewxR3ptwHGhQ2xZvns5l3Wu4LwGxqM6-o0HdbPg",
+          "width" : 4032
+       }
+    ],
+    "place_id" : "ChIJiSFeKnKY0DERJwv6Decr5aY",
+    "plus_code" : {
+       "compound_code" : "F9PQ+J2 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+J2"
+    },
+    "rating" : 3.8,
+    "reference" : "ChIJiSFeKnKY0DERJwv6Decr5aY",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 108,
+    "vicinity" : "7b, Jalan Dewan, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4857822,
+          "lng" : 103.3894135
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487141880291502,
+             "lng" : 103.3907921302915
+          },
+          "southwest" : {
+             "lat" : 1.484443919708498,
+             "lng" : 103.3880941697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "af2400b5214c44121c3be90a382b2fdb72d18e45",
+    "name" : "Huang Dispensary",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 1334,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/112216809593364807563\"\u003eHuang Dispensary\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAR9v6XQzGFAm2kRi987fQR-VJKGx9YycB4fvm_tfFFdmrBxe8eqBBh56qx0_zXj6Ic7GX6cUhfg0pY7-Xdc9hE8d5Pg9YHGwODQhlG_A9Ls5699u9IgN6y2DfXWMa-Wg6EhBi_cm-3ZiyWLDDmJa3wWwFGhTCXvtPl97GiHFs7aYYVr933WnAHg",
+          "width" : 750
+       }
+    ],
+    "place_id" : "ChIJSYtFuaWQ0DER0JruzKMxdKo",
+    "plus_code" : {
+       "compound_code" : "F9PQ+8Q Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+8Q"
+    },
+    "rating" : 5,
+    "reference" : "ChIJSYtFuaWQ0DER0JruzKMxdKo",
+    "scope" : "GOOGLE",
+    "types" : [ "health", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 3,
+    "vicinity" : "274, Jalan Alsagoff, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4879707,
+          "lng" : 103.3875628
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489438130291502,
+             "lng" : 103.3888772302915
+          },
+          "southwest" : {
+             "lat" : 1.486740169708498,
+             "lng" : 103.3861792697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "799f4d9b401d22a0c098c02c8a5d1c7a9e3c6cd0",
+    "name" : "Pontian Land and District Office",
+    "photos" : [
+       {
+          "height" : 2217,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/104500535062564320698\"\u003eZakaria Sidek\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAx4ii7SVEoXyxzNH6fAHwJEuGEuAJNjyDdgZrIwOSiKItKfoB9_84EUPj7nrE-ADdR6_xh2LviwkPNmSt3Ujlrk9P5FMItk0wuM97BzlETiqzoPlThD2INz3tA8n_V-iAEhAXFV8Qwee0YFfTB9AW7KX7GhTfQrjv0h4HQ7AOhjDxKNS5iqpHNg",
+          "width" : 3968
+       }
+    ],
+    "place_id" : "ChIJq0CvfnuY0DERFOLn223zTyQ",
+    "plus_code" : {
+       "compound_code" : "F9QQ+52 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+52"
+    },
+    "rating" : 3.2,
+    "reference" : "ChIJq0CvfnuY0DERFOLn223zTyQ",
+    "scope" : "GOOGLE",
+    "types" : [
+       "finance",
+       "local_government_office",
+       "point_of_interest",
+       "establishment"
+    ],
+    "user_ratings_total" : 11,
+    "vicinity" : "Pejabat Tanah Pontian, Aras Bawah, Bangunan Sultan Ismail, 82000, Pontian, Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485362,
+          "lng" : 103.3906439
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486729530291502,
+             "lng" : 103.3919852302915
+          },
+          "southwest" : {
+             "lat" : 1.484031569708498,
+             "lng" : 103.3892872697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "dce314801b148d3b68d23a3a306cffb05357bc9e",
+    "name" : "Ambank",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "place_id" : "ChIJPzkx3nCY0DERryDKEKcO6L0",
+    "plus_code" : {
+       "compound_code" : "F9PR+47 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+47"
+    },
+    "rating" : 2,
+    "reference" : "ChIJPzkx3nCY0DERryDKEKcO6L0",
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 5,
+    "vicinity" : "663;;664, Jalan Taib Utama, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4863675,
+          "lng" : 103.3899453
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487716080291502,
+             "lng" : 103.3912932802915
+          },
+          "southwest" : {
+             "lat" : 1.485018119708498,
+             "lng" : 103.3885953197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "1b039ab8508f47ed9dae8f46ad778b4b4e75716f",
+    "name" : "Factory Retail-Pontian",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 1344,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101385247648049336009\"\u003eFactory Retail-Pontian\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAVtWZtytyFJBjaEU8mOa9GS5ksg5KsnPchEorwB4c8JrKNmwEMehXb7ThOXlGJKJBBade66203ETCCbHLbZQlx006DIt9jYDs-n5Falm-mNwccowqFCl5fQByO3qT4CPQEhB_EWqDPIizBhIoPlLRDKfZGhQHI6BGnCBi9Ax9TuBPxS7Ct2S9nQ",
+          "width" : 1792
+       }
+    ],
+    "place_id" : "ChIJgXgMBnGY0DEROoyqjKqPZLs",
+    "plus_code" : {
+       "compound_code" : "F9PQ+GX Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+GX"
+    },
+    "reference" : "ChIJgXgMBnGY0DEROoyqjKqPZLs",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "297E, Jalan Taib Utama, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.48616,
+          "lng" : 103.387972
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487363730291502,
+             "lng" : 103.3892785802915
+          },
+          "southwest" : {
+             "lat" : 1.484665769708498,
+             "lng" : 103.3865806197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "e16277ea436ac39d85207c4e89722d7b3652c927",
+    "name" : "eZ Jalina Enterprise",
+    "place_id" : "ChIJK-KBfHGY0DERTYoerKHwmAo",
+    "plus_code" : {
+       "compound_code" : "F9PQ+F5 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+F5"
+    },
+    "reference" : "ChIJK-KBfHGY0DERTYoerKHwmAo",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.487116,
+          "lng" : 103.387748
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488381480291502,
+             "lng" : 103.3891303302915
+          },
+          "southwest" : {
+             "lat" : 1.485683519708498,
+             "lng" : 103.3864323697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "5f649284674b72b385d1924e54e5b59a5cc1e6e2",
+    "name" : "Perbadanan Perpustakaan Awam Johor Cawangan Pontian",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "place_id" : "ChIJz5o1XHGY0DER08esXctS_qs",
+    "plus_code" : {
+       "compound_code" : "F9PQ+R3 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+R3"
+    },
+    "rating" : 2.3,
+    "reference" : "ChIJz5o1XHGY0DER08esXctS_qs",
+    "scope" : "GOOGLE",
+    "types" : [ "library", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 3,
+    "vicinity" : "Perbadanan Perpustakaan Awam Johor Cawangan Pontian, 82000 Johor Bahru,, Johor, Jalan Dewan, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485814,
+          "lng" : 103.3900493
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487186730291502,
+             "lng" : 103.3914585302915
+          },
+          "southwest" : {
+             "lat" : 1.484488769708498,
+             "lng" : 103.3887605697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "87cbb93c8db3d5ed8de9da8af53fc4ec5109a94d",
+    "name" : "Public Bank - ATM",
+    "place_id" : "ChIJQQKWG3GY0DERQ8fbqcCggK4",
+    "plus_code" : {
+       "compound_code" : "F9PR+82 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+82"
+    },
+    "reference" : "ChIJQQKWG3GY0DERQ8fbqcCggK4",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No. 761 & 762, Jalan Taib, 82000, Pontian, Johor, Malaysia, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485175,
+          "lng" : 103.3902472
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486565930291502,
+             "lng" : 103.3915800302915
+          },
+          "southwest" : {
+             "lat" : 1.483867969708498,
+             "lng" : 103.3888820697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "86b6cc123f4ff0b22d5ce2211fb44d5c8d714ef5",
+    "name" : "Agrobank Pontian",
+    "place_id" : "ChIJ55g5IXGY0DER6_trZfrByHU",
+    "plus_code" : {
+       "compound_code" : "F9PR+33 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+33"
+    },
+    "rating" : 5,
+    "reference" : "ChIJ55g5IXGY0DER6_trZfrByHU",
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "660-1, Jalan Taib Utama, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.487685,
+          "lng" : 103.3889601
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489012180291502,
+             "lng" : 103.3902504302915
+          },
+          "southwest" : {
+             "lat" : 1.486314219708498,
+             "lng" : 103.3875524697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id" : "f5237be567cef031e8b8051f88cd074b4b913bbd",
+    "name" : "Bank Islam Malaysia Berhad",
+    "place_id" : "ChIJg95Y6nGY0DERKfiG5pqRl3k",
+    "plus_code" : {
+       "compound_code" : "F9QQ+3H Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+3H"
+    },
+    "rating" : 3.5,
+    "reference" : "ChIJg95Y6nGY0DERKfiG5pqRl3k",
+    "scope" : "GOOGLE",
+    "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "Bangunan Tabung Haji, No.453, Jalan Al-Sagoff, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4876167,
+          "lng" : 103.3898948
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488815780291502,
+             "lng" : 103.3912931802915
+          },
+          "southwest" : {
+             "lat" : 1.486117819708498,
+             "lng" : 103.3885952197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "2f2c428b0d0dd611ea374c6cdf369621c61fe6d9",
+    "name" : "SAJ Holdings @ Pontian",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2448,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101589184843860980077\"\u003eRS 1200\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAjPyQGviZ0F_5aq9M7I99t7Zcgi0S7YjHuy0kdI5d7Anltt_y-4SbLSUoKMZIKXxWLq7ooLRpz7wmeO43Jsx9-hOPfj3r6LUjNM7xxp5RQE4GEXUVoSLQWqas-BMgacRbEhAxd0vOMO3--PSuEOZJtw8GGhTwPnTBlNaUGJQZffLj-_EY1ah62Q",
+          "width" : 3264
+       }
+    ],
+    "place_id" : "ChIJv6F3sXGY0DER1lVehQ5BQNE",
+    "plus_code" : {
+       "compound_code" : "F9QQ+2X Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+2X"
+    },
+    "rating" : 4,
+    "reference" : "ChIJv6F3sXGY0DER1lVehQ5BQNE",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 3,
+    "vicinity" : "Jalan Teo Kang Sui, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4879994,
+          "lng" : 103.3875156
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489447230291502,
+             "lng" : 103.3888357302915
+          },
+          "southwest" : {
+             "lat" : 1.486749269708498,
+             "lng" : 103.3861377697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "d7b29a56d67e58e4474171d1ede3add04d2e1c98",
+    "name" : "Pejabat Daerah Pontian",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 3366,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101739643558463659279\"\u003eHuge Low\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAEAiLzeapa-h5-3yVcJirv828NsULhPrhx7cr4RZhwAC_4v4bw9pX6EWIa4pOb-3iTjONDiCs1aMEVI-DVcbFV5_M5qvc8gFA05OhU2DHcFMnBSTKTrxDcQr75KOUBOhPEhCj-SBS0a3aHZvcdTTaTYZlGhRdrfkf6eBepxOY61_VaVFJ7OpQqA",
+          "width" : 5984
+       }
+    ],
+    "place_id" : "ChIJq0CvfnuY0DERclmasrdAfx8",
+    "plus_code" : {
+       "compound_code" : "F9QQ+52 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+52"
+    },
+    "rating" : 4,
+    "reference" : "ChIJq0CvfnuY0DERclmasrdAfx8",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 8,
+    "vicinity" : "Aras Bawah, Bangunan Sultan Ismail, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4878996,
+          "lng" : 103.3898128
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489193480291502,
+             "lng" : 103.3911544802915
+          },
+          "southwest" : {
+             "lat" : 1.486495519708498,
+             "lng" : 103.3884565197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "a122c7e5cf6602fb40eff500e37d1140b51582ae",
+    "name" : "SAJ Ranhill Sdn Bhd",
+    "photos" : [
+       {
+          "height" : 3830,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/106538937428345876575\"\u003eRS 1500\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAjn5uo1tC5-vYRi1xpmg1CkRkgB6yFEaD4U-rrz0YrvazHxLx10mfkyadEV9_0SqhoD3bAwSfsOhwi1IUM1OS1qVKYBbT2oPEroN9aSmi9DGCfFyrBxejdL2pfDbBJ6M-EhDhyNjY2-zlcmOAUF3LttvkGhQVJ-_4bZ-1fBtd5YhusuMlLJFOyw",
+          "width" : 2701
+       }
+    ],
+    "place_id" : "ChIJ-_Z6yHGY0DER5mSue0weVoU",
+    "plus_code" : {
+       "compound_code" : "F9QQ+5W Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+5W"
+    },
+    "rating" : 1,
+    "reference" : "ChIJ-_Z6yHGY0DER5mSue0weVoU",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "Jalan Teo Kang Sui, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485561,
+          "lng" : 103.3878589
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486910180291502,
+             "lng" : 103.3892085802915
+          },
+          "southwest" : {
+             "lat" : 1.484212219708498,
+             "lng" : 103.3865106197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "ec281df4cc845ec943839ca65ae075da4334deb7",
+    "name" : "Rossa Homestay",
+    "photos" : [
+       {
+          "height" : 1080,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/113000419213266139146\"\u003eAbdul Muiz\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAVidwGXRLAMq_JYvKbJ4wyZ6hfz-xht-b9CTFga2i2Dsqtz2WhAeX8_DSJCHueehb4PSO2lGN9TKeX7JHUqlp-QoMBYtf2gNWUrgZEEBuUoYAImXXsoSgjR2GJDDhZ5xhEhD4x9k6efP0JmxKBST2wMGTGhSmd5Iops4U_iioY2zdqMnbpNyBdA",
+          "width" : 1920
+       }
+    ],
+    "place_id" : "ChIJ5SjkYHGY0DER7PlYw-IhwdA",
+    "plus_code" : {
+       "compound_code" : "F9PQ+64 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+64"
+    },
+    "rating" : 3,
+    "reference" : "ChIJ5SjkYHGY0DER7PlYw-IhwdA",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "Lot 769, KM 6 1/4, Jalan Kukup, Parit Raja Laut, 82000, Pontian, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485561,
+          "lng" : 103.3878589
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486910180291502,
+             "lng" : 103.3892085802915
+          },
+          "southwest" : {
+             "lat" : 1.484212219708498,
+             "lng" : 103.3865106197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "4d8f7976f0060c8f68e2451807018ec72272ff00",
+    "name" : "Arepmaju Enterprise",
+    "place_id" : "ChIJ5SjkYHGY0DERqt8MOh_oTzc",
+    "plus_code" : {
+       "compound_code" : "F9PQ+64 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+64"
+    },
+    "reference" : "ChIJ5SjkYHGY0DERqt8MOh_oTzc",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No. 29, Kampong Permata Ng, Sepang, 82210, Pontian, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4854877,
+          "lng" : 103.3879244
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486828330291502,
+             "lng" : 103.3892345302915
+          },
+          "southwest" : {
+             "lat" : 1.484130369708498,
+             "lng" : 103.3865365697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "5dbe2f9db3eab7b88b3b815719f0738372c99211",
+    "name" : "Happy Xin Sdn. Bhd.",
+    "place_id" : "ChIJ7W-6YHGY0DERLc49z5Mem4c",
+    "plus_code" : {
+       "compound_code" : "F9PQ+55 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+55"
+    },
+    "reference" : "ChIJ7W-6YHGY0DERLc49z5Mem4c",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No. 825, Jalan Bakek, Taman Tahiti, 82000, Pontian District, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4875376,
+          "lng" : 103.3909408
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488881880291502,
+             "lng" : 103.3922909802915
+          },
+          "southwest" : {
+             "lat" : 1.486183919708498,
+             "lng" : 103.3895930197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "49e8e13bb86353069060316f490a14964c80408c",
+    "name" : "Khidmat Pelanggan SAJ Ranhill Pontian",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2448,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101589184843860980077\"\u003eRS 1200\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA7i9qv53mYn_beHlmQhnhaAX6lydz6oe4fokmhoX5hFp26ig1FeFpG37B0HC2gcskBRKXHuVHHSDz5Eev3jTNmU02hOCQ4b6Ir7gHxhMuIVMvIrxBruJ95qzmcgFta-SiEhAjW6b4VZHSwx7WyIn2kXt0GhR_y9-zhHl6xlR3ZzpgUeVLHPB-bA",
+          "width" : 3264
+       }
+    ],
+    "place_id" : "ChIJ8xvZy3GY0DERwNnCn7-8CL4",
+    "plus_code" : {
+       "compound_code" : "F9QR+29 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QR+29"
+    },
+    "rating" : 3,
+    "reference" : "ChIJ8xvZy3GY0DERwNnCn7-8CL4",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "2, Jalan Teo Kang Sui, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.489484,
+          "lng" : 103.388585
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.490922230291502,
+             "lng" : 103.3898846302915
+          },
+          "southwest" : {
+             "lat" : 1.488224269708498,
+             "lng" : 103.3871866697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "001d5b710e6304e3862fb2c73ab7769b4110e6b6",
+    "name" : "Pontian Adventist Kindergarden",
+    "place_id" : "ChIJcQhqGm6Y0DERfFql1bufB0Y",
+    "plus_code" : {
+       "compound_code" : "F9QQ+QC Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+QC"
+    },
+    "reference" : "ChIJcQhqGm6Y0DERfFql1bufB0Y",
+    "scope" : "GOOGLE",
+    "types" : [ "school", "point_of_interest", "establishment" ],
+    "vicinity" : "No. 13, Jln Alsagoff, Pontian,, 82000, Pontian, Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4876927,
+          "lng" : 103.3913526
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489037030291502,
+             "lng" : 103.3926759802915
+          },
+          "southwest" : {
+             "lat" : 1.486339069708498,
+             "lng" : 103.3899780197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "e70f92231f7e43d0dab1fd472721e11f9f488201",
+    "name" : "Perkhidmatan Iklan Chin Yee",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 3456,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/103152577859242321875\"\u003eJia Won Goh\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAwXULGR4eAQk2A02UY5rN-cGHoPWb1REAdEK6Ukpbws0yWaLHzTvHiAj9FQXWtt-MvlAt86n7Fq5O8n0NcudLMKlvY5uKuVk06Ui5yegtpu4NRGpQi99llJrT2T2Q33jBEhDJWvle4mc4jvofRxyiPZU_GhSHYAJwbEf9b1i1XJ6-5bPED4TP7Q",
+          "width" : 4608
+       }
+    ],
+    "place_id" : "ChIJNV0RsXGY0DEREVAAnwuNZWc",
+    "plus_code" : {
+       "compound_code" : "F9QR+3G Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QR+3G"
+    },
+    "rating" : 3,
+    "reference" : "ChIJNV0RsXGY0DEREVAAnwuNZWc",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "No. 707, Jalan Teo Kang Sui, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4884605,
+          "lng" : 103.388542
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489798880291502,
+             "lng" : 103.3898613302915
+          },
+          "southwest" : {
+             "lat" : 1.487100919708498,
+             "lng" : 103.3871633697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "e28371b35c24e75b8a0d56e99636dd82c22240f7",
+    "name" : "Oops® China",
+    "place_id" : "ChIJozei5XGY0DERMBPUAK2kj4Y",
+    "plus_code" : {
+       "compound_code" : "F9QQ+9C Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+9C"
+    },
+    "reference" : "ChIJozei5XGY0DERMBPUAK2kj4Y",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "13, Jalan Bakek, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4884605,
+          "lng" : 103.388542
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489798880291502,
+             "lng" : 103.3898613302915
+          },
+          "southwest" : {
+             "lat" : 1.487100919708498,
+             "lng" : 103.3871633697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "820ff712b7a59656b4f685b76161783ee3e3122f",
+    "name" : "Oops",
+    "place_id" : "ChIJozei5XGY0DERMChYxsDUPlU",
+    "plus_code" : {
+       "compound_code" : "F9QQ+9C Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+9C"
+    },
+    "rating" : 5,
+    "reference" : "ChIJozei5XGY0DERMChYxsDUPlU",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "13, Jalan Bakek, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4884605,
+          "lng" : 103.388542
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489798880291502,
+             "lng" : 103.3898613302915
+          },
+          "southwest" : {
+             "lat" : 1.487100919708498,
+             "lng" : 103.3871633697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "040ecdbf711a4487a6414d92b04616dbb88e3322",
+    "name" : "Oops™ Singapore",
+    "place_id" : "ChIJozei5XGY0DERunglEr7-jSs",
+    "plus_code" : {
+       "compound_code" : "F9QQ+9C Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QQ+9C"
+    },
+    "reference" : "ChIJozei5XGY0DERunglEr7-jSs",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "13, Jalan Bakek, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4872794,
+          "lng" : 103.3918063
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488501730291502,
+             "lng" : 103.3931807302915
+          },
+          "southwest" : {
+             "lat" : 1.485803769708498,
+             "lng" : 103.3904827697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "e38aca9c00e796f0d4db1db9b54dccae1d583cdd",
+    "name" : "Maslee Pontian, Johore.",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 588,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/117463905594476885900\"\u003eZuhairy Harun Ary\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAASaPudfYt9-e7DZ86Y91p1rs0l8hecyRn1DU9CZXBlq1gzedf-8u4G9-Ei0joh2atBxo00BPDki6KvLCIqY13vQN0Ya6VpKffU4PDQ7CbKObSf3YVkpLoQDbtk9vRgzXpEhBSTrYWBFtbGfoMerEJC69pGhRbvS0_b2VXroaVNjftyqutSbGIjg",
+          "width" : 1040
+       }
+    ],
+    "place_id" : "ChIJEflt4G-Y0DERPiMBtRFI6wI",
+    "plus_code" : {
+       "compound_code" : "F9PR+WP Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+WP"
+    },
+    "rating" : 3.7,
+    "reference" : "ChIJEflt4G-Y0DERPiMBtRFI6wI",
+    "scope" : "GOOGLE",
+    "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 502,
+    "vicinity" : "Lot 1-6 & 15, 19, Lorong Abadi, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.482429,
+          "lng" : 103.3908755
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.483760080291502,
+             "lng" : 103.3921855302915
+          },
+          "southwest" : {
+             "lat" : 1.481062119708498,
+             "lng" : 103.3894875697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "f94dbf386e0a38a7ea703118e174d2a3396e3058",
+    "name" : "Kenanga Investment Bank Berhad",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "place_id" : "ChIJRfmPHHeY0DERiHTAO-c6R3k",
+    "plus_code" : {
+       "compound_code" : "F9JR+X9 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9JR+X9"
+    },
+    "rating" : 4.5,
+    "reference" : "ChIJRfmPHHeY0DERiHTAO-c6R3k",
+    "scope" : "GOOGLE",
+    "types" : [ "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "916, Ground Floor, Jalan Bakek, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4868561,
+          "lng" : 103.3881786
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488307830291502,
+             "lng" : 103.3894865302915
+          },
+          "southwest" : {
+             "lat" : 1.485609869708498,
+             "lng" : 103.3867885697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "0fbc653add99f017e99efc2fb649889fa372f143",
+    "name" : "Pontian District Council",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2218,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/104500535062564320698\"\u003eZakaria Sidek\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAFSuxiu4_Sgkwl-xuxzfEV2tKupznKVQkrD9B-yuJJ7GabFNnHnB8wajvLvJPUrmTFOO9eVQ_FmhVznNpLyEOYRRrYQ2baHnhOBuLOMUlQXDPv2foHTLzqAhZ6upyOD-tEhA6bWckI4I0vRrIAQcgmQpZGhRFHOdcTyF9r0RkheQjMUnzMfZYCA",
+          "width" : 2976
+       }
+    ],
+    "place_id" : "ChIJq0CvfnuY0DER060iUYYywNs",
+    "plus_code" : {
+       "compound_code" : "F9PQ+P7 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+P7"
+    },
+    "rating" : 4.6,
+    "reference" : "ChIJq0CvfnuY0DER060iUYYywNs",
+    "scope" : "GOOGLE",
+    "types" : [ "local_government_office", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 9,
+    "vicinity" : "Majlis Daerah Pontian, Jalan Dewan, 80000, Pontian, Johor, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4871967,
+          "lng" : 103.3873451
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.488497530291502,
+             "lng" : 103.3885879802915
+          },
+          "southwest" : {
+             "lat" : 1.485799569708498,
+             "lng" : 103.3858900197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "3d725765480d2833a86b350432c776ebf49492ab",
+    "name" : "Pontian Courthouse",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2976,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100546811129396069543\"\u003eEu Jin Ang\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAl0GAtYP4Yonohaf8N6t8aLhjKX8Dm-JtkemrDk1E-Ig9JMuaPonVZQvT5vhtlytYGs5VB3M53vCzT1PmV8dVfVFwPqV0YwIbK5LlI8lTGL7-Ex206rtVhi-ZFz7shOddEhA6AOsTLdWxn-XMvREYINVPGhRfkyTQSplF579U8K1egzkqCS-a-Q",
+          "width" : 3968
+       }
+    ],
+    "place_id" : "ChIJDbtTJHKY0DERZdYa7ZtsdUk",
+    "plus_code" : {
+       "compound_code" : "F9PP+VW Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PP+VW"
+    },
+    "rating" : 4,
+    "reference" : "ChIJDbtTJHKY0DERZdYa7ZtsdUk",
+    "scope" : "GOOGLE",
+    "types" : [ "courthouse", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "Jalan Othman, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4880247,
+          "lng" : 103.3873663
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.489440830291502,
+             "lng" : 103.3886956802915
+          },
+          "southwest" : {
+             "lat" : 1.486742869708498,
+             "lng" : 103.3859977197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id" : "49d65d47e8b61f4dc39ff9d6dbd0bced182ace8e",
+    "name" : "Bangunan Sultan Ismail",
+    "photos" : [
+       {
+          "height" : 1313,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/112925650275198963901\"\u003eIzat Iberzat\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAARtlplYPjvpjXQ_VBtm11pmr51ZAz179oRvms5l0tG76NhB1AxKMvc2pG_n27oEKlaRtxBHk_SxbS1N4BslmsgYHnrpFE1z0E6Rf3dMTqFCQ_K0ORgyCaFXKBpvo6oXbsEhCPilKKKg-QfPt9c08ALV9RGhTCYOyDYANHDb0Yejw0jS1rD-PxDw",
+          "width" : 1080
+       }
+    ],
+    "place_id" : "ChIJp-B8HHKY0DERNqNoQh1i6mI",
+    "plus_code" : {
+       "compound_code" : "F9QP+6W Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9QP+6W"
+    },
+    "rating" : 5,
+    "reference" : "ChIJp-B8HHKY0DERNqNoQh1i6mI",
+    "scope" : "GOOGLE",
+    "types" : [ "premise", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "1026, Jalan Ismail, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4855385,
+          "lng" : 103.3910568
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486900230291502,
+             "lng" : 103.3924005802915
+          },
+          "southwest" : {
+             "lat" : 1.484202269708498,
+             "lng" : 103.3897026197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id" : "576026366fbd3ca2ccdf0b564420b38c0ccadd46",
+    "name" : "PRINCESS HOTEL.",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 2448,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/116434071184033971134\"\u003ePRINCESS HOTEL\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAAPOEuM7F31qN7azViqgUzO3WtbNkJTjdWTrdVESElBNlzTEdplym9f436PJD4xZkcKoCEWBtvGAet-B_jjTmXzyBBnyPtoWCuAeHEowWNQWwHiE9cbwVjFoFsUIGYfK2EhAR2PN7KxsaPyN2K0KBWfT0GhRTuMXoqFDZHUutSHFyHgcLrqq8mw",
+          "width" : 3264
+       }
+    ],
+    "place_id" : "ChIJCV8lhHCY0DER8TxwC97lBFA",
+    "plus_code" : {
+       "compound_code" : "F9PR+6C Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+6C"
+    },
+    "rating" : 4.2,
+    "reference" : "ChIJCV8lhHCY0DER8TxwC97lBFA",
+    "scope" : "GOOGLE",
+    "types" : [ "lodging", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 86,
+    "vicinity" : "no 672, Jalan Taib, Pontian Kecil, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.48551,
+          "lng" : 103.3901921
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486878830291502,
+             "lng" : 103.3915914302915
+          },
+          "southwest" : {
+             "lat" : 1.484180869708498,
+             "lng" : 103.3888934697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "d4bc917079365502c09c60b5154276e6a834a3a1",
+    "name" : "CIMB Bank Pontian Kechil",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 1968,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/115851501453418046560\"\u003erafi sariman\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAHdmp8vSrSnidq5eX-m5Nu474HmaSmUnhVoisfyyQDUY-8YMEyE046Snf1XWnoDwm5a1SJ2-cEBbTicpsz6Bog__UOnOgVnYRVcGcwxcxpfNCBJ6u9j5xKafpgRd3sh6SEhBCMjvSVnorKrrocyv4YQ6jGhSBl9OjAk7gqYtI-NwHapCy6pzT4Q",
+          "width" : 4160
+       }
+    ],
+    "place_id" : "ChIJ9bA5H3GY0DERdGZZTP_wTkc",
+    "plus_code" : {
+       "compound_code" : "F9PR+63 Kampung Atap, Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PR+63"
+    },
+    "rating" : 4.6,
+    "reference" : "ChIJ9bA5H3GY0DERdGZZTP_wTkc",
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 8,
+    "vicinity" : "Wisma Koperasi, 742, Jalan Taib, Kampung Atap, Pontian Kechil"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485561,
+          "lng" : 103.3878589
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486910180291502,
+             "lng" : 103.3892085802915
+          },
+          "southwest" : {
+             "lat" : 1.484212219708498,
+             "lng" : 103.3865106197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "ccec599c8289e0e670479d6474b1581d8111bcb3",
+    "name" : "Coffee farms at Benut, Pontian, Johor.",
+    "place_id" : "ChIJQbFQlo2Z0DER1AgdxpKIHCQ",
+    "plus_code" : {
+       "compound_code" : "F9PQ+64 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+64"
+    },
+    "reference" : "ChIJQbFQlo2Z0DER1AgdxpKIHCQ",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4860923,
+          "lng" : 103.3886612
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487442030291502,
+             "lng" : 103.3900120302915
+          },
+          "southwest" : {
+             "lat" : 1.484744069708498,
+             "lng" : 103.3873140697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "7192cf9a9b909e0ffe5ef247486f1316e4b1a3cf",
+    "name" : "Pesuruhjaya Sumpah",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "place_id" : "ChIJj5p49C6Z0DERfnJXszm1ARs",
+    "plus_code" : {
+       "compound_code" : "F9PQ+CF Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+CF"
+    },
+    "reference" : "ChIJj5p49C6Z0DERfnJXszm1ARs",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "10, Bangunan Arked Mara, 82000"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4860768,
+          "lng" : 103.3884754
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487453480291502,
+             "lng" : 103.3898933802915
+          },
+          "southwest" : {
+             "lat" : 1.484755519708498,
+             "lng" : 103.3871954197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "0e98bd7cd2648f2b0a4c09494bc824551f45473b",
+    "name" : "Rumah Bawal HQ",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "place_id" : "ChIJa5qIwDuZ0DERnIZB1KIhvZs",
+    "plus_code" : {
+       "compound_code" : "F9PQ+C9 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+C9"
+    },
+    "rating" : 5,
+    "reference" : "ChIJa5qIwDuZ0DERnIZB1KIhvZs",
+    "scope" : "GOOGLE",
+    "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4862793,
+          "lng" : 103.3882906
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487673830291502,
+             "lng" : 103.3897531802915
+          },
+          "southwest" : {
+             "lat" : 1.484975869708498,
+             "lng" : 103.3870552197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "0e4fad4da4e38b1ddbbed9d6b52dadfe3618c431",
+    "name" : "Asma Maju Enterprise",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 540,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/112786009890813827018\"\u003easma maju\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAseOQsRzA24qlaU20gNM2SQCjrm8hoNpc9ZweijFdrz-sBj4xl4HrYzGInYF64Pgdu03qRqcV9NZh4mlM3qUXXMg1FNCTVV8Vf2amOZ4urCD1u1j6lJrWHSD00r9YGC45EhAnF-4bnzG6hVEUK_CShzn1GhQn40kDoumxyqt1VbMGsGdwiN45GQ",
+          "width" : 960
+       }
+    ],
+    "place_id" : "ChIJq-gn5ASZ0DERR--xRRWE9WE",
+    "plus_code" : {
+       "compound_code" : "F9PQ+G8 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+G8"
+    },
+    "reference" : "ChIJq-gn5ASZ0DERR--xRRWE9WE",
+    "scope" : "GOOGLE",
+    "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+    "vicinity" : "Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4858959,
+          "lng" : 103.3883474
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487222480291502,
+             "lng" : 103.3896990302915
+          },
+          "southwest" : {
+             "lat" : 1.484524519708498,
+             "lng" : 103.3870010697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "8e77ec3739f31f9846f6e1020250f5ebee5a48b8",
+    "name" : "Ambang Kesuma (M) Sdn. Bhd.",
+    "place_id" : "ChIJpS2Bb3GY0DERJBavOceKiik",
+    "plus_code" : {
+       "compound_code" : "F9PQ+98 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+98"
+    },
+    "reference" : "ChIJpS2Bb3GY0DERJBavOceKiik",
+    "scope" : "GOOGLE",
+    "types" : [ "general_contractor", "point_of_interest", "establishment" ],
+    "vicinity" : "No 1, Aras 1, Wisma Kariah, Jalan Pejabat, 82000, Pontian, Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4860356,
+          "lng" : 103.3881362
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487279930291502,
+             "lng" : 103.3894782302915
+          },
+          "southwest" : {
+             "lat" : 1.484581969708498,
+             "lng" : 103.3867802697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "d70375b8acf23f780f8ff4393dfed367ca0b1da5",
+    "name" : "Pasar Peladang Pontian",
+    "photos" : [
+       {
+          "height" : 270,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/112786009890813827018\"\u003easma maju\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAswYYtNtRmgoAXCFWpJcu_Ls7P3OYRCd6vFWuk52ZOIk-pQCFvHE_fCLPIY-mK_AQIZY_HcU79wJ_B4NuafwncUEs91ATaWQ7DnusA50J-5VzfFY83zkKOABl_bpGYwTTEhAcAk7WoDydNVRvX5RFvpoqGhRqKDHgjAiKs8D0F4U96O9qwDed2w",
+          "width" : 480
+       }
+    ],
+    "place_id" : "ChIJN3Ure3GY0DERHiUigSvB7Qg",
+    "plus_code" : {
+       "compound_code" : "F9PQ+C7 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+C7"
+    },
+    "rating" : 3.8,
+    "reference" : "ChIJN3Ure3GY0DERHiUigSvB7Qg",
+    "scope" : "GOOGLE",
+    "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 6,
+    "vicinity" : "Jalan Pantai, Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4859438,
+          "lng" : 103.3875721
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487336330291502,
+             "lng" : 103.3889634802915
+          },
+          "southwest" : {
+             "lat" : 1.484638369708498,
+             "lng" : 103.3862655197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id" : "5117de054df5b5ffb4f7475eaf025642118382c5",
+    "name" : "Jalin Mesra (Ibu Merry)",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 800,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/103794275459876440443\"\u003eIswadi Nordin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAtiPTUw88PcmhpeidsOzUTKPdAZw4tUKIaiLQxgfSlNplBJVUnhJjYobpD2T2y3Cra7Ttpj8W_aAnsktT_ccOUKEgS3c6Sn3Ac1OCoFBjmMaIcn0vYDi6kzWE7xGNbp7oEhBwhVAPbuKzvNWu1qYtALfNGhRies7vH9Fi2SANsIrA1BBYtwgX_Q",
+          "width" : 480
+       }
+    ],
+    "place_id" : "ChIJCWpy2HOY0DERXbjSH_Sy9bQ",
+    "plus_code" : {
+       "compound_code" : "F9PQ+92 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+92"
+    },
+    "rating" : 4,
+    "reference" : "ChIJCWpy2HOY0DERXbjSH_Sy9bQ",
+    "scope" : "GOOGLE",
+    "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.485501,
+          "lng" : 103.3882661
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486702630291502,
+             "lng" : 103.3896689802915
+          },
+          "southwest" : {
+             "lat" : 1.484004669708498,
+             "lng" : 103.3869710197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "3a7a9f7d1104cafa749d689435fb87788c83b66b",
+    "name" : "Perhentian Bas Dan Teksi Pontian",
+    "photos" : [
+       {
+          "height" : 405,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100931828751909470177\"\u003eHairul Ahmad\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA9BKCZUCETE02YqoW-D4o3u5SBKpXeTT7hNgvZ-Awh3kIvE-ExOvQnTrJz3dByXiE7ZydZKYbMiEQxK1EyokBE22b4RoJbYvdxPJu4F_P9DTSTN_PnE93HvcN-_maZgneEhAAr3CGx-70yB3A7UY_cKsoGhQljJn9jik6AXGvoVbQ_ptd1Ozegg",
+          "width" : 720
+       }
+    ],
+    "place_id" : "ChIJfdXrZ3GY0DERN338L-duUJM",
+    "plus_code" : {
+       "compound_code" : "F9PQ+68 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+68"
+    },
+    "rating" : 2.8,
+    "reference" : "ChIJfdXrZ3GY0DERN338L-duUJM",
+    "scope" : "GOOGLE",
+    "types" : [ "transit_station", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 4,
+    "vicinity" : "Kampung Atap, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4854776,
+          "lng" : 103.3879817
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486808180291502,
+             "lng" : 103.3892668802915
+          },
+          "southwest" : {
+             "lat" : 1.484110219708498,
+             "lng" : 103.3865689197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "32ad934b154869267261619c3f84ad709bd86dfe",
+    "name" : "Zyxin Aluminium & Glass Enterprise",
+    "place_id" : "ChIJ83pNZ3GY0DERznLefh9neN0",
+    "plus_code" : {
+       "compound_code" : "F9PQ+55 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+55"
+    },
+    "reference" : "ChIJ83pNZ3GY0DERznLefh9neN0",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Taman Medan Koop, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4854363,
+          "lng" : 103.3879354
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.486774630291502,
+             "lng" : 103.3892474802915
+          },
+          "southwest" : {
+             "lat" : 1.484076669708498,
+             "lng" : 103.3865495197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "9685c326bcc9201768cd3e6f7f3034d3156406c8",
+    "name" : "Yes",
+    "place_id" : "ChIJVZACXnGY0DERKyJbyh1U2B0",
+    "plus_code" : {
+       "compound_code" : "F9PQ+55 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+55"
+    },
+    "reference" : "ChIJVZACXnGY0DERKyJbyh1U2B0",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Econsave Pontian, No. 11023, Jalan Pontian, Batu 36, 82000, Pontian, Johor, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4855744,
+          "lng" : 103.3881191
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487048880291502,
+             "lng" : 103.3894763802915
+          },
+          "southwest" : {
+             "lat" : 1.484350919708498,
+             "lng" : 103.3867784197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "da67b4a5628f01e7dedce3b57325b5a7702d66f5",
+    "name" : "Ilham Restu",
+    "place_id" : "ChIJcwcDZ3GY0DERU63eDfr-WLQ",
+    "plus_code" : {
+       "compound_code" : "F9PQ+66 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+66"
+    },
+    "reference" : "ChIJcwcDZ3GY0DERU63eDfr-WLQ",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Plaza R & R, Jalan Aras, Pontian, No. 13, 82000, Pontian District"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.4855771,
+          "lng" : 103.38817
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.487050630291502,
+             "lng" : 103.3895099302915
+          },
+          "southwest" : {
+             "lat" : 1.484352669708498,
+             "lng" : 103.3868119697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "d4529ded6a8be8d5c301c85f745fa9ebd2beea75",
+    "name" : "Ilyasak Enterprise",
+    "place_id" : "ChIJtwyrZ3GY0DEREopvtqXiUHM",
+    "plus_code" : {
+       "compound_code" : "F9PQ+67 Pontian District, Johor, Malaysia",
+       "global_code" : "6PH5F9PQ+67"
+    },
+    "reference" : "ChIJtwyrZ3GY0DEREopvtqXiUHM",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No. 20, Kampung Tengah, Sungai Kuali, Serkat, Johor, Pontian District"
+ },
+]

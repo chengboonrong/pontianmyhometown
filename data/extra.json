@@ -1,0 +1,1241 @@
+[      {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6490586,
+          "lng" : 103.258076
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650621380291502,
+             "lng" : 103.2594288802915
+          },
+          "southwest" : {
+             "lat" : 1.647923419708498,
+             "lng" : 103.2567309197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+    "id" : "5dce2297514ebc9e073488f1bed6dee730bbc9db",
+    "name" : "Balai Polis Benut",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 1836,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101775562391947060072\"\u003eohayo goif\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAJ6Aftuepo5Cfq7t6tVbaRSz0xbvSq0eUg1NQniO9A4-x-fiVf7iX3c4JA6FwOktHqto2A-JIRp0ziP6izvTpdpG2KuQHtpvTHXn5orUKacOYevnDGQgA2WqiBQre2hf-EhANWC7q6KvIzkityVeMpSDMGhRXSxCtH-JGL4Csel6OHBojDl7w_w",
+          "width" : 3264
+       }
+    ],
+    "place_id" : "ChIJ08PvOueN0DER7PLGi5sPdYg",
+    "plus_code" : {
+       "compound_code" : "J7X5+J6 Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+J6"
+    },
+    "rating" : 5,
+    "reference" : "ChIJ08PvOueN0DER7PLGi5sPdYg",
+    "scope" : "GOOGLE",
+    "types" : [ "police", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 8,
+    "vicinity" : "JKR 1628,, Km 86 Jalan Johor Bahru-Batu Pahat,, Benut, 82200, Pontian, Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649616,
+          "lng" : 103.259187
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650972280291502,
+             "lng" : 103.2605359802915
+          },
+          "southwest" : {
+             "lat" : 1.648274319708498,
+             "lng" : 103.2578380197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "0df67759f21dea979aebafb42d1b7eaa41568fd6",
+    "name" : "Albaghdadi Benut",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 540,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/103548398788482325393\"\u003eAlbaghdadi Benut\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA0Fm5cTugas9JZj_Bd4pQI9jJAAUIiMhGy-YVjqON5WBIEMzX3coTSRPsDSg2wy3JA7111f9aZbE5D1RbReJoT4BiLI083156Ljt_ezOjAtNuhOsKiA6JFFxI-tFZsMRZEhBGrg9EwVTEC0xTt60DvJWUGhT_UpQKp52th5Fr4GcJV61JYdtCJg",
+          "width" : 960
+       }
+    ],
+    "place_id" : "ChIJYy2PQueN0DERl2OWa0LXFtI",
+    "plus_code" : {
+       "compound_code" : "J7X5+RM Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RM"
+    },
+    "reference" : "ChIJYy2PQueN0DERl2OWa0LXFtI",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No.8 Jalan Mutiara 2, Pusat Perdagangan Benut, 82200, Benut, Pontian, Johor, Benut, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649081,
+          "lng" : 103.2592297
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650493180291502,
+             "lng" : 103.2605800302915
+          },
+          "southwest" : {
+             "lat" : 1.647795219708498,
+             "lng" : 103.2578820697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "4b0e6f34f67d9e1aaaf3b26920a7270563c3aaae",
+    "name" : "Usahawan Budak Sekolah Malaysia",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 853,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/111039804134369315416\"\u003eUsahawan Budak Sekolah Malaysia\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAXlGh1b3tmCqJJumDRQbazUQx3m43tQLchfdKosW02-6G5cC9DG5VOkGu39nojFnLnaxEita9RNt5GuEtts8MF5TCo0rhBg-UjUotMZJhcM5LJ0AnVhc7VsLKejb48MlcEhBNzNkmgf79p52fGq3uvS7cGhQbV9VEb2rnKG4Q_o7iSdEqPgeTMg",
+          "width" : 1520
+       }
+    ],
+    "place_id" : "ChIJUYcPneaN0DERtg_nqbD8Bv8",
+    "plus_code" : {
+       "compound_code" : "J7X5+JM Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+JM"
+    },
+    "reference" : "ChIJUYcPneaN0DERtg_nqbD8Bv8",
+    "scope" : "GOOGLE",
+    "types" : [ "university", "point_of_interest", "establishment" ],
+    "vicinity" : "No. 8, Tingkat 2, Wisma Hj. Arshad, Jalan Mutiara 4, Pusat Perdagangan Benut, Benut, pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6501631,
+          "lng" : 103.2590925
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651512130291502,
+             "lng" : 103.2604410802915
+          },
+          "southwest" : {
+             "lat" : 1.648814169708498,
+             "lng" : 103.2577431197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "62653cbdb1a08da3f23758cdfa11052c63800344",
+    "name" : "AURA RIZQ MANAGEMENT",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 965,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/107236854523787917049\"\u003eAURA RIZQ MANAGEMENT\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAALr-mbZSTd1xAh4ex0KkXRpXM5YtUkMsCt2FjbyT6OSSAcJ17fZ9ImRzT4dXFAQklYvDVujzdKJPaTCXr6n-EBOG8ZbfCm4D9vRLS8wZICRtOuQN9EoBUOXBV5rFP7YZGEhBohZKENE9KVgWcJBhNgTQsGhT0OuIs8xNA3_qQc9d4kOdyM_uI9g",
+          "width" : 750
+       }
+    ],
+    "place_id" : "ChIJ2UemXOeN0DERQg0HFRlANEY",
+    "plus_code" : {
+       "compound_code" : "M725+3J Benut, Johor, Malaysia",
+       "global_code" : "6PH5M725+3J"
+    },
+    "rating" : 5,
+    "reference" : "ChIJ2UemXOeN0DERQg0HFRlANEY",
+    "scope" : "GOOGLE",
+    "types" : [ "insurance_agency", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "Bangunan MARA, Bazar, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6490922,
+          "lng" : 103.2603586
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650486880291502,
+             "lng" : 103.2617085302915
+          },
+          "southwest" : {
+             "lat" : 1.647788919708498,
+             "lng" : 103.2590105697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id" : "77f1053f73fa141cfa28e08615fb527a997290cd",
+    "name" : "Benut Homestay",
+    "photos" : [
+       {
+          "height" : 2448,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/104546070250324165801\"\u003eBenut Homestay\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAwk-8Bz_hs6ymxplOOup7aOKoD7mEPOr4hCU59bDoHDLV8Z9G298m1chPc3e8mPn2j0GBlCtq8GdZsVNuDjGrKQg_WrjXYwBhNbdcqEjrune-PwqtuLPhFRs6H0M7a5p3EhADCtNXFDH4rSK-YkPUZqX7GhSa0OC4ZbU_yW9htI7THucEt8VFwg",
+          "width" : 3264
+       }
+    ],
+    "place_id" : "ChIJ3ySaNeeN0DERKAfiiKkd388",
+    "plus_code" : {
+       "compound_code" : "J7X6+J4 Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X6+J4"
+    },
+    "rating" : 4.5,
+    "reference" : "ChIJ3ySaNeeN0DERKAfiiKkd388",
+    "scope" : "GOOGLE",
+    "types" : [ "lodging", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 108,
+    "vicinity" : "27A, Jalan Mutiara 4, Pusat Perniagaan, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6490579,
+          "lng" : 103.2610187
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650462530291502,
+             "lng" : 103.2623691302915
+          },
+          "southwest" : {
+             "lat" : 1.647764569708498,
+             "lng" : 103.2596711697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "173b297ba6d3364be24fec856a6e2724233bb3fd",
+    "name" : "Pasaraya KU - Benut",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 1840,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/106638704504294751748\"\u003ePasaraya KU\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAC19Lkp2tO-1QoibQ9-GF2pe_69x2h8Sq5f_xFxUqOHbJiVlEfc4R3zDSTPIz3yitdTEusYkMmQontIbeA1eO5g7AV-goX4poK4GWDmSLfQpqzj40qqAApZtdu7JWz7laEhBpLB30HFfNI2-0WPGmGJKoGhRdeTf9pIxocLP6PXVPSjAy5twNNg",
+          "width" : 2516
+       }
+    ],
+    "place_id" : "ChIJGTwZweCN0DER_Q7HrCrHo4s",
+    "plus_code" : {
+       "compound_code" : "J7X6+JC Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X6+JC"
+    },
+    "rating" : 3.7,
+    "reference" : "ChIJGTwZweCN0DER_Q7HrCrHo4s",
+    "scope" : "GOOGLE",
+    "types" : [
+       "supermarket",
+       "grocery_or_supermarket",
+       "food",
+       "point_of_interest",
+       "clothing_store",
+       "store",
+       "establishment"
+    ],
+    "user_ratings_total" : 120,
+    "vicinity" : "No.32,33,34, Bandar Benut,, Pusat Perniagaan Benut, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6454478,
+          "lng" : 103.2585736
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.646796930291502,
+             "lng" : 103.2599364802915
+          },
+          "southwest" : {
+             "lat" : 1.644098969708498,
+             "lng" : 103.2572385197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id" : "48f1f27a643ade204b4a31b778c82bccda7687be",
+    "name" : "Klinik Kesihatan Benut",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 758,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/105194554526673952723\"\u003eAmirul Asyrofudin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA-Q8m83qolPRwxtKADl_EXCkgRi0Qf67tZYruS9B6LZ6lg5IF4tZwOIv6WFhN7nB4C1kwA45Kz169MG3pmLugcilc-R3XWaVAc5RFL4ASiG956eYTnjqs81BOeWeMKQ9oEhBlUoJGuw8xSO2blZ-3XmTwGhSPibyO90B4K-2a9k7bB8oUEI4yLQ",
+          "width" : 758
+       }
+    ],
+    "place_id" : "ChIJo0GSgeaN0DER3_nMwQQPHfY",
+    "plus_code" : {
+       "compound_code" : "J7W5+5C Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7W5+5C"
+    },
+    "rating" : 5,
+    "reference" : "ChIJo0GSgeaN0DER3_nMwQQPHfY",
+    "scope" : "GOOGLE",
+    "types" : [ "health", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 2,
+    "vicinity" : "Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649504,
+          "lng" : 103.258548
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650854580291502,
+             "lng" : 103.2598970302915
+          },
+          "southwest" : {
+             "lat" : 1.648156619708498,
+             "lng" : 103.2571990697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "19a1965387b5489a9a99a9a848d3699808111eec",
+    "name" : "ARTDESIGN.CO",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 900,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/109462025674762702535\"\u003eARTDESIGN.CO\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAwHiW6e4Eq9dSO9Wk7WZ7Vr0xSugtdDy88UgjZSM0JLZ59mUqJ9WBYKi1iPJsDdc2yUVvm8tVRViYur2IKQSNerFYQi5bBPIA2ihqdDiCIJngkyuashEZLTV55zED8Zy5EhCVST30eXqfbqi6yHdE74aQGhSV56wLhwN65onIpTNdLH05GhrUnQ",
+          "width" : 1600
+       }
+    ],
+    "place_id" : "ChIJA4tlbueN0DERsNtidsqSqAo",
+    "plus_code" : {
+       "compound_code" : "J7X5+RC Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RC"
+    },
+    "reference" : "ChIJA4tlbueN0DERsNtidsqSqAo",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Jalan Perdagangan Benut,Benut,Pontian,Johor,Malaysia, Benut, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649758,
+          "lng" : 103.2588868
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651080680291502,
+             "lng" : 103.2602180302915
+          },
+          "southwest" : {
+             "lat" : 1.648382719708498,
+             "lng" : 103.2575200697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id" : "ef0e2a8e83e62c2af43febf797fb1eca634e5187",
+    "name" : "Bank Simpanan Nasional ( BSN ) @ Benut - LOAN DEPT.",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 2560,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100699453741025595883\"\u003es c\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAqiXUUnivWBlQggUxP4fZZQFUTgVvKf1w_dv448T8MpLJOerlK6-PgTANXymcVKEzgGEU7vjauDbUxPSL3NI3V2-aBK7XQMMrYOSeQWPFCPsfjNbhKsDhJMjdmjaYk2fcEhCLCg0VJ9a4O3T82KnFkR5BGhS-kcgF0xVbGsmnzgIxoulc22yspA",
+          "width" : 3840
+       }
+    ],
+    "place_id" : "ChIJHwKsZ-eN0DERUZgu9H8A_sg",
+    "plus_code" : {
+       "compound_code" : "J7X5+WH Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+WH"
+    },
+    "rating" : 3.5,
+    "reference" : "ChIJHwKsZ-eN0DERUZgu9H8A_sg",
+    "scope" : "GOOGLE",
+    "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 6,
+    "vicinity" : "165, Jalan Besar Benut, Benut"
+ },
+ {
+    "geometry" : {
+       "location" : {
+          "lat" : 1.64572,
+          "lng" : 103.258557
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651369,
+             "lng" : 103.262985
+          },
+          "southwest" : {
+             "lat" : 1.6357459,
+             "lng" : 103.2506668
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id" : "291bad84ed4f7e160528d7d2b16916610109cbe7",
+    "name" : "Benut",
+    "place_id" : "ChIJeQJTr-WN0DERY-LYuIgg5as",
+    "reference" : "ChIJeQJTr-WN0DERY-LYuIgg5as",
+    "scope" : "GOOGLE",
+    "types" : [ "sublocality_level_1", "sublocality", "political" ],
+    "vicinity" : "Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6501371,
+          "lng" : 103.2588619
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651486080291502,
+             "lng" : 103.2601916802915
+          },
+          "southwest" : {
+             "lat" : 1.648788119708498,
+             "lng" : 103.2574937197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "1fcdbd5174cb3a21f492c4b8b7b1b0ff962f3aaa",
+    "name" : "Kwong yak hong sdn bhd",
+    "place_id" : "ChIJwVJbQpqN0DERcB2nfFrsxIc",
+    "plus_code" : {
+       "compound_code" : "M725+3G Benut, Johor, Malaysia",
+       "global_code" : "6PH5M725+3G"
+    },
+    "reference" : "ChIJwVJbQpqN0DERcB2nfFrsxIc",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "165, 96, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6491031,
+          "lng" : 103.2591668
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650504930291502,
+             "lng" : 103.2605168802915
+          },
+          "southwest" : {
+             "lat" : 1.647806969708498,
+             "lng" : 103.2578189197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "bb575ab45826f7da638028f5f5063ab634e364e2",
+    "name" : "Butik Nur Bridal",
+    "place_id" : "ChIJk0rkP-eN0DERn5an4jrVSn4",
+    "plus_code" : {
+       "compound_code" : "J7X5+JM Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+JM"
+    },
+    "reference" : "ChIJk0rkP-eN0DERn5an4jrVSn4",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Jalan Mutiara 4, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6491353,
+          "lng" : 103.2592012
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650520680291502,
+             "lng" : 103.2605509302915
+          },
+          "southwest" : {
+             "lat" : 1.647822719708498,
+             "lng" : 103.2578529697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "1d96f29cf41ff4aa3fd866a065df081ef988ad35",
+    "name" : "Klinik Muhammad",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 3120,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101090502511970313221\"\u003eJamon Chok\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAO2keKBIhRbRbZplFKdMgZ0gfLJ94D1wBK3fU9wPgp2mv3-rPr8ahmIrnMLK67xUpkurcJNvt0g8PhqWUnIswY9WcK_6cP7igDFDP_JX4ataLxYW3_WZkbf-idDrsGy5BEhC45f66k8GUkRoAJZ-ZoscwGhRtUZQtldXCUJKLaKWiJyKZqvUEbw",
+          "width" : 4160
+       }
+    ],
+    "place_id" : "ChIJ3ZLEQeeN0DER8I2MRLUnMgU",
+    "plus_code" : {
+       "compound_code" : "J7X5+MM Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+MM"
+    },
+    "rating" : 5,
+    "reference" : "ChIJ3ZLEQeeN0DER8I2MRLUnMgU",
+    "scope" : "GOOGLE",
+    "types" : [ "health", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 3,
+    "vicinity" : "no 10, Jalan Mutiara 4, pusat perniagaan, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6488593,
+          "lng" : 103.2588867
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650209230291502,
+             "lng" : 103.2601755802915
+          },
+          "southwest" : {
+             "lat" : 1.647511269708498,
+             "lng" : 103.2574776197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "debad6333760ff80b763f534890fcb551fc7a73d",
+    "name" : "Kedai Gunting Rambut M.Ravi",
+    "place_id" : "ChIJJ_-dFueN0DERNA2YxtGV78Q",
+    "plus_code" : {
+       "compound_code" : "J7X5+GH Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+GH"
+    },
+    "reference" : "ChIJJ_-dFueN0DERNA2YxtGV78Q",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6497572,
+          "lng" : 103.2592859
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651054980291502,
+             "lng" : 103.2606321802915
+          },
+          "southwest" : {
+             "lat" : 1.648357019708498,
+             "lng" : 103.2579342197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "cc8101e2685f08601de204f49fa98ad764688c09",
+    "name" : "Kuantum Magnet Rezeki",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 3648,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/117185026681318835063\"\u003eKuantum Magnet Rezeki\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAQP0JAWDBL0AwoQkqcVVIsQQqaPpCeejV3Azy5tGEnZFPsFC2rtIfA-SAxdpP9r3qBjIFUnIAI_uEpEnTwhIM9qNcaWuxlEMh4iDwVNNqEPn_7uirTSMi6Rb8MIonQLhKEhAiMNyPymWFLGo75GV19HqnGhRMChmxIQJFpJg4Qio27De0Zo7feA",
+          "width" : 5472
+       }
+    ],
+    "place_id" : "ChIJRQSbON2Z0DERXjqF7zVfDQg",
+    "plus_code" : {
+       "compound_code" : "J7X5+WP Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+WP"
+    },
+    "rating" : 3,
+    "reference" : "ChIJRQSbON2Z0DERXjqF7zVfDQg",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "No. 8 Jalan Mutiara 2 Pusat Perdagangan Benut Benut, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6495423,
+          "lng" : 103.2593699
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650855080291502,
+             "lng" : 103.2607185802915
+          },
+          "southwest" : {
+             "lat" : 1.648157119708498,
+             "lng" : 103.2580206197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "5d1af2590fb58ce4590d46e76ebca9f530eb1dee",
+    "name" : "Kongsimakan",
+    "place_id" : "ChIJPS26Q-eN0DERS6nPW_p5Z3s",
+    "plus_code" : {
+       "compound_code" : "J7X5+RP Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RP"
+    },
+    "reference" : "ChIJPS26Q-eN0DERS6nPW_p5Z3s",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6490823,
+          "lng" : 103.259275
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650493380291502,
+             "lng" : 103.2606252802915
+          },
+          "southwest" : {
+             "lat" : 1.647795419708498,
+             "lng" : 103.2579273197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "74dd01dd05a780acb80ac8632e052f02247919fa",
+    "name" : "Foresight Academy@BENUT",
+    "place_id" : "ChIJO-QcP-eN0DEREG6OSmmsTy0",
+    "plus_code" : {
+       "compound_code" : "J7X5+JP Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+JP"
+    },
+    "reference" : "ChIJO-QcP-eN0DEREG6OSmmsTy0",
+    "scope" : "GOOGLE",
+    "types" : [ "school", "point_of_interest", "establishment" ],
+    "vicinity" : "No 9 Tingkat, 2, Jalan Mutiara 4, Pusat Perdagangan, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6491213,
+          "lng" : 103.2593022
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650512580291502,
+             "lng" : 103.2606520802915
+          },
+          "southwest" : {
+             "lat" : 1.647814619708498,
+             "lng" : 103.2579541197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "af8fc84b547217804320c86c6b8e20299bdfd625",
+    "name" : "Kedai Emas Wan Sheng",
+    "place_id" : "ChIJFR6DP-eN0DERpA4RZJ6smkU",
+    "plus_code" : {
+       "compound_code" : "J7X5+JP Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+JP"
+    },
+    "reference" : "ChIJFR6DP-eN0DERpA4RZJ6smkU",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Jalan Mutiara 4, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6496036,
+          "lng" : 103.2594056
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650956430291502,
+             "lng" : 103.2607550802915
+          },
+          "southwest" : {
+             "lat" : 1.648258469708498,
+             "lng" : 103.2580571197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "b16f904b56fa1b672f6f814a45c26d4bce275d0f",
+    "name" : "Rm 2 Ke Atas Mlee",
+    "place_id" : "ChIJsS51Q-eN0DER5kGFMSwb22U",
+    "plus_code" : {
+       "compound_code" : "J7X5+RQ Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RQ"
+    },
+    "reference" : "ChIJsS51Q-eN0DER5kGFMSwb22U",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649546,
+          "lng" : 103.259429
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650856630291502,
+             "lng" : 103.2607776302915
+          },
+          "southwest" : {
+             "lat" : 1.648158669708498,
+             "lng" : 103.2580796697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id" : "8ee29564553d2ccab033f04c2dc3aab3c9926c61",
+    "name" : "Pekan Benut,Jalan Pontian",
+    "place_id" : "ChIJuTCRQ-eN0DERKyivrRVhFp4",
+    "plus_code" : {
+       "compound_code" : "J7X5+RQ Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RQ"
+    },
+    "reference" : "ChIJuTCRQ-eN0DERKyivrRVhFp4",
+    "scope" : "GOOGLE",
+    "types" : [
+       "bus_station",
+       "transit_station",
+       "point_of_interest",
+       "establishment"
+    ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6497885,
+          "lng" : 103.2593853
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651065230291502,
+             "lng" : 103.2607253302915
+          },
+          "southwest" : {
+             "lat" : 1.648367269708498,
+             "lng" : 103.2580273697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "a7c678cb89f30639feb19fdb7f4eff267cd21c4e",
+    "name" : "Sin Heng Leong Auto Parts",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "place_id" : "ChIJV0nzZIeN0DERMlLnHKKumxQ",
+    "plus_code" : {
+       "compound_code" : "J7X5+WQ Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+WQ"
+    },
+    "rating" : 5,
+    "reference" : "ChIJV0nzZIeN0DERMlLnHKKumxQ",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "store", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6487248,
+          "lng" : 103.2589444
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650110830291502,
+             "lng" : 103.2601986302915
+          },
+          "southwest" : {
+             "lat" : 1.647412869708498,
+             "lng" : 103.2575006697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "a12bff1142663681ff5f40fe4237aa1ecf4b43ea",
+    "name" : "Kedai Gunting Rambut",
+    "photos" : [
+       {
+          "height" : 1080,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100430391002423805182\"\u003eMunib Adja\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAeafV8sDVU4U6T71v-ztXbfOmQDS76JkMxLwZBJzRirqtL1tFgeBWDaW9bLPOiU8lXC7WdfkgBhtDTj_ZSgsRqB6dwLAN7q7FQvcSOWFzcmPAYomBWP9QpLbmBlXxwnLxEhCqa5Svz9RhLFmjCpOQMzmBGhSaOdD1KzBWkgEnINs-QKzjFkJVIA",
+          "width" : 1920
+       }
+    ],
+    "place_id" : "ChIJzxn_FueN0DERX2rnoU7J9sA",
+    "plus_code" : {
+       "compound_code" : "J7X5+FH Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+FH"
+    },
+    "rating" : 5,
+    "reference" : "ChIJzxn_FueN0DERX2rnoU7J9sA",
+    "scope" : "GOOGLE",
+    "types" : [ "hair_care", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6491346,
+          "lng" : 103.259397
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650518230291502,
+             "lng" : 103.2607467302915
+          },
+          "southwest" : {
+             "lat" : 1.647820269708498,
+             "lng" : 103.2580487697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "b4e4bf0019b8957bc8843eb1b09dcbb60271be4d",
+    "name" : "Target Supermarket (Benut) Sdn. Bhd.",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 440,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/100430391002423805182\"\u003eMunib Adja\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAb5jbPi6sPMXLEvi08h-9Cp_Xq2jmYAYbaWwHXG03vGKAhux0T_p-vQ_wjtSQNOdap8S-WrKDenMBO03NPpRadwh4GzvUzoVTMikAccLwyoxfZobYG27P4cZfAJeN4A1aEhDdVi3V5B74MmOCPIgr_dkeGhSpkE-DJvwZTMB5_KVgNinWrgjRqA",
+          "width" : 720
+       }
+    ],
+    "place_id" : "ChIJlSY2heaN0DERPb0NaD8QkVc",
+    "plus_code" : {
+       "compound_code" : "J7X5+MQ Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+MQ"
+    },
+    "rating" : 3.9,
+    "reference" : "ChIJlSY2heaN0DERPb0NaD8QkVc",
+    "scope" : "GOOGLE",
+    "types" : [
+       "supermarket",
+       "grocery_or_supermarket",
+       "food",
+       "point_of_interest",
+       "store",
+       "establishment"
+    ],
+    "user_ratings_total" : 227,
+    "vicinity" : "Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6503993,
+          "lng" : 103.2585219
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651748030291502,
+             "lng" : 103.2599064302915
+          },
+          "southwest" : {
+             "lat" : 1.649050069708498,
+             "lng" : 103.2572084697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "79668d95e9f00b677929fb5ce352e06844122c55",
+    "name" : "Perabot Guan Hong",
+    "place_id" : "ChIJgbo-iN2N0DERjHXPZ_JnQbU",
+    "plus_code" : {
+       "compound_code" : "M725+5C Benut, Johor, Malaysia",
+       "global_code" : "6PH5M725+5C"
+    },
+    "reference" : "ChIJgbo-iN2N0DERjHXPZ_JnQbU",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.649523,
+          "lng" : 103.2596076
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650848180291502,
+             "lng" : 103.2609563802915
+          },
+          "southwest" : {
+             "lat" : 1.648150219708498,
+             "lng" : 103.2582584197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "a51cc381f4c671e8c1775cbf2a063ded825de06c",
+    "name" : "Pusat Cermin Mata V Care Optic",
+    "place_id" : "ChIJC01HROeN0DER0hVFuSB4nIY",
+    "plus_code" : {
+       "compound_code" : "J7X5+RR Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+RR"
+    },
+    "reference" : "ChIJC01HROeN0DER0hVFuSB4nIY",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6496799,
+          "lng" : 103.2596055
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651012680291502,
+             "lng" : 103.2609540802915
+          },
+          "southwest" : {
+             "lat" : 1.648314719708498,
+             "lng" : 103.2582561197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "c85a49144e73e7c1c85130de10f36e29556b7675",
+    "name" : "Think Hair Salon",
+    "opening_hours" : {
+       "open_now" : true
+    },
+    "photos" : [
+       {
+          "height" : 1920,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/114282391716912215838\"\u003eJia Wang Lim\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAXE9hZTMxohKzJXZomsmw0p1EqaGy2CjjCwpo3rmQdpfHDmwcf5EZtNP3bk-otciH_Gsy3QslM6g_NQh-WBlyylHDavEBxmATNuJf3Kpv3sUMH7g84YJk2euANvcHBtNXEhClySD3zHrHz0PpNX3sr0JFGhSOhvNp6Ugx6BaMOW4gqwa-LaERxw",
+          "width" : 1080
+       }
+    ],
+    "place_id" : "ChIJieyQIY-N0DERG_GR8oiDHoA",
+    "plus_code" : {
+       "compound_code" : "J7X5+VR Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+VR"
+    },
+    "rating" : 5,
+    "reference" : "ChIJieyQIY-N0DERG_GR8oiDHoA",
+    "scope" : "GOOGLE",
+    "types" : [ "hair_care", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 1,
+    "vicinity" : "15-1, Jalan Mutiara Dua, Pusat Perniagaan, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.648923,
+          "lng" : 103.259442
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650411930291502,
+             "lng" : 103.2607939302915
+          },
+          "southwest" : {
+             "lat" : 1.647713969708498,
+             "lng" : 103.2580959697085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "7e2bfe0bfcc5cdbf9675139eb8e42697c00a7942",
+    "name" : "Syarikat Hamid Samwill Sdn. Bhd.",
+    "place_id" : "ChIJU0-4PueN0DERW0H9uAGJLbU",
+    "plus_code" : {
+       "compound_code" : "J7X5+HQ Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+HQ"
+    },
+    "reference" : "ChIJU0-4PueN0DERW0H9uAGJLbU",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "No. 5893, Jalan Benut, 86200, Sipang Renggam, Johor"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6491173,
+          "lng" : 103.2595737
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.650507730291502,
+             "lng" : 103.2609235802915
+          },
+          "southwest" : {
+             "lat" : 1.647809769708498,
+             "lng" : 103.2582256197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id" : "a5b4e17b22ffda763ba559c4049f38bead3b537f",
+    "name" : "Syarikat Perabut Sin Soon Lee",
+    "photos" : [
+       {
+          "height" : 2340,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/106131829706984388706\"\u003eKwanweng Leong\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAfguM4G4fy_fbNw6P7aQjE7c9oGaPmOc8L35khEbI2XtBHFSULAIbU28lDnXUjs7Vo3F51SfqwIpZcyWvz6utmefwE1i8C-7MOwBCUPrc7vBmYnKKSbuo7nRn7HLbdaOUEhBWJNOgZskKKWfqYdlIJO1MGhSitxrKWsBT4WQ0lSI0HlusDVuzrg",
+          "width" : 4160
+       }
+    ],
+    "place_id" : "ChIJD5SrOOSN0DERqexrfp_56GI",
+    "plus_code" : {
+       "compound_code" : "J7X5+JR Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+JR"
+    },
+    "rating" : 1,
+    "reference" : "ChIJD5SrOOSN0DERqexrfp_56GI",
+    "scope" : "GOOGLE",
+    "types" : [
+       "furniture_store",
+       "home_goods_store",
+       "point_of_interest",
+       "store",
+       "establishment"
+    ],
+    "user_ratings_total" : 1,
+    "vicinity" : "No. 5, Jalan Jaafar, Johor, Benut"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6504889,
+          "lng" : 103.2590818
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651835130291502,
+             "lng" : 103.2604800802915
+          },
+          "southwest" : {
+             "lat" : 1.649137169708498,
+             "lng" : 103.2577821197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "4060a5687645949fd6e2a562a26477d135a58b15",
+    "name" : "Representative Johor",
+    "place_id" : "ChIJRZQni92N0DERihW5HojOqAc",
+    "plus_code" : {
+       "compound_code" : "M725+5J Benut, Johor, Malaysia",
+       "global_code" : "6PH5M725+5J"
+    },
+    "reference" : "ChIJRZQni92N0DERihW5HojOqAc",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Persatuan Hoki Johor, SMK Sri Tanjung, Benut, Johor, Pontian"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6497193,
+          "lng" : 103.2597242
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651020530291502,
+             "lng" : 103.2610646802915
+          },
+          "southwest" : {
+             "lat" : 1.648322569708498,
+             "lng" : 103.2583667197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "3cd05804d14e7eb4f0ff795e7ab4f81504e94ff8",
+    "name" : "Give Me 5",
+    "place_id" : "ChIJjesxReeN0DERiprqDnSjGYo",
+    "plus_code" : {
+       "compound_code" : "J7X5+VV Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+VV"
+    },
+    "reference" : "ChIJjesxReeN0DERiprqDnSjGYo",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6497262,
+          "lng" : 103.2598006
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.651016330291502,
+             "lng" : 103.2611264802915
+          },
+          "southwest" : {
+             "lat" : 1.648318369708498,
+             "lng" : 103.2584285197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id" : "04a1fac276aeea3864c0bf620f8a6e8da787b075",
+    "name" : "Gian Hong Tiling & Renovation Sdn. Bhd.",
+    "place_id" : "ChIJHclNReeN0DERfkzZ8e4T1zE",
+    "plus_code" : {
+       "compound_code" : "J7X5+VW Benut, Johor, Malaysia",
+       "global_code" : "6PH5J7X5+VW"
+    },
+    "reference" : "ChIJHclNReeN0DERfkzZ8e4T1zE",
+    "scope" : "GOOGLE",
+    "types" : [ "point_of_interest", "establishment" ],
+    "vicinity" : "Malaysia"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 1.6507286,
+          "lng" : 103.2587975
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 1.652078280291502,
+             "lng" : 103.2600453802915
+          },
+          "southwest" : {
+             "lat" : 1.649380319708498,
+             "lng" : 103.2573474197085
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id" : "2d9eb3b95e54eacb18280519f8ddf066cdcca530",
+    "name" : "SMK Sri Tanjung",
+    "photos" : [
+       {
+          "height" : 2160,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/118131615506956170214\"\u003eKHAIRIL ANUAR Mosmin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAOf9PVvz2bN468QBDefsGxm39-VMNZBH7YbJnZ3rV2YzA3F7Vaub-sRJqGsIQGSp-ZR2jo98CkMNGsbnEKAhwGxwgJlZxdEsCFKR6rQ389gAWYUPQGs2rWSt0um4dE_tHEhCvgzoJ5E7GdCtAvLgjTLxLGhQ5Bgl0rjI3aQMisP6peJXNECQo5Q",
+          "width" : 3840
+       }
+    ],
+    "place_id" : "ChIJb8qLjd2N0DERsauocHSlE1Y",
+    "plus_code" : {
+       "compound_code" : "M725+7G Benut, Johor, Malaysia",
+       "global_code" : "6PH5M725+7G"
+    },
+    "rating" : 4.6,
+    "reference" : "ChIJb8qLjd2N0DERsauocHSlE1Y",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 11,
+    "vicinity" : "SMK Sri Tanjung, Jalan Besar Benut"
+ }
+]

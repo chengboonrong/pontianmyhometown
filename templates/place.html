@@ -18,13 +18,11 @@
 
         <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">  -->
 
-        <title> {{ type }} </title>
+        <title> {{ city_capital }} </title>
     </head>
     
     <body>
         <div class="container my-5">
-
- 
             <!--Section: Content-->
             <section class="px-md-5 mx-md-5 py-5 text-center white-text elegant-color z-depth-1 rounded">
         
@@ -33,17 +31,21 @@
         
             </section>
             <!--Section: Content-->
-        
-        
+        </div>
+
+        <div class='text-center'>
+            {% for t in types %}
+                <a class="btn grey place" href="{{ url_for('getPlaces', city=city, type_=t) }}"> {{ t.capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
+            {% endfor %}
         </div>
 
         <div class="row" style="margin: auto;">
-            {% for i in range(length)%}
+            {% for i in range(length) %}
             <div class="column col-sm-3" style="padding: 1%; margin-left: auto;">
                 <div class="card booking-card">
                     <div class="view overlay">
-                    <img class="card-img-top" src="{{ placeList[i]['photo']}}" alt="No image found" onerror=this.src="/static/image/altImg.webp">
-                    <a href="{{ placeList[i]['photo']}}">
+                    <img class="card-img-top" src="{{ placeList[i]['photo'][0]}}" alt="No image found" onerror=this.src="/static/image/altImg.webp">
+                    <a href="{{ placeList[i]['photo'][0]}}">
                         <div class="mask rgba-white-slight"></div>
                     </a>
                     </div>
@@ -72,11 +74,29 @@
 
         </div>
 
+        <div class='text-center' style="margin: 3%; font-size: large;">
+            {% for c in cities %}
+                <span class="fa fa-heart red-text mx-2"></span>
+                <a href="/{{c}}"> {{ c }}</a>
+            {% endfor %}
+        </div>
         
         
 
     
     </body>
+
+    <!-- Footer -->
+    <footer class="page-footer font-small special-color-dark">
+
+    <!-- Copyright -->
+    <div class="container text-center py-3">
+        © 2020 Copyright: <a> PontianKia </a>
+    </div>
+    <!-- Copyright -->
+
+    </footer>
+    <!-- Footer --> 
 
     <!-- Optional JavaScript -->
     <!-- JQuery -->

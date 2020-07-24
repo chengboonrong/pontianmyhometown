@@ -1,0 +1,708 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5074036,
+               "lng" : 103.5111827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508786579892722,
+                  "lng" : 103.5125416298927
+               },
+               "southwest" : {
+                  "lat" : 1.506086920107278,
+                  "lng" : 103.5098419701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebdf4f182b139f85c2613c5c75d423efb086e5d1",
+         "name" : "City Delight Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJySKdfH-f0DERAxiikJBIOa0",
+         "plus_code" : {
+            "compound_code" : "GG46+XF Pekan Nanas, Johor",
+            "global_code" : "6PH5GG46+XF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJySKdfH-f0DERAxiikJBIOa0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "SH8, Jalan Besar, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.507941,
+               "lng" : 103.510913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.509284879892722,
+                  "lng" : 103.5122839298927
+               },
+               "southwest" : {
+                  "lat" : 1.506585220107278,
+                  "lng" : 103.5095842701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4e3eba242c264e2babc835a04b6c3958e1014aca",
+         "name" : "KFC Pekan Nenas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104699031164694377721\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ9mhgIV9_wrKNw0rbxEO7qbUJCyLJ74y5EItH2_CmgRbqkCBMkW1eXnNRRmTQtIUqjkYCt43ZURhjAOkiFVdtRklPMrv5VcGH7FBlv7ihk9PvmFOAMf1esFUxFvMXoyBEhBBJb-t3MRfl3JCpSG71NPwGhTNmCrf9V4Pdu5ZIj29oliSD-v8Xw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJG6YpabCf0DERF0cILldhe4g",
+         "plus_code" : {
+            "compound_code" : "GG56+59 Pekan Nanas, Johor",
+            "global_code" : "6PH5GG56+59"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJG6YpabCf0DERF0cILldhe4g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 345,
+         "vicinity" : "No. SH31, Jalan Besar, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5075537,
+               "lng" : 103.5106261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508937829892722,
+                  "lng" : 103.5119853298927
+               },
+               "southwest" : {
+                  "lat" : 1.506238170107278,
+                  "lng" : 103.5092856701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "34ef1413a8e5c4877190cf14ae606602c6a88b9c",
+         "name" : "Ming Siang Kedai Kopi 茗香咖啡餐室",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111364579794675426268\"\u003e陈劲琿\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXrAIr9-de51daAfHuFfTkFaKq1XXVQfiMN8FdHuLvzqTjPgPKzzeL6AYQru_Rr3Rel6vnqONawNvm1rwksqX0Q4EFOA2mtyVu93jv-8ZO8bXoNGr8cc1Dd0XCI7WPyJzEhDToGFO5NOKc6kUsCrm0KI0GhSFeKndCtkiIBgO3hpWgPOqvJofhg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJGwVfcrCf0DERC3YKFxd6n0w",
+         "plus_code" : {
+            "compound_code" : "GG56+27 Pekan Nanas, Johor",
+            "global_code" : "6PH5GG56+27"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJGwVfcrCf0DERC3YKFxd6n0w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "16, Jalan Besar, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5089781,
+               "lng" : 103.5112735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.510338979892722,
+                  "lng" : 103.5125814798927
+               },
+               "southwest" : {
+                  "lat" : 1.507639320107278,
+                  "lng" : 103.5098818201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e755ff0d3880a723851a82bd5becc3878dbc5bc",
+         "name" : "Sin Tao Yuan Grilled Fish 新桃园烧鱼",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115738058030517137672\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi0iLx35Mio0FoKPKSB2KEp1L8CIrDlEeT4tyoUCtXP-i327RNaTr-BveQBkYE2gFfGFUUcKkYs1VnbClqgFLw4aX10wmz4cbi3dKUnvRyXVTy65ssdodEpoyRjh6lDy7EhDsm5YrzkxnBdj_g0x17rvKGhQBVHV4QVbfpwgW5dMNoSADRx6NCA",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ252UsbGf0DERPS3lFAKthwY",
+         "plus_code" : {
+            "compound_code" : "GG56+HG Pekan Nanas, Johor",
+            "global_code" : "6PH5GG56+HG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ252UsbGf0DERPS3lFAKthwY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5071847,
+               "lng" : 103.5122991
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508560329892722,
+                  "lng" : 103.5135466298927
+               },
+               "southwest" : {
+                  "lat" : 1.505860670107278,
+                  "lng" : 103.5108469701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "95a9ac511713b8f26cfacd07d873f7afc9189745",
+         "name" : "Tong Heng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106404105109508925518\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA313MVMRnuqN__tIHTTfwl_xy1K5zvGnlekKjgfh7QYwfLhH3ipzBwZOOafT9TESj4Q1aCrwqbon4vLK6waUBz8uXnPwHHIu8alVJeCcP-ajO-DdwQYFpcrwoD6n5jCdEhAPaXyqyDTO7v6M09Di6fGqGhSVw-IP-r253o5MktzlK6xOelOE2Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJnTU5h7Cf0DERuzFMS7bQpKY",
+         "plus_code" : {
+            "compound_code" : "GG46+VW Pekan Nanas, Johor",
+            "global_code" : "6PH5GG46+VW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJnTU5h7Cf0DERuzFMS7bQpKY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Besar, Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5080373,
+               "lng" : 103.5089695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.509411079892722,
+                  "lng" : 103.5103263298927
+               },
+               "southwest" : {
+                  "lat" : 1.506711420107278,
+                  "lng" : 103.5076266701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a353c3126d338b5c11864e9e154b63f7efa0f840",
+         "name" : "Laksa Ah Kwek 叻沙之家",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104731284072787564279\"\u003eEekang Ooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_fVDBKP3WEHdYvo9E6p_z83swTlcsxfpIG8bmOWqvwO_4mE_-j4UAR5weF6RCE6358Cu1B-6hYsaJjQIUPFsOTOuxmR6TdJRDxps44zFBGYeqAzygCySVRBe0z3BxjoyEhDhxlzpj2Lo6hgZ4I1pyfluGhQ-aE16Qh4oo7eg_DToicURnF6yNw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJzyHe4a-f0DERy-e9UYv3NJo",
+         "plus_code" : {
+            "compound_code" : "GG55+6H Pekan Nanas, Johor",
+            "global_code" : "6PH5GG55+6H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzyHe4a-f0DERy-e9UYv3NJo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "16, Jalan Besar, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5082947,
+               "lng" : 103.5164884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.509547129892722,
+                  "lng" : 103.5178107798927
+               },
+               "southwest" : {
+                  "lat" : 1.506847470107278,
+                  "lng" : 103.5151111201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "25557f4652c45b37578f22e8f8ee9c6681a78f0b",
+         "name" : "Double Zi Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107429224767230220198\"\u003eGoh Jintat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxYjFzithnwZ0lXIscPefY9CRX37a_zItgb8vcGb9yey6CjJTgOdgtaXPN97deTsC__KrY061Oadewp0VTUMrrHVcd31MqAw7yD352kROtKwFxeV3ghi8ADTOPVAUFGCnEhA5xf2VubcBRxr0K31sP8J-GhQgfSvtUZtn9CI3RehJs5MMDjKRaQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJOzHtFLef0DERc9IDrgm8D28",
+         "plus_code" : {
+            "compound_code" : "GG58+8H Pekan Nanas, Johor",
+            "global_code" : "6PH5GG58+8H"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJOzHtFLef0DERc9IDrgm8D28",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 116,
+         "vicinity" : "15, Jalan Utama 9, Taman Hidayat, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5055681,
+               "lng" : 103.5096097
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.506909229892722,
+                  "lng" : 103.5109898298927
+               },
+               "southwest" : {
+                  "lat" : 1.504209570107278,
+                  "lng" : 103.5082901701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c6c79855199dddf9a0da0bd78373f54925b6c34",
+         "name" : "Stall Burger Ameng",
+         "place_id" : "ChIJSzA0z7qf0DEROgr7pWV4C3s",
+         "plus_code" : {
+            "compound_code" : "GG45+6R Pekan Nanas, Johor",
+            "global_code" : "6PH5GG45+6R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSzA0z7qf0DEROgr7pWV4C3s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "29, Lorong A-6, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5129072,
+               "lng" : 103.512095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.514255179892722,
+                  "lng" : 103.5134545298927
+               },
+               "southwest" : {
+                  "lat" : 1.511555520107278,
+                  "lng" : 103.5107548701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b979583765a9ad172187d7c1e93188f989798bd5",
+         "name" : "Lee Koh Kee Laksa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108279640327612606607\"\u003eJonathan Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWzhg3lxPqdBfhxP0-X9t7zUxGBOOe0Lc2fyx0dn4CltxNWWwHNy7_aeMST2kzCbTashk__sX3_fiZtOvAa4rhqh_Wuc7q_wkVm9rztK7Irc6WbIV1_14AtLWGtvyKqsnEhDhe3JwU6Ggad8b_qiWOQWzGhSK4Y4rBLXsGwoaQ8gbvMeIcyfA-A",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJRcl7yrOf0DERa63lQ83bZug",
+         "plus_code" : {
+            "compound_code" : "GG76+5R Pekan Nanas, Johor",
+            "global_code" : "6PH5GG76+5R"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJRcl7yrOf0DERa63lQ83bZug",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90,
+         "vicinity" : "Jalan Sawah, Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5089688,
+               "lng" : 103.5112246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.510321179892722,
+                  "lng" : 103.5125645798927
+               },
+               "southwest" : {
+                  "lat" : 1.507621520107278,
+                  "lng" : 103.5098649201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "62fef0aaf6133f383e25e4694f1ff91764678c83",
+         "name" : "桃源烧鱼",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114900241113553260318\"\u003ejen ho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEHur6B6on68GvWloLldpqANjb22iVptty2FhVxNlTMVYZwvmp8lE6Jx7-JYkZ3ztBgG7NqXVS0HaaRS6VXIK0jsRw-92h0Jy_jcMecEBIrfhx4YwSRF8esmL8eAGP3kGEhDrM6djAQjtn57iOXXhxrcBGhQtwN-X-Qhsd5x39d11DC1WySVixQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJG2JchbCf0DERWzeJsoEYrRM",
+         "plus_code" : {
+            "compound_code" : "GG56+HF Pekan Nanas, Johor",
+            "global_code" : "6PH5GG56+HF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJG2JchbCf0DERWzeJsoEYrRM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65,
+         "vicinity" : "36, Skudai - Pontian Highway, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5072483,
+               "lng" : 103.512197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508609929892722,
+                  "lng" : 103.5135000798927
+               },
+               "southwest" : {
+                  "lat" : 1.505910270107278,
+                  "lng" : 103.5108004201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a48d9c7cfb15c535881cf2ae59fd3a51d4f9a591",
+         "name" : "Dongxing Bak Kut Teh 东兴肉骨茶",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111640304307654581942\"\u003eryu ichiaka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA8bEs03pfwL60mxm-edMStcsHSe_mKJkZanlPE2bRRrFs2AnLRCBbfFWwmCvyLvBA7iQ2PITpM_IOhgM1as2FLCAcegVADZf1TtrVe2q1XVPq_xDB5eg1Py85m6sxCOiEhDUj8DR_eQNiHeTCNPL5Jw3GhQ-cFspHWnFKFOzZ1cAx1PGkHQmjA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJe5xogbCf0DERe5dcSbZcB44",
+         "plus_code" : {
+            "compound_code" : "GG46+VV Pekan Nanas, Johor",
+            "global_code" : "6PH5GG46+VV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJe5xogbCf0DERe5dcSbZcB44",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47,
+         "vicinity" : "Lorong A-9, Taman Sri Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5050851,
+               "lng" : 103.5171283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.506451879892722,
+                  "lng" : 103.5184226298927
+               },
+               "southwest" : {
+                  "lat" : 1.503752220107277,
+                  "lng" : 103.5157229701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "74fc0b490cadc4e3cd137162262c8a81ee5aa5ec",
+         "name" : "Private Recipe (百家私房菜)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113517817813916419287\"\u003eKee Lily\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAToii7-uSozyazwkOj8_X5yf3brjthdEOe5MeCHUxO3VMu5kG6_F5UdWJ-V5Yaladnxipjbp_WAVB_6PyYUC8Xu2-pL9FT4_cfx96RNtmFE7wx1kXC2p0ek2uDCdLjE--EhBydMbiFaGUPfO_Hcg-HWcBGhT_q820xrNXADNPhbCDE4APyX748Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJezX-rrmf0DERvDhEehqUkfM",
+         "plus_code" : {
+            "compound_code" : "GG48+2V Pekan Nanas, Johor",
+            "global_code" : "6PH5GG48+2V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJezX-rrmf0DERvDhEehqUkfM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78,
+         "vicinity" : "Taman Utama, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5087278,
+               "lng" : 103.5111853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.510085929892722,
+                  "lng" : 103.5125036798927
+               },
+               "southwest" : {
+                  "lat" : 1.507386270107278,
+                  "lng" : 103.5098040201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4ab65d795ef150b6cb106f100c11acb49e7e33aa",
+         "name" : "Village Fried Chicken (VFC)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117248800729319929489\"\u003ehonlong loke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR1pf5RmFMP7H19uiCMymlD_P7pA384hl0c-7zZo6-ebfNpAK5khNJTwPY1LcrzqtXKLNz44PJbx2dcBh9OUoKm0_aN_vrNa_I1Q8408fvMP6rWiKCe6hhSrwz94Q2iVAEhBAnQAluTyynfNVJ-IXv2HmGhQPi_suGrdn7f1uattOQFd4bM_adQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJNXDJWrCf0DERKMPwMBqEA9s",
+         "plus_code" : {
+            "compound_code" : "GG56+FF Pekan Nanas, Johor",
+            "global_code" : "6PH5GG56+FF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJNXDJWrCf0DERKMPwMBqEA9s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 80,
+         "vicinity" : "Jalan Sawah, Pekan Nenas, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5072695,
+               "lng" : 103.5113858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508688979892722,
+                  "lng" : 103.5127547298927
+               },
+               "southwest" : {
+                  "lat" : 1.505989320107278,
+                  "lng" : 103.5100550701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "82a7e05e66713f5986f1e9d74d8f6c8ed2ba3dca",
+         "name" : "Restoran Assalam 24hrs",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112695735504143852643\"\u003eMaryanto Notonegoro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ehKX4JSUfgfgni0m5wdz4wgs2u5ehSdu6sl9xCzssHux_nGzvHlLVXsrtGR8xQS7YNjnW82UhIcKjQjH1B0NeaYN95cxPV9XJdSc8eSSYoOBrPOJCkHFYZzRz6iamsXEhApIdMWvZjSKuVM2MeRVPXWGhTyR4dt0hAhWEUyPY6hpGYgW4uubw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ6cfOgLCf0DER_hhs4S2RZpw",
+         "plus_code" : {
+            "compound_code" : "GG46+WH Pekan Nanas, Johor",
+            "global_code" : "6PH5GG46+WH"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ6cfOgLCf0DER_hhs4S2RZpw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5044974,
+               "lng" : 103.518308
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.505857279892722,
+                  "lng" : 103.5196605798927
+               },
+               "southwest" : {
+                  "lat" : 1.503157620107278,
+                  "lng" : 103.5169609201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ce371e2a37b905cff1ea1a141ccb03f315680ef8",
+         "name" : "永然牙科（午间小食）",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114845547937264649112\"\u003eFong Jac\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaromzwLZVOeWhLTB5tPaJfsNcsY-DX7IiKN7nDqPCTooW_Asmg7DReBbkuq8y10ScPt63h_SyQHePY__4-_5PoS_RiDnY6C4H7VRbqDE-UJbB9j_JzAe9hwRxTNRLk1aEhAi4570tr-qNjGwDpwZBa8BGhQNwVK-XLccXKYsIppPU9-EZhDwAQ",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJdZGNkMSf0DERv3nbHMIS7Vk",
+         "plus_code" : {
+            "compound_code" : "GG39+Q8 Pekan Nanas, Johor",
+            "global_code" : "6PH5GG39+Q8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJdZGNkMSf0DERv3nbHMIS7Vk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "101, Jalan Utama 3, Taman Utama, Pekan Nanas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5073219,
+               "lng" : 103.5109731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508434379892722,
+                  "lng" : 103.5122536798927
+               },
+               "southwest" : {
+                  "lat" : 1.505734720107278,
+                  "lng" : 103.5095540201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2f76dd64f43a436bdd360da9377f9456d91a82ce",
+         "name" : "Zeng Ji",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJA8gdTOSf0DERyCxq8ysqrBk",
+         "plus_code" : {
+            "compound_code" : "GG46+W9 Pekan Nanas, Johor",
+            "global_code" : "6PH5GG46+W9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJA8gdTOSf0DERyCxq8ysqrBk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "9, Lorong A-5, Taman Sri Pekan Nenas, Pekan Nanas"
+      }
+   ],
+   "status" : "OK"
+}

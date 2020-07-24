@@ -1,0 +1,209 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "SH, 49, Jalan Besar, Kampung Masjid, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 3377",
+    "name": "Bank Simpanan Nasional",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 4:45 PM",
+        "Tuesday: 9:00 AM \u2013 4:45 PM",
+        "Wednesday: 9:00 AM \u2013 4:45 PM",
+        "Thursday: 9:00 AM \u2013 4:30 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: 9:00 AM \u2013 4:45 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110580095086767049527\">Mohamad nizam Azmi</a>"
+        ],
+        "photo_reference": "CmRaAAAAM-HQrJLgXGsgQbW5Gw5YguF8l5XcJhvgK9q27mCsYV2lIyqKNfRAJ0CwTDuB3fvLscSffNchfVXlmnBtaMrobP8u5toeukPGZtRnGfWJJZ7pB8TNZsBumvLJwecQGBvUEhCdXD2-cyVgtRMHbYWPks5PGhQUbB05zvniJZlRrRg670vFpHM3Iw",
+        "width": 3264
+      }
+    ],
+    "rating": 3.4,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "website": "http://www.mybsn.com.my/",
+    "photo": [
+      "/static/image/pekannanas/atm/BankSimpananNasional-0.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "SH9;;SH10, Jalan Besar, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 5352",
+    "name": "Public Bank Pekan Nenas",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:30 AM \u2013 4:00 PM",
+        "Tuesday: 9:30 AM \u2013 4:00 PM",
+        "Wednesday: 9:30 AM \u2013 4:00 PM",
+        "Thursday: 9:30 AM \u2013 4:00 PM",
+        "Friday: 9:30 AM \u2013 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107139609661772878376\">Jock Lee</a>"
+        ],
+        "photo_reference": "CmRaAAAA4IGUlbmPTuAW8-BH_lgz3I-aOxhAapGTHTUDHF0Giqpq2jmpGCwKxfFtf7eEZR3LRfqL5bhYqeyVybmuiha7-QCrwjIODAUncnybqY3mgaHbj2s0lUEcRyBqHAOZzBNREhA1c1umcxi7vYADMJYhC4N-GhQF210QfERqFu1VZvmFpTma6N-C2Q",
+        "width": 4032
+      }
+    ],
+    "rating": 4,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "website": "https://www.pbebank.com/",
+    "photo": [
+      "/static/image/pekannanas/atm/PublicBankPekanNenas-0.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "NO 3 & NO 4, Jalan Abu Bakar Majid, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 1048",
+    "name": "Maybank Pekan Nenas",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:15 AM \u2013 4:30 PM",
+        "Tuesday: 9:15 AM \u2013 4:30 PM",
+        "Wednesday: 9:15 AM \u2013 4:30 PM",
+        "Thursday: 9:15 AM \u2013 4:30 PM",
+        "Friday: 9:15 AM \u2013 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100680459721087662246\">Malcolm Anthony</a>"
+        ],
+        "photo_reference": "CmRaAAAANIQM_63T0o5Ki2e0dRCZBsCrark6dkiOduiqZtDmfGgn46MJniWEGPoJ7PA8UxOQK1oE0IYYLnqR5kz1N8Q-w1rks3YbJDXlkqGu0-PZ6lqI6Py2smtlMS58BjTBTt84EhC8r0emVEvzyIkltsnvpRBFGhQDmFcSpmSVkhox1gIEI__M89B2cA",
+        "width": 4608
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117006085875792126861\">MR. PATHAK</a>"
+        ],
+        "photo_reference": "CmRaAAAAE_K4dQ1nVCKjidY_ZJZVcHpWDWKbzxRUYgz4TNBw_zhckkMoRXqOZMBjGHmvxjiBvHNFEOIpIQ56UnqwT049eKuYPmfXkV3Co80Jd_4yBmKPxr-foQBX2QMOHiGQboorEhDbZr73CdICa1zFhdk_jt-RGhQ1Mr6qRXqEyMw4IxY0k3-U92ayzA",
+        "width": 1920
+      },
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117006085875792126861\">MR. PATHAK</a>"
+        ],
+        "photo_reference": "CmRaAAAAZ0CRKSJhUyhTwXQLIq-nberfnmHnBxdbkO3P5tFSiQm0n89qwCS0ytUiyRGma0v1i2x5PDpAdFUDO9iNKpsADMQVfQAcnSSMI4JrtQ_2jdteQqw29uMXJZmFXH_23iRkEhAje4XpKcGzA44tShjaK7p7GhROYpYj0-RcCztBKMPw_jb77ezZig",
+        "width": 3264
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100680459721087662246\">Malcolm Anthony</a>"
+        ],
+        "photo_reference": "CmRaAAAAM9TJMhjgnye-g9sh0C-R5Ij6EfR5UO-QdgeKtByB32W3WojtfS5Ededk6UzL706LSJCKzPSRvRzK2LY94Iyri1vL2-Ib2YV1-MTWzuSN0dnYVlTfB93rLaa263ivxeI4EhBnToX0dGMH60joP_FWsUjtGhSYxtl3a1Ui2VCqZ7CXCcaXAnjLQg",
+        "width": 2176
+      }
+    ],
+    "rating": 3.4,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "website": "http://www.maybank2u.com.my/",
+    "photo": [
+      "/static/image/pekannanas/atm/MaybankPekanNenas-0.jpg",
+      "/static/image/pekannanas/atm/MaybankPekanNenas-1.jpg",
+      "/static/image/pekannanas/atm/MaybankPekanNenas-2.jpg",
+      "/static/image/pekannanas/atm/MaybankPekanNenas-3.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No. 493, Batu 35, Jalan Johor, Johor, Pekan Nanas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "03-2142 5258",
+    "name": "Bank Simpanan Nasional (BSN) ATM @ Petronas Pontian",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 6:30 AM \u2013 10:00 PM",
+        "Tuesday: 6:30 AM \u2013 10:00 PM",
+        "Wednesday: 6:30 AM \u2013 10:00 PM",
+        "Thursday: 6:30 AM \u2013 10:00 PM",
+        "Friday: 6:30 AM \u2013 10:00 PM",
+        "Saturday: 6:30 AM \u2013 10:00 PM",
+        "Sunday: 6:30 AM \u2013 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108943838736514679139\">\u0645\u062d\u0645\u062f \u0641\u0636\u0644\u064a \u0631\u0634\u064a\u062f</a>"
+        ],
+        "photo_reference": "CmRaAAAAeWumUmo8nW4595-qmJjjyCjPjpGQbcvnssJh2yMuDGXQ6B7bnKtOhdNRP1WFSWk_grjMv_pe9AzIVd1S1gOyM-cnJRqygcsu-9KpYmq5fkCOX-sPyrAs0P2ZkFntgnLBEhCl3H3zUg6Lqo-MfKRstEiZGhRVH5aqGhjV2Bb_6ZC7jo4r81xhMg",
+        "width": 3968
+      }
+    ],
+    "rating": 3.5,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "photo": [
+      "/static/image/pekannanas/atm/BankSimpananNasional(BSN)ATM@PetronasPontian-0.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "36, Lebuhraya Skudai - Pontian, Taman Sri Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+    "formatted_phone_number": "07-699 2692",
+    "name": "\u6cf0\u548c\u7576\u91d1\u5e97",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:30 AM \u2013 5:00 PM",
+        "Tuesday: 9:30 AM \u2013 5:00 PM",
+        "Wednesday: 9:30 AM \u2013 5:00 PM",
+        "Thursday: 9:30 AM \u2013 5:00 PM",
+        "Friday: 9:30 AM \u2013 5:00 PM",
+        "Saturday: 9:30 AM \u2013 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "photo": "#"
+  }
+]
