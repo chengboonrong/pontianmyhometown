@@ -1,11 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Google AdSense -->
-    <!-- <script data-ad-client="ca-pub-6505700221260107" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
-    
-    <!-- Main.css -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
     <!-- Google Maps API -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKqSLy4MMxiNwEXSPqpomf7m94-pSTzk4&callback=initMap&libraries=&v=weekly" async defer></script>
@@ -57,7 +52,7 @@
             strokeWeight: 2
           });
 
-          var cities = getmapCities({{mapCities|tojson}});
+          var cities = getmapCities({{ mapCities|tojson }});
           // console.log(cities[0]);  
 
           for (var i = 0; i < cities.length; i++) {
@@ -82,14 +77,22 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+    <!-- Main.css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> 
 
 
     <title> PONTIAN </title>
   </head>
   <body>
     <div class="hero jumbotron text-center">
-        <h1> Pontian - My Hometown </h1>
-        <p> <!-- Today's weather forecast --></p>    
+        <h1 class='typewriter'>Pontian-My Home .</h1>
+        <blockquote contenteditable="true" > 
+          <p style="[contenteditable] { outline: 0px solid transparent; }">
+            This is an editable paragraph.
+          </p>
+        </blockquote>
+        
+
     </div>
     
     <div class="container">
@@ -105,15 +108,15 @@
                 <p class="card-text">Right now it is</p>
                 <div class="d-flex justify-content-between">
                   <p class="display-1 degree">{{ data[0]}}°</p>
-                  <i class="fas fa-sun-o fa-5x pt-3 amber-text"></i>
+                  <i class="fas fa-cloud grey-text fa-5x pt-1"></i>
                 </div>
                 <div class="d-flex justify-content-between mb-4">
                   <p><i class="fas fa-tint fa-lg text-info pr-2"></i>{{ data[1] }}% Humidity</p>
-                  <p><i class="fas fa-leaf fa-lg grey-text pr-2"></i>{{ data[2] }}km/h Winds</p>
+                  <p><i class="fas fa-leaf fa-lg text-info pr-2"></i>{{ data[2] }}km/h Winds</p>
                 </div>
                 <div class="d-flex justify-content-between mb-4">
                   <p><i class="fas fa-compress fa-lg text-info pr-2"></i>{{ data[4] }} Pressure</p>
-                  <p><i class="fas fa-cloud fa-lg grey-text pr-2"></i>{{ data[5] }}% Clouds</p>
+                  <p><i class="fas fa-cloud fa-lg text-info pr-2"></i>{{ data[5] }}% Clouds</p>
                 </div>
                 <p class="card-text">Mostly {{raw['weather'][0]['main']}}, there is a {{ cor }}% chance of rain</p>
             </div>
@@ -125,12 +128,64 @@
 
     <div class="city text-center">
       {% for c in cities %}
-        <a class="btn place grey" href="{{ url_for('getCity', city=c) }}"> {{ c.capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="btn btn-outline-mdb-color" href="{{ url_for('getCity', city=c) }}"> {{ c.capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
       {% endfor %}
 
     </div>
 
-    <div id="map"></div>
+    <!-- <div id="map"></div> -->
+
+    <div class="container-fluid mt-3 mb-5">
+
+      <!-- Section: Block Content -->
+      <section class="mb-4">
+    
+        <style>
+          .map-container {
+            overflow: hidden;
+            position: relative;
+            height: 0;
+          }
+    
+          .map-container iframe {
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+          }
+        </style>
+    
+        <div class="card">
+    
+          <div class="row">
+            <div class="col-md-6">
+    
+              <!-- Google Maps -->
+              <div id="map-within-card-2" class="map-container rounded-left" style="height: 400px">
+                <iframe src="https://maps.google.com/maps?q=Pontian&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+                  style="border:0" allowfullscreen></iframe>
+              </div>
+              <!-- Google Maps -->
+    
+            </div>
+    
+            <div class="col-10 col-md-4 mx-auto align-self-center py-4">
+    
+              <h6 class="font-weight-bold grey-text text-uppercase small">Pontian District</h6>
+              <h5 class="font-weight-normal mb-4">Johor, MY</h5>
+              <!-- <p class="text-muted font-weight-light">2651 Main Street, Suit 124<br>Seattle, WA, 98101</p> -->
+              <p class="text-muted font-weight-light mb-0">Phone: +60 19 7667192 <sub><small>(Don't Ever Call This Number)</small></sub> <br>Email: pontiankia@gmail.com</p>
+    
+            </div>
+          </div>
+    
+        </div>
+    
+      </section>
+      <!-- Section: Block Content -->
+    
+    </div>
 
 
 

@@ -20,7 +20,7 @@ API_URL = 'http://api.openweathermap.org/data/2.5/weather?q=Pontian,my&appid=e35
 # raw_data = requests.get(API_URL).json()
 # print(raw_data)
 cities = ['benut', 'pontian', 'kukup', 'pekan nanas']
-types = ['atm', 'restaurant', 'hotel', 'school']
+types = [('atm', 'fa-money'), ('restaurant', 'fa-cutlery'), ('hotel', 'fa-bed'), ('school', 'fa-graduation-cap')]
 
 @app.route('/')
 def home():
@@ -46,7 +46,7 @@ def home():
 
 @app.route('/test')
 def test():
-    return render_template('index.html')
+    return render_template('test.html')
 
 @app.route('/<city>')
 def getCity(city):

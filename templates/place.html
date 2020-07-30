@@ -17,7 +17,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
         <script src="https://kit.fontawesome.com/f81a8b1fb6.js" crossorigin="anonymous"></script>
         <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">  -->
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/heart.css') }}"> 
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/heart.css') }}">
 
         <title> {{ city_capital }} </title>
     </head>
@@ -28,7 +28,7 @@
             <section class="px-md-5 mx-md-5 py-5 text-center white-text elegant-color z-depth-1 rounded">
                 
               <h3 class="heart">Made with <i class="far fa-heart fa-beat red-text mx-1"></i> by PontianKia </h3>
-              <a class="btn" type="button" href="/"> Home </a>
+              <a class="btn btn-mdb-color" href="/"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
         
             </section>
             <!--Section: Content-->
@@ -36,14 +36,14 @@
 
         <div class='text-center'>
             {% for t in types %}
-                <a class="btn grey place" href="{{ url_for('getPlaces', city=city, type_=t) }}"> {{ t.capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="btn btn-outline-mdb-color" href="{{ url_for('getPlaces', city=city, type_=t[0]) }}"><i class="fa {{ t[1] }}"> </i>&nbsp; {{ t[0].capitalize() }} </a> &nbsp;&nbsp;&nbsp;&nbsp;
             {% endfor %}
         </div>
 
         <div class="row" style="margin: auto;">
             {% for i in range(length) %}
             <div class="column col-sm-3" style="padding: 1%; margin-left: auto;">
-                <div class="card booking-card">
+                <div class="card booking-card blogBox moreBox">
                     <div class="view overlay">
                     <picture>
                         <source srcset="{{ placeList[i]['photo'][0][:-4] }}.webp" type="image/webp">
@@ -60,11 +60,11 @@
                         <h4 class="card-title font-weight-bold"><a href="#"> {{ placeList[i]['name'] }} </a></h4>
                     {% endif %}
                     <ul class="list-unstyled list-inline rating mb-0">
-                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
-                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
-                        <li class="list-inline-item mr-0"><i class="fa fa-star amber-text"></i></li>
-                        <li class="list-inline-item mr-0"><i class="fa fa-star-half-o amber-text"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fas fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fas fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fas fa-star amber-text"></i></li>
+                        <li class="list-inline-item mr-0"><i class="fa fa-star-half-alt amber-text" aria-hidden="true"></i></li>
+                        <li class="list-inline-item"><i class="fa fa-star-o amber-text" aria-hidden="true"></i></li>
                         <li class="list-inline-item"><p class="text-muted">{{ placeList[i]['rating'] }} ({{ placeList[i]['user_ratings_total']}})</p></li>
                     </ul>
                     <p class="mb-2">{{ placeList[i]['types'][0].capitalize() }}</p>
@@ -76,6 +76,10 @@
             </div>
             {% endfor %}
 
+        </div>
+
+        <div id="loadMore" class="" style="text-align: center;">
+            <a href="#">Load More</a>
         </div>
 
         <div class='text-center' style="margin: 3%; font-size: large;">
@@ -107,6 +111,7 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Main.js -->
     <script type="text/javascript" src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/loadmore.js') }}"> </script>
     <!-- Bootstrap tooltips -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Scrolling</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+    <link href="https://rawgit.com/alvarotrigo/fullPage.js/dev/src/fullpage.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div id="fullpage">
+        <div class="section">
+            <h1>Section 1</h1>
+        </div>
+        
+        <div class="section">
+            <div class="slide" data-anchor="slide1">
+                <h1>Slide 2.1</h1>
+            </div>
+            <div class="slide" data-anchor="slide2">
+                <h1>Slide 2.2</h1>
+            </div>
+        </div>
+        <div class="section">
+            <h1>Section 3</h1>
+        </div>
+        <div class="section">
+            <h1>Section 4</h1>
+        </div>
+    </div>
+
+
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+    <!-- Full Screen Scroller -->
+    <script type="text/javascript" src="https://rawgit.com/alvarotrigo/fullPage.js/dev/src/fullpage.js"></script>
+
+    <script>
+        new fullpage('#fullpage', {
+            sectionsColor: ['yellow', 'orange', '#C0C0C0', '#ADD8E6'],
+            navigation: true,
+            anchors: ['home', 'about-us', 'contact', 'like'],
+            parallax: true,
+        });
+    </script>
+
+</body>
+</html>
+

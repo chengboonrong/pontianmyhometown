@@ -27,3 +27,11 @@
       transform:scale(1);
     }
   }
+
+.moreBox {
+  display: none;
+}
+
+.loadMore {
+  text-align: center;
+}
