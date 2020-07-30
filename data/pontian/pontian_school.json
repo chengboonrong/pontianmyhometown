@@ -1,0 +1,1622 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5037969,
+        "lng": 103.3860227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.505023579892722,
+          "lng": 103.3874853298927
+        },
+        "southwest": {
+          "lat": 1.502323920107278,
+          "lng": 103.3847856701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "bac34fee7bdfa626f8922c3e4be474cca7023f52",
+    "name": "Pei Chun High School",
+    "photos": [
+      {
+        "height": 2889,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113166895213521848654\">Cheng Siew Hoon</a>"
+        ],
+        "photo_reference": "CmRaAAAAgt8ZwClqJaN_xiNsAyjGgGwobw41CQXbJ6_4pqkZ3FNJ_ZpdIi5vudZ9n3_40X7Fus4KT7x1ralNubShCzNh94f3-g0BYwLfiZ5LznvSiKCPYgBoRHemRKw3umuejlCmEhBLwYXEWsDGqo7PGwbRak0fGhSKqbZUEZZONtxVjDNJq5zpAsuAAA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJVVVVVUiY0DERfs33B9onTfk",
+    "plus_code": {
+      "compound_code": "G93P+GC Pontian District, Johor",
+      "global_code": "6PH5G93P+GC"
+    },
+    "rating": 3.8,
+    "reference": "ChIJVVVVVUiY0DERfs33B9onTfk",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "Pontian Besar, Jalan Persisiran Megah, Taman Megah, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5025052,
+        "lng": 103.3840235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.503891529892722,
+          "lng": 103.3853434798927
+        },
+        "southwest": {
+          "lat": 1.501191870107278,
+          "lng": 103.3826438201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "32b0838d917b7b6ba26d2ec76a54444c5178e543",
+    "name": "Pei Chun High School",
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116959155109280155384\">Yong Wooi Kee</a>"
+        ],
+        "photo_reference": "CmRaAAAAqlVFJFCQfM_wZV2VHb0nje1KMc3JJK-8bVT7wYYuaOGlJofWnHQWYENotmVX242YLXijBkANwqRD_rQRhCp2iYDa_EESpGCaPc1WpnQrwAtlkLM-72FzDvA4E9SXeMyAEhCr9d_gpYaLbHdERd2LtXGdGhSUaJkoOP1VYD2444-4TEiUKAvJrQ",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJa9M2bTiY0DERGLg0sOLB7OQ",
+    "plus_code": {
+      "compound_code": "G93M+2J Pontian District, Johor",
+      "global_code": "6PH5G93M+2J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJa9M2bTiY0DERGLg0sOLB7OQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Pontian Besar, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5088712,
+        "lng": 103.3871161
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.510239779892722,
+          "lng": 103.3884400798927
+        },
+        "southwest": {
+          "lat": 1.507540120107278,
+          "lng": 103.3857404201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "961d60cb90616f4b34a072467662ffe6340752e7",
+    "name": "Sjk Tamil Jalan Parit Ibrahim",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJjRhyN86Z0DERPoNGmF1LHac",
+    "plus_code": {
+      "compound_code": "G95P+GR Pontian District, Johor",
+      "global_code": "6PH5G95P+GR"
+    },
+    "rating": 0,
+    "reference": "ChIJjRhyN86Z0DERPoNGmF1LHac",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Jln Parit Ibrahim, Pontian Besar, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4884398,
+        "lng": 103.3889443
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.489778229892722,
+          "lng": 103.3902606798927
+        },
+        "southwest": {
+          "lat": 1.487078570107278,
+          "lng": 103.3875610201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "5167dd6fdce63ed48571510bd6c93f02797838ec",
+    "name": "\u7b28\u73cd\u4e50\u5c71\u5c0f\u5b66",
+    "place_id": "ChIJzy3B53GY0DERdasdOcbrCew",
+    "plus_code": {
+      "compound_code": "F9QQ+9H Pontian District, Johor",
+      "global_code": "6PH5F9QQ+9H"
+    },
+    "rating": 0,
+    "reference": "ChIJzy3B53GY0DERdasdOcbrCew",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Jln. Alsagoff, Kampung Atap, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.44206,
+        "lng": 103.41159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.443396779892722,
+          "lng": 103.4129482798927
+        },
+        "southwest": {
+          "lat": 1.440697120107278,
+          "lng": 103.4102486201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "eb86c185ede03dcd74fe7d0fdf4a7f600396f6cf",
+    "name": "Johor Technical Matriculation College",
+    "place_id": "ChIJYy56TlOi0DER-RxKFM7nFIY",
+    "plus_code": {
+      "compound_code": "CCR6+RJ Pontian District, Johor",
+      "global_code": "6PH5CCR6+RJ"
+    },
+    "rating": 0,
+    "reference": "ChIJYy56TlOi0DER-RxKFM7nFIY",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Smt Pontian, Pekan Rambah, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.49202,
+        "lng": 103.40403
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.493413279892722,
+          "lng": 103.4053596798927
+        },
+        "southwest": {
+          "lat": 1.490713620107278,
+          "lng": 103.4026600201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "7a8e3ef7d9cdf8471e5085ff0c1aa1ec30d6b160",
+    "name": "Sekolah Menengah Kebangsaan Dato' Penggawa Barat, Pontian.",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114827902369332915592\">Firdaus Aris</a>"
+        ],
+        "photo_reference": "CmRaAAAAQjNCFI-i9wdFu6C8zuDpsL9m9s1Kq021nXUNs9gUJzm6CuWfZpvkcd5tbwRusb1n7Bd2k-TKGA2LRxY9MTE-C7mCZwNn8OObfZaxPYc7pwxnon9Dq_jSmRw2p8c7LfXHEhDZma43Dt8vZZE7ylVA_QMkGhQx90YV8XUJVOlpdZ98ALuyZwsWmw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ5yr0bmKY0DERCPejDWL5HTI",
+    "plus_code": {
+      "compound_code": "FCR3+RJ Pontian District, Johor",
+      "global_code": "6PH5FCR3+RJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ5yr0bmKY0DERCPejDWL5HTI",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Smk Dato Penggawa Barat, J49, Kampung Duku, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.489484,
+        "lng": 103.388585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.490923079892722,
+          "lng": 103.3898854798927
+        },
+        "southwest": {
+          "lat": 1.488223420107278,
+          "lng": 103.3871858201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "001d5b710e6304e3862fb2c73ab7769b4110e6b6",
+    "name": "Pontian Adventist Kindergarden",
+    "place_id": "ChIJcQhqGm6Y0DERfFql1bufB0Y",
+    "plus_code": {
+      "compound_code": "F9QQ+QC Pontian District, Johor",
+      "global_code": "6PH5F9QQ+QC"
+    },
+    "rating": 0,
+    "reference": "ChIJcQhqGm6Y0DERfFql1bufB0Y",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "No. 13, Jln Alsagoff, Pontian,, 82000, Pontian, Johor"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.486259,
+        "lng": 103.392893
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.487635479892722,
+          "lng": 103.3942321798927
+        },
+        "southwest": {
+          "lat": 1.484935820107278,
+          "lng": 103.3915325201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "a732280664d9325301babc338fddacd5dad7bdf7",
+    "name": "Rhythm Music Centre",
+    "place_id": "ChIJCV8lhHCY0DERJq60Hj9H64o",
+    "rating": 0,
+    "reference": "ChIJCV8lhHCY0DERJq60Hj9H64o",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "734, Jalan Taib, 82000, Pontian, Johor"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.479826,
+        "lng": 103.399628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.481145779892722,
+          "lng": 103.4009896798927
+        },
+        "southwest": {
+          "lat": 1.478446120107278,
+          "lng": 103.3982900201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "5cfdb5a32f1d14347fba91918da9664cc3be4b1e",
+    "name": "FIGHT CLUB HEALTHY FITNESS",
+    "photos": [
+      {
+        "height": 260,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100020225037538890291\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAJuZNY5wp8_T8SSaoffu2qGrws_TWnECJp_KrerKyukfZFdvTXWlHcgIrfu8W_GmL--CioqzPI4kHYdrIR5KBW3XKF1CKTMwOmjAyuJ3TNpwtWVzQh3aSEwG8HmVZjKEUEhA_8h0aaoHwWVQ6JJxOjzSeGhTcQ22RC8QeQEXIY8MJlb6cf_1c1w",
+        "width": 461
+      }
+    ],
+    "place_id": "ChIJhdk4UX-Y0DERDw1LfJ0IBbs",
+    "plus_code": {
+      "compound_code": "F9HX+WV Pontian District, Johor",
+      "global_code": "6PH5F9HX+WV"
+    },
+    "rating": 3,
+    "reference": "ChIJhdk4UX-Y0DERDw1LfJ0IBbs",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "48-1,JALAN EMAS 2 PUSAT PERNIAGAAN KOTA EMAS, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4888882,
+        "lng": 103.4029012
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.490241279892722,
+          "lng": 103.4042501298927
+        },
+        "southwest": {
+          "lat": 1.487541620107278,
+          "lng": 103.4015504701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "a9f907a2f5f086b971d88d8a9dfd1598cc2f6a59",
+    "name": "Sekolah Menengah Kebangsaan Dato` Ali Hj Ahmad, Pontian",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114827902369332915592\">Firdaus Aris</a>"
+        ],
+        "photo_reference": "CmRaAAAAhllUSaMSL8mbyhCc7_-hEl4NcsqYDob1hvTd46b8kQ2-CRhc46QAwShOm48B6ZdDKwb0i-FOOMMmcG_4DPJz_F_hAGK5dbVqXBeJpzTU9Jq7CCi7xxhIgZxo2PLWg8xsEhAtMYKRUgKb2vIDUVwkrRgCGhSxggYWlzHYXs2JNXTkk5hECmS4fA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJYcZRNn2Y0DER56Bk35qtYMg",
+    "plus_code": {
+      "compound_code": "FCQ3+H5 Kampung Duku, Pontian District, Johor",
+      "global_code": "6PH5FCQ3+H5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJYcZRNn2Y0DER56Bk35qtYMg",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Jalan Parit Mesjid, Kampung Duku, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.502337,
+        "lng": 103.404458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.503608829892722,
+          "lng": 103.4058760798927
+        },
+        "southwest": {
+          "lat": 1.500909170107278,
+          "lng": 103.4031764201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "7eb3c14f5b8231e87df6615175c7e0c75eb6a495",
+    "name": "Taska Mutiara Pontian",
+    "place_id": "ChIJZfRCWl-Y0DERNhqG3tciJ9A",
+    "plus_code": {
+      "compound_code": "GC23+WQ Pontian District, Johor",
+      "global_code": "6PH5GC23+WQ"
+    },
+    "rating": 0,
+    "reference": "ChIJZfRCWl-Y0DERNhqG3tciJ9A",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "No. 162, Jalan Saujana 7, Taman Saujana, Parit Semerah, Johor, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.50409,
+        "lng": 103.389228
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.505449779892722,
+          "lng": 103.3905710798927
+        },
+        "southwest": {
+          "lat": 1.502750120107278,
+          "lng": 103.3878714201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "3e320bc26669fae2da92cfe3a6c5248bf3fb3517",
+    "name": "Taska Megah Ceria",
+    "place_id": "ChIJ2WcIa0SY0DERL4G211b45LI",
+    "plus_code": {
+      "compound_code": "G93Q+JM Pontian District, Johor",
+      "global_code": "6PH5G93Q+JM"
+    },
+    "rating": 0,
+    "reference": "ChIJ2WcIa0SY0DERL4G211b45LI",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "No. 2, Jalan Megah 35, Taman Megah, Johor, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4926705,
+        "lng": 103.3857468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.494024829892722,
+          "lng": 103.3871083798927
+        },
+        "southwest": {
+          "lat": 1.491325170107278,
+          "lng": 103.3844087201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "e407939c6b6a9cb3faeb216554895a2bfadebdf3",
+    "name": "Sk Tengku Mahmood iskandar1 Pontian",
+    "place_id": "ChIJ_7gzUUCY0DER7-AY-tfCI8U",
+    "plus_code": {
+      "compound_code": "F9VP+37 Pontian District, Johor",
+      "global_code": "6PH5F9VP+37"
+    },
+    "rating": 0,
+    "reference": "ChIJ_7gzUUCY0DER7-AY-tfCI8U",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Jln. Alsagoff, Pontian Besar, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4419891,
+        "lng": 103.4136505
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.443570179892722,
+          "lng": 103.4151629298927
+        },
+        "southwest": {
+          "lat": 1.440870520107278,
+          "lng": 103.4124632701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "9e5af7324bcc17c712e8e6ac49d673c1f748245e",
+    "name": "bengkel pke kmtj",
+    "place_id": "ChIJq3Pw1VKi0DERNTweO1yZ4E4",
+    "plus_code": {
+      "compound_code": "CCR7+QF Pontian District, Johor",
+      "global_code": "6PH5CCR7+QF"
+    },
+    "rating": 0,
+    "reference": "ChIJq3Pw1VKi0DERNTweO1yZ4E4",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Pekan Rambah, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5019753,
+        "lng": 103.4200908
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.503436279892722,
+          "lng": 103.4213839298927
+        },
+        "southwest": {
+          "lat": 1.500736620107278,
+          "lng": 103.4186842701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "f1791aa0beff9b51faad0b39637b82440b485ba1",
+    "name": "Sek Keb Pt Patah, Pontian",
+    "place_id": "ChIJzcldD2iZ0DERsqYlb8llMqQ",
+    "plus_code": {
+      "compound_code": "GC2C+Q2 Pontian District, Johor",
+      "global_code": "6PH5GC2C+Q2"
+    },
+    "rating": 0,
+    "reference": "ChIJzcldD2iZ0DERsqYlb8llMqQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4562632,
+        "lng": 103.4041826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.457551529892722,
+          "lng": 103.4055623798927
+        },
+        "southwest": {
+          "lat": 1.454851870107278,
+          "lng": 103.4028627201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "925737d2e75463a62dd10be5717d465b5b4c8194",
+    "name": "Sekolah Kebangsaan Rimba Terjun",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104268963754625699762\">mohamad khairul nizam abu hassan</a>"
+        ],
+        "photo_reference": "CmRaAAAAVrZ46Dt1pSys54p_86av-L05LMgQifzZiSgXHDI94DZhIfuAYzCcV0uRAh2vu9HlUny4zgHVjG__JPUhbYbaVXYuzT8E-AsPBt3lKb1wFFUmF9H2y6ybowUyPXTFVzgCEhDV2SdIgVqNsDELpB85fADoGhQ6NKO6Fo_GzxXZHgFbtoifPwRmZQ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJVVVVVYii0DERbzeF-d31etc",
+    "plus_code": {
+      "compound_code": "FC43+GM Pontian District, Johor",
+      "global_code": "6PH5FC43+GM"
+    },
+    "rating": 3,
+    "reference": "ChIJVVVVVYii0DERbzeF-d31etc",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Kampung Rimba Terjun, Johor, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4842893,
+        "lng": 103.4164328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.485647629892722,
+          "lng": 103.4178126798927
+        },
+        "southwest": {
+          "lat": 1.482947970107278,
+          "lng": 103.4151130201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "da57142dc51f2808eff6b976d8d096c3e7772733",
+    "name": "Srjk (c) Cheow Min",
+    "place_id": "ChIJ3-g4q4SY0DERtIeOwo5Siw0",
+    "plus_code": {
+      "compound_code": "FCM8+PH Pontian District, Johor",
+      "global_code": "6PH5FCM8+PH"
+    },
+    "rating": 3.8,
+    "reference": "ChIJ3-g4q4SY0DERtIeOwo5Siw0",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Srjk (c) Cheow Min, Jalan Johor, Taman Kencana, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4737677,
+        "lng": 103.3949649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.475176329892722,
+          "lng": 103.3964280298927
+        },
+        "southwest": {
+          "lat": 1.472476670107278,
+          "lng": 103.3937283701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "fcd7740ff8966e690a6c031ddd93c8edfebc00c1",
+    "name": "SJK(C) Bin Chong",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJuR0IlYSi0DERDdePP02zzf8",
+    "plus_code": {
+      "compound_code": "F9FV+GX Pontian District, Johor",
+      "global_code": "6PH5F9FV+GX"
+    },
+    "rating": 4,
+    "reference": "ChIJuR0IlYSi0DERDdePP02zzf8",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "2000, Jalan Kukup, Kampung Tengah, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4428579,
+        "lng": 103.4094905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.444239429892722,
+          "lng": 103.4109060798927
+        },
+        "southwest": {
+          "lat": 1.441539770107278,
+          "lng": 103.4082064201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "d2400dad96a2343f69ec0e5a6ab2a88d50585b09",
+    "name": "Pusat Internet Parit Bilal Rembah, Pontian, Johore.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ6x6G3FWi0DERzvrNj-4kQNs",
+    "plus_code": {
+      "compound_code": "CCV5+4Q Pontian District, Johor",
+      "global_code": "6PH5CCV5+4Q"
+    },
+    "rating": 5,
+    "reference": "ChIJ6x6G3FWi0DERzvrNj-4kQNs",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Dewan Serbaguna, Taman Rambah, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4916061,
+        "lng": 103.387683
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.492928979892722,
+          "lng": 103.3889499298927
+        },
+        "southwest": {
+          "lat": 1.490229320107278,
+          "lng": 103.3862502701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "1c6c4f9cb55114f3edcafa29308cef3329fb62bf",
+    "name": "Sekolah Kebangsaan Bandar Pontian (Integrasi)",
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104500535062564320698\">Zakaria Sidek</a>"
+        ],
+        "photo_reference": "CmRaAAAAV3sPDvT8Nqw2NR3stjMY5XkaoSSooSsClI2Mco5eyOWOMrta-EbkjdfH5q6xmzW4pr5v9kvDhctFxgyjkO3IEedEEYzO8HS5ZSACmSYEBOP1_LDIwNoTT5B3HT6I42COEhCnZCfwnJjBb4H8RVJW15v1GhSpNkVjgqx0vrSIeFgEm_Kaap6ZaA",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJrWVBkG6Y0DERVRm-j0jjy3A",
+    "plus_code": {
+      "compound_code": "F9RQ+J3 Pontian District, Johor",
+      "global_code": "6PH5F9RQ+J3"
+    },
+    "rating": 4.8,
+    "reference": "ChIJrWVBkG6Y0DERVRm-j0jjy3A",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "1021, Jln. Alsagoff, Kampung Dalam, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.487666,
+        "lng": 103.391299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.488985529892722,
+          "lng": 103.3926575298927
+        },
+        "southwest": {
+          "lat": 1.486285870107278,
+          "lng": 103.3899578701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6c63c87897465e62efec3e003cbb566075f97c6c",
+    "name": "SJK (C) Pei Chun 1, Pontian, Johor.",
+    "place_id": "ChIJhZOMLXCY0DER4RtF972KCMc",
+    "plus_code": {
+      "compound_code": "F9QR+3G Pontian District, Johor",
+      "global_code": "6PH5F9QR+3G"
+    },
+    "rating": 2.8,
+    "reference": "ChIJhZOMLXCY0DER4RtF972KCMc",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "No. 421, Jalan Teo Kang Sui, Kampung Atap, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4970883,
+        "lng": 103.3891029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.498399329892722,
+          "lng": 103.3903942298927
+        },
+        "southwest": {
+          "lat": 1.495699670107278,
+          "lng": 103.3876945701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "28207527be56f4dbe53f9cd130306163bb7b0479",
+    "name": "Pusat Kegiatan Guru Agama PPID Pontian",
+    "place_id": "ChIJSXGy1N6Z0DER-AiTomNKCa8",
+    "plus_code": {
+      "compound_code": "F9WQ+RJ Pontian District, Johor",
+      "global_code": "6PH5F9WQ+RJ"
+    },
+    "rating": 0,
+    "reference": "ChIJSXGy1N6Z0DER-AiTomNKCa8",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Kampung Dalam, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4969754,
+        "lng": 103.4013573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.498296629892722,
+          "lng": 103.4026894798927
+        },
+        "southwest": {
+          "lat": 1.495596970107278,
+          "lng": 103.3999898201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "f68831d842cbce5e2697ff6a7e0c1355851f131c",
+    "name": "Tabika Perpaduan Taman Damai A",
+    "place_id": "ChIJw6fmtEie0DERyhYCQmr3Ik8",
+    "plus_code": {
+      "compound_code": "FCW2+QG Pontian District, Johor",
+      "global_code": "6PH5FCW2+QG"
+    },
+    "rating": 0,
+    "reference": "ChIJw6fmtEie0DERyhYCQmr3Ik8",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Lot 3814, Jalan Utama, Taman Damai, Johor, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5080406,
+        "lng": 103.4060234
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.509232629892722,
+          "lng": 103.4074803298927
+        },
+        "southwest": {
+          "lat": 1.506532970107278,
+          "lng": 103.4047806701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "1bcda9403264bc81b9362cc978568488d4886a91",
+    "name": "Masjid Alfaizin",
+    "photos": [
+      {
+        "height": 2227,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104500535062564320698\">Zakaria Sidek</a>"
+        ],
+        "photo_reference": "CmRaAAAAnnAFYGZ1yUCYEKbtQDNttsAoCWwFqE4kCJG6LQIek_5nfuNVxRuLiqdKCHlew1Wook7IFgoR5Qnpn0vu6rEwjrssf3U3t2K372WTLnjr2YHfH8wrlWzNJ6-XQNk5TkgJEhDJ4WdMt2FS-Z5WpEX9h9XOGhRijoKYtVgJ_nW1AcR6Hl7WL3OtGw",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJC7Ll_1eY0DERwtNqCLZQv3k",
+    "plus_code": {
+      "compound_code": "GC54+6C Pontian District, Johor",
+      "global_code": "6PH5GC54+6C"
+    },
+    "rating": 4,
+    "reference": "ChIJC7Ll_1eY0DERwtNqCLZQv3k",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "13, Jalan Parit Semerah - Parit Kudus, Kampung Parit Kudus, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5053011,
+        "lng": 103.3829687
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.506346479892722,
+          "lng": 103.3845389298927
+        },
+        "southwest": {
+          "lat": 1.503646820107278,
+          "lng": 103.3818392701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "3924422a0f71a603c43bbdda2ed577b381212203",
+    "name": "SMK Sri Perhentian",
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118131615506956170214\">KHAIRIL ANUAR Mosmin</a>"
+        ],
+        "photo_reference": "CmRaAAAAKrNrngKq1cNCIfRJOh4ekvOE6Ye8HwD3tB3s4rpEfCYeP84b4vWklgyG_L2qUCC1VsNf_ASd27UoIUQw9k1I1ZLBIMtm1SqovF2v1lWGd2FNVqvPwX7N2aTkO7xY--38EhDpO2s-uAcpQSUbp8ClVu2TGhSYh66WxtIN8GoV6brY5dUeW-ivZA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJP2L_pkeY0DER08csjTM5JhE",
+    "plus_code": {
+      "compound_code": "G94M+45 Pontian District, Johor",
+      "global_code": "6PH5G94M+45"
+    },
+    "rating": 4.6,
+    "reference": "ChIJP2L_pkeY0DER08csjTM5JhE",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "53, Jalan Parit Ibrahim, Pontian Besar, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5023883,
+        "lng": 103.3864405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.503711579892722,
+          "lng": 103.3877612798927
+        },
+        "southwest": {
+          "lat": 1.501011920107278,
+          "lng": 103.3850616201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "b2a4c2db23af6b8a4c41995a859c43f4ffe46b43",
+    "name": "De JowiTop Preschool Pontian (Tadika Impian Terbilang)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108187339114197632401\">Sin Mei Lim</a>"
+        ],
+        "photo_reference": "CmRaAAAAWHPo3a_hRWmu6ioFepYguLVefT184VYNeVUokQawE_Pd3xy3y-WoMWfyT9JIVtRQDZ5bpBs2p_SK99WqajoL2piCgQ7ubNi7DiaDzo0tjmWjbbJeTkOWL0JrHIdtooDzEhBo8gBEgaiBUgbMdYc5GjH7GhQpQkW3d4UJMVqM16excDcEEtkq6w",
+        "width": 300
+      }
+    ],
+    "place_id": "ChIJl2v7pdCZ0DER-YalydIRNTA",
+    "plus_code": {
+      "compound_code": "G92P+XH Pontian District, Johor",
+      "global_code": "6PH5G92P+XH"
+    },
+    "rating": 5,
+    "reference": "ChIJl2v7pdCZ0DER-YalydIRNTA",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "No. 22, Jln Megah 1, Taman Megah, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5088788,
+        "lng": 103.3875263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.510325879892722,
+          "lng": 103.3887423298927
+        },
+        "southwest": {
+          "lat": 1.507626220107278,
+          "lng": 103.3860426701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "8e1d8cc307c1ef56eb457bdf2e1897db67502eb8",
+    "name": "SK Pontian Besar",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113075108171583177147\">izzudin86</a>"
+        ],
+        "photo_reference": "CmRaAAAAvfy8lty-VQICcOVq83gnsQjCHpmalTbuECKGUtftqehAjGKkXQPPawrjTXn1uY-mJduCuS1ycml1ac2fE47K-F4qXkzHc4qSSYe2a-m-u043JEJVpgcEdhsQ92LQlEP2EhD1njqAHaNskMJBnkHZWFONGhREA_hRF-Vr0B6HaiOJJuX5DVinXg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgx3Avk6Y0DERGk4a5XqNJSM",
+    "plus_code": {
+      "compound_code": "G95Q+H2 Pontian District, Johor",
+      "global_code": "6PH5G95Q+H2"
+    },
+    "rating": 5,
+    "reference": "ChIJgx3Avk6Y0DERGk4a5XqNJSM",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Jalan Parit Ibrahim, Pontian Besar, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4944167,
+        "lng": 103.4023437
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.496167029892722,
+          "lng": 103.4037100298927
+        },
+        "southwest": {
+          "lat": 1.493467370107278,
+          "lng": 103.4010103701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "c8458455b891b38f684e6f7bf00670b0a709d44e",
+    "name": "Sekolah Agama Bandar Pontian.",
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103329629652561597155\">Izza Wahid</a>"
+        ],
+        "photo_reference": "CmRaAAAAlfXBFwOBumXuD1A23zAkNOG6_1D8VKQ0xTq98a2azL1pw_cy4liAW_CpsVv39uFRrt_XfCbRvymQnLu6csFgRchkvy43C-Ff59ec50OWpa9VnYiykvHF5gKOdRPM9tQTEhA36m0RT0FuKliIVTqsn_CgGhTIHHtjt46IyhFLdrw7KTFuF-K1iw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJn0XYE32Y0DERedHFRg9nmgk",
+    "plus_code": {
+      "compound_code": "FCV2+QW Pontian District, Johor",
+      "global_code": "6PH5FCV2+QW"
+    },
+    "rating": 3,
+    "reference": "ChIJn0XYE32Y0DERedHFRg9nmgk",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Jalan Sekolah Arab, 82000 Pontian, Johor"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.475104,
+        "lng": 103.4201394
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.476448879892722,
+          "lng": 103.4214782798927
+        },
+        "southwest": {
+          "lat": 1.473749220107278,
+          "lng": 103.4187786201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "3a41a7de5c5b6a4ab25b4e17266cd13fdd1e4932",
+    "name": "SK Sungai Bunyi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118131615506956170214\">KHAIRIL ANUAR Mosmin</a>"
+        ],
+        "photo_reference": "CmRaAAAAJ6cvOoy9tD_kDFtCm39xqTM8EdbwtUunRXCc2Z1jdr1uc6K7Cv5_sOv8IIlSFnBSNzEs8kTHjmVcGOpVpDEfrvzReXA7eQLfxNBr1zL8FDdj008x9K7s8hwGWTqQyuEZEhABtRGrN5KcNXFODr7AxrihGhTwn0igdESKiqqFmyZiJD3MYILUWg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJXbHfU36Y0DERr54GOJgbhbY",
+    "plus_code": {
+      "compound_code": "FCGC+23 Pontian District, Johor",
+      "global_code": "6PH5FCGC+23"
+    },
+    "rating": 5,
+    "reference": "ChIJXbHfU36Y0DERr54GOJgbhbY",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "KM 56, Jalan Johor, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.49059,
+        "lng": 103.395781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.491900779892722,
+          "lng": 103.3971314298927
+        },
+        "southwest": {
+          "lat": 1.489201120107278,
+          "lng": 103.3944317701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "e07cb1cc89e889023e6056ef1edf987de3a09cca",
+    "name": "\u5b66\u800c\u4f18 (\u7b28\u73cd\u5206\u9662) Happyland Pontian",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108083518963814981619\">Lee Lay Kiow June</a>"
+        ],
+        "photo_reference": "CmRaAAAAbT--tRmX0GiETw9TB1GtwmXGJr6CFf3vvvVtA4px3yl8oARJf6d1OYpS9YN54OB0ka_ctbJ2KJ16g86mJa6tKVc9ypXXVxOh36YmcLbh3LR04GJBuc4PhEFDGyPyq9jIEhB-WX6eVgX4Noxsfor-axXlGhQ-NjDFpcmCtFgTm9Pi9xzdOuEMbA",
+        "width": 5120
+      }
+    ],
+    "place_id": "ChIJgfIPG2WY0DERTsDWoZ4JS18",
+    "plus_code": {
+      "compound_code": "F9RW+68 Pontian District, Johor",
+      "global_code": "6PH5F9RW+68"
+    },
+    "rating": 5,
+    "reference": "ChIJgfIPG2WY0DERTsDWoZ4JS18",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "No.4 A Jalan Sentosa 1, Taman Sentosa, Jalan Parit Mesjid, 82000 Pontian, Johor., Pontian Kechil, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.50628,
+        "lng": 103.38074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.507840279892722,
+          "lng": 103.3820309298927
+        },
+        "southwest": {
+          "lat": 1.505140620107278,
+          "lng": 103.3793312701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "45888fb24552559f6ce2349acb2395513084a36c",
+    "name": "SJK (C) Tah Tong",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103971673067628918066\">Garry Loke</a>"
+        ],
+        "photo_reference": "CmRaAAAA0yS0QsWe9-qwXJQ1yd72KKTFAw6H8sC7LP4gQt-_No-2bdDiI9O8CElv4fNVCtL5U3GD3UoLE6JtryMTdo-s0gbslq071rYnnpoo0vNqlovxpZnz-iadF6-elXdOYdiVEhAESW7f5o3Z_V30AbIV8z8AGhRPWt10Btbxl8vZiT53Dutod1rcnA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJf50taTiY0DERzefXer9Ql04",
+    "plus_code": {
+      "compound_code": "G94J+G7 Pontian District, Johor",
+      "global_code": "6PH5G94J+G7"
+    },
+    "rating": 3.4,
+    "reference": "ChIJf50taTiY0DERzefXer9Ql04",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Jalan Alsagoff, Pontian Besar, 82000 Pontian, Johor"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.477024,
+        "lng": 103.400104
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.478399829892722,
+          "lng": 103.4014947798927
+        },
+        "southwest": {
+          "lat": 1.475700170107277,
+          "lng": 103.3987951201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "596dc200b746407e870745e4d3d240f51e4b2b53",
+    "name": "Tadika Little Caliphs Pontian",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108435258505546707403\">Muhammad Hashim Mohidin</a>"
+        ],
+        "photo_reference": "CmRaAAAAsAUF65kjI-aDWkgRKguslJAqvC7_leGzOmKMGh--z90jL9kDIPsv7Fz46CCnx1HF0kmr5vJzKwGNQGmrb32Iyrb03ujWWnTfyfDlDf1xyTA5bWEt9H4BaLdL1mCSjVi2EhDZEMaUc_7D2Kz5eib0O1YlGhS4Ntmg6TvQ6UYnnz-l6qu_f1dMXg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJix5PdoGi0DERQFsCpGAEF4A",
+    "plus_code": {
+      "compound_code": "FCG2+R2 Pontian District, Johor",
+      "global_code": "6PH5FCG2+R2"
+    },
+    "rating": 0,
+    "reference": "ChIJix5PdoGi0DERQFsCpGAEF4A",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "29-1 Jalan Emas 3, Pusat Perniagaan Kota Emas, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4932632,
+        "lng": 103.3865396
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.494660579892722,
+          "lng": 103.3880268298927
+        },
+        "southwest": {
+          "lat": 1.491960920107278,
+          "lng": 103.3853271701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6116618afa45c73de9967cb93525570957527d44",
+    "name": "Sekolah Kebangsaan Tengku Mahmood Iskandar 1",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114827902369332915592\">Firdaus Aris</a>"
+        ],
+        "photo_reference": "CmRaAAAAdcWBOicDxIkJXfEFgY-WJg1CCqw5If_3dvvnVfZE0wryRY_lS2sIlu60Ubl7r95PNclk9xBsyjlx8jZDq3Wa4H0qvazou3bdNudY-LCSsyowcJ2a2GxG_LvDhIrgMPwHEhDKbovBFwYO3c3CF7MxfjszGhSuYvjANlTmTZYRb1XvVP3Af6IWsA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ_bOKZGyY0DERF-NwHymZWn4",
+    "plus_code": {
+      "compound_code": "F9VP+8J Pontian District, Johor",
+      "global_code": "6PH5F9VP+8J"
+    },
+    "rating": 5,
+    "reference": "ChIJ_bOKZGyY0DERF-NwHymZWn4",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Jln. Alsagoff, Kampung Dalam, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.48834,
+        "lng": 103.40273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.489692229892722,
+          "lng": 103.4040987798927
+        },
+        "southwest": {
+          "lat": 1.486992570107278,
+          "lng": 103.4013991201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "aacd34f06cc8dbe84fef3a0762f6774d238068c7",
+    "name": "SM Maahad Pontian, Johore.",
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117562186762762745115\">WENNI ACINTIA SOFFIAN</a>"
+        ],
+        "photo_reference": "CmRaAAAAaHDHuzwr5ElSCHCzQYgEJyTDhEWQbmpB6w8F_DqebbEl8wzv2cZ5LO-wsuc67WYeJPji_ap2VIpooTk6pND2F8ZxZgUJXsUFMZSdwsN6ZIe2qK6ya0MY38Jz-QmRb7rTEhDOTq807YVBCv13YhqVeFegGhSqiFV8DV8P5EDMOVRXEjm3ppJWfw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJvXrvL32Y0DERfFBO6dPT9j4",
+    "plus_code": {
+      "compound_code": "FCQ3+83 Pontian District, Johor",
+      "global_code": "6PH5FCQ3+83"
+    },
+    "rating": 4.6,
+    "reference": "ChIJvXrvL32Y0DERfFBO6dPT9j4",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "SM Maahad Pontian, J49, Kampung Duku, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4910949,
+        "lng": 103.3862373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.492415729892722,
+          "lng": 103.3876003798927
+        },
+        "southwest": {
+          "lat": 1.489716070107278,
+          "lng": 103.3849007201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "6af9eef5ee979ebce8a15f9dcefd83467a64763b",
+    "name": "SK Tengku Mahmood Iskandar 2",
+    "place_id": "ChIJDyNtNm6Y0DERQJqaC95R36w",
+    "plus_code": {
+      "compound_code": "F9RP+CF Pontian District, Johor",
+      "global_code": "6PH5F9RP+CF"
+    },
+    "rating": 4.3,
+    "reference": "ChIJDyNtNm6Y0DERQJqaC95R36w",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Jalan Abas, Kampung Dalam, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.527332,
+        "lng": 103.4253518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.528863029892722,
+          "lng": 103.4268168298927
+        },
+        "southwest": {
+          "lat": 1.526163370107278,
+          "lng": 103.4241171701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "533e479e85374d333bfb55f63dabbb81b8473862",
+    "name": "Sekolah Kebangsaan Parit Kudus",
+    "place_id": "ChIJnXqAnheZ0DERCeDxJHByo2U",
+    "plus_code": {
+      "compound_code": "GCGG+W4 Pontian District, Johor",
+      "global_code": "6PH5GCGG+W4"
+    },
+    "rating": 2.5,
+    "reference": "ChIJnXqAnheZ0DERCeDxJHByo2U",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.494347,
+        "lng": 103.4342656
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.495661079892722,
+          "lng": 103.4356381298927
+        },
+        "southwest": {
+          "lat": 1.492961420107278,
+          "lng": 103.4329384701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "190a5968a585d5408703c0a43db58577e970dae3",
+    "name": "SMK. TAN SRI OSMAN MOHD SA'AT",
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111947807088636672509\">Farhan</a>"
+        ],
+        "photo_reference": "CmRZAAAAOKxeDck3onScWzTMXT9xW2qwkI8aRFVjwpO2Mh48CU1KOL1uNG9m7LaXPn8-O9ynSpHrVIC9mBYex2LlQqQ9Jm0vJw1fkgmwCm8iHjolMvFiu554sejzdLRRkV5VYUm7EhAAsIzOwscE52exwki2AiLJGhRdLvr71VmLcAK-s9_9cMjWZDJn1w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJKRfYPrmY0DERSa1-NkHTf0o",
+    "plus_code": {
+      "compound_code": "FCVM+PP Pontian District, Johor",
+      "global_code": "6PH5FCVM+PP"
+    },
+    "rating": 4.4,
+    "reference": "ChIJKRfYPrmY0DERSa1-NkHTf0o",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "BT. 34, Jalan Johor, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.5324566,
+        "lng": 103.3696633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.533838029892722,
+          "lng": 103.3710715798927
+        },
+        "southwest": {
+          "lat": 1.531138370107278,
+          "lng": 103.3683719201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "2bdd5e412cc1d02bf3ea26bef5a534eafc9066d0",
+    "name": "SK API API Parit 2",
+    "place_id": "ChIJkYjyM9uZ0DERRS9fmAugAFQ",
+    "plus_code": {
+      "compound_code": "G9J9+XV Pontian District, Johor",
+      "global_code": "6PH5G9J9+XV"
+    },
+    "rating": 5,
+    "reference": "ChIJkYjyM9uZ0DERRS9fmAugAFQ",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Parit 2, Kampung Api-Api, Pontian"
+  }
+]

@@ -7,8 +7,8 @@ api = Api(app)
 
 with open('./data/pontianCity.json', 'r') as f:
     jsn = json.load(f)
-    cities = dict(jsn['cities'])
-    # print(dict(jsn['cities']))
+    cities = [c for c in jsn['cities']]
+    print(cities[0])
     # print(cities)
 
 # with open('atm.json', 'r') as f:
@@ -16,24 +16,26 @@ with open('./data/pontianCity.json', 'r') as f:
 #     places = jsn
 #     # print(len(places))
 
-placeTypes = ['atm', 'cafe', 'convenience_store', 'hotel', 'mall', 'pharmacy', 'restaurant' , 'school']
+cityList = ['benut', 'pontian', 'kukup', 'pekannanas']
+typeList = ['atm', 'cafe', 'convenience_store', 'hotel', 'mall', 'pharmacy', 'restaurant' , 'school']
+# keyword = ['']
 
 class City(Resource):
     def get(self):
         return cities
 
-class City_Id(Resource):
-    def get(self, city_id):
-        city_id = city_id.capitalize()
-        return {city_id: cities[city_id]}
+# class City_Id(Resource):
+#     def get(self, city_id):
+#         city_id = city_id.capitalize()
+#         return {city_id: cities['city']}
 
 class Place(Resource):
        def get(self):
-        return {'search_place_types': placeTypes}
+        return {'search_place_types': typeList}
 
-class Place_Type(Resource):
-    def get(self, place_type):
-        with open(f'./data/{place_type}.json', 'r') as f:
+class Place_City(Resource):
+    def get(self, city, type_):
+        with open(f'./data/{city}/{city}_{type_}_new.json', 'r') as f:
             jsn = json.load(f)
             places = jsn
             # print(len(places))
@@ -45,9 +47,9 @@ class Home(Resource):
         pass        
 
 api.add_resource(City, '/city')
-api.add_resource(City_Id, '/city/<string:city_id>')
-api.add_resource(Place, '/place/')
-api.add_resource(Place_Type, '/place/<string:place_type>')
+# api.add_resource(City_Id, '/<string:city_id>')
+api.add_resource(Place, '/city/place/')
+api.add_resource(Place_City, '/<string:city>/<string:type_>')
 api.add_resource(Home, '/')
 
 if __name__ == '__main__':

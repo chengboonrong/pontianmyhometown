@@ -1,0 +1,1209 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4855385,
+        "lng": 103.3910568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.486901079892722,
+          "lng": 103.3924014298927
+        },
+        "southwest": {
+          "lat": 1.484201420107278,
+          "lng": 103.3897017701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "576026366fbd3ca2ccdf0b564420b38c0ccadd46",
+    "name": "PRINCESS HOTEL.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116434071184033971134\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAA7-DBaTjGNYvPLQNlY5Dq2rE25tALdLakluazbY789cUyszavec2NxOduXHB6NLo5eMCjbBuGKJmybH2dWYwjC1wOypvNePGtGldZOqWpgQcwn0gM9bv9xNIF63MVBeJ4EhAJs-FL7g5i-o-2DCQeMUpxGhQeevi6IgG7pZGj7eG_9O61qR3WLQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJCV8lhHCY0DER8TxwC97lBFA",
+    "plus_code": {
+      "compound_code": "F9PR+6C Pontian District, Johor",
+      "global_code": "6PH5F9PR+6C"
+    },
+    "rating": 4.2,
+    "reference": "ChIJCV8lhHCY0DER8TxwC97lBFA",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "no 672, Jalan Taib, Pontian Kechil, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4860752,
+        "lng": 103.39188
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.487361879892722,
+          "lng": 103.3932563298927
+        },
+        "southwest": {
+          "lat": 1.484662220107278,
+          "lng": 103.3905566701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "0e2789b0182b52ddf6980791c7c64e49f7d4b3fc",
+    "name": "OYO Capital O 89905 T5 Boutique Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 609,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114785504312208555430\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAffRnFMnhB9fD-mAk1crNwG6DiZAUlkgD_8XAFBfnoZLgKlz0aX5HXaNpB-GyX89uaXacmPzBU_V4yMjQHb_3gVOFMwaJxejaK4JvJ3g17c-oZVTAb0UM-YVqhIW0ScMmEhBy92ZI4MK7q_9TNKW4Hq_eGhRfcJ-ynsL8p0K9IRiVmV1U6KTCiQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ9WU8eUaZ0DERaosES7ddYz0",
+    "plus_code": {
+      "compound_code": "F9PR+CQ Pontian District, Johor",
+      "global_code": "6PH5F9PR+CQ"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ9WU8eUaZ0DERaosES7ddYz0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Wisma Theng Chuan, PTD 15026, Jalan Taib, Kampung Atap, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4783322,
+        "lng": 103.3882614
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.479639329892722,
+          "lng": 103.3896180798927
+        },
+        "southwest": {
+          "lat": 1.476939670107278,
+          "lng": 103.3869184201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "4483cb42a7de18cbb444d4826cd602956386fadf",
+    "name": "Hotel Wonderful",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104500535062564320698\">Zakaria Sidek</a>"
+        ],
+        "photo_reference": "CmRaAAAALU_pKUpeSHz9ed1IYme0GDhxr51SMDZ4q2zOcZ8yckMDgS-hpErhvR_g7QHYy_VaRaYMXs3ipW_z7U3CpkKOmlCrsU1eNb2cDpVHE_uakImRdgEfKbpeCCnahw0cUjXiEhBro7-bKpt3W9okGVePNJI-GhQup0CZ7fm1KlBHN74v_RcBPSmfCA",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJOUZD3Z2i0DERZ1VFhCan5qE",
+    "plus_code": {
+      "compound_code": "F9HQ+88 Pusat Perdagangan Pontian, Pontian District, Johor",
+      "global_code": "6PH5F9HQ+88"
+    },
+    "rating": 3.4,
+    "reference": "ChIJOUZD3Z2i0DERZ1VFhCan5qE",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "Pusat Perdagangan Pontian, Pontian Kecil"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.486332,
+        "lng": 103.391389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.487726329892722,
+          "lng": 103.3927200298927
+        },
+        "southwest": {
+          "lat": 1.485026670107278,
+          "lng": 103.3900203701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "c31ddf4397c9cb112d8870180e2ba6b9d8d701ac",
+    "name": "SUNFLOWER EXPRESS HOTEL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 513,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110485627976373376360\">SUNFLOWER EXPRESS HOTEL</a>"
+        ],
+        "photo_reference": "CmRaAAAAdxY_rvdR6cWi9TkBdBQIQsTiCyAn4a3q9ArBpqYztmaaim1TImf7czwUihT7wGtXvz36RZHaf9lmMR9LwK9NBf0rmFOSzEpFMuv8qRSIV_Ipcz1QteRA7WnKeilodm6wEhDB-_qvRLBE-tKYwuKfEBIMGhQ3o2yb0yGtuGI4L4AMF2RN6ZgJFA",
+        "width": 912
+      }
+    ],
+    "place_id": "ChIJI00q93CY0DERu6yyWQzNaH0",
+    "plus_code": {
+      "compound_code": "F9PR+GH Pontian District, Johor",
+      "global_code": "6PH5F9PR+GH"
+    },
+    "rating": 3.8,
+    "reference": "ChIJI00q93CY0DERu6yyWQzNaH0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 177,
+    "vicinity": "726, Jalan Taib, Kampung Atap, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.477723,
+        "lng": 103.3885102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.479167879892722,
+          "lng": 103.3898455298927
+        },
+        "southwest": {
+          "lat": 1.476468220107278,
+          "lng": 103.3871458701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "8fd55e54c90c10ad46987dad022091b5424456c0",
+    "name": "Pontian Hotel, Pontian, Johore.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111356348755683624922\">roslan hashim</a>"
+        ],
+        "photo_reference": "CmRaAAAA_4Q87qoZQX3fWF9aHtYL2T-qd0ilQOWZBsgfYse_ZE0qtSMQPXDtI0oTggkrGWgLKjROcbHkVnxo7upLqqtvjQkr8eHm_5AAV-kykmkyJlUk_j5Kroz_SDFoz0LqEAOEEhB4zq7wB6Lte1Oxjsv-ijcBGhTZZ3-bgG8ACcGiIrKxZpf39AZghA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJJXpRzp2i0DERXCLmrTyy94E",
+    "plus_code": {
+      "compound_code": "F9HQ+3C Pontian District, Johor",
+      "global_code": "6PH5F9HQ+3C"
+    },
+    "rating": 3.5,
+    "reference": "ChIJJXpRzp2i0DERXCLmrTyy94E",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "Jalan Delima, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4775671,
+        "lng": 103.3896347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.478894979892722,
+          "lng": 103.3909282798927
+        },
+        "southwest": {
+          "lat": 1.476195320107278,
+          "lng": 103.3882286201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "c2b931623a1d129fc8d8a94e1c4cca5ac07a8649",
+    "name": "The Oikos Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104506621221841355223\">Mabubak Bubak</a>"
+        ],
+        "photo_reference": "CmRaAAAAM9z-tIipIfAUPv3z-xxeWoCT5FNU3H1rL7JRjQIS7I3z4wFlR-zaEUHjAqsrRt0KN8fMVBHDoTjTQToGcBX7dMrvGb-LUqK-bIuEAcHaEo0OI2aghpyWVP3wcBPAPvRCEhDN3ZLaPoXeUwj7I5iO6EIoGhSa27u9IRZdW_LRycHvM--uwc63RA",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJ7xKjsZ2i0DER4OncKMaGKoU",
+    "plus_code": {
+      "compound_code": "F9HQ+2V Pontian Kechil, Pontian District, Johor",
+      "global_code": "6PH5F9HQ+2V"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ7xKjsZ2i0DER4OncKMaGKoU",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "No. 2, Jalan Delima 2 Pusat Perdagangan Pontian, Pontian Kecil"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4810035,
+        "lng": 103.3856637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.482322329892722,
+          "lng": 103.3870019798927
+        },
+        "southwest": {
+          "lat": 1.479622670107278,
+          "lng": 103.3843023201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "9a003b71483f7ad5e08fe6a267eebde7fe25f5a7",
+    "name": "Aloha Hotel, Pontian, Johore.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115096938231405440143\">cqprime</a>"
+        ],
+        "photo_reference": "CmRaAAAAwLNAgnK3SFv_JbeGWnMsSJ8a6Bv4-r5Lgpv5lxl2z8bQyinbuwhoEuXAYB0oNi6jODMADXOZh_iInGDk1UD_SeIjSUSqgTruELUTpPPwoW-_q8TLXjsPstGwfnX5SSwJEhBnPAMI_XsVm9Yiv3VxNx6MGhR1yIJBU5x5vz2CVklm_tTXaSRoJQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJuXBKu3WY0DERz8wJ2C4e0P8",
+    "plus_code": {
+      "compound_code": "F9JP+C7 Pontian District, Johor",
+      "global_code": "6PH5F9JP+C7"
+    },
+    "rating": 3.8,
+    "reference": "ChIJuXBKu3WY0DERz8wJ2C4e0P8",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 192,
+    "vicinity": "Jalan Delima 13, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4796344,
+        "lng": 103.3938041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.480896679892722,
+          "lng": 103.3951831798927
+        },
+        "southwest": {
+          "lat": 1.478197020107278,
+          "lng": 103.3924835201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "efea911115d43f84e609070fefe4ed6df4f74790",
+    "name": "Sam Huat Hotel",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102543343889734294234\">Shimi Sys</a>"
+        ],
+        "photo_reference": "CmRaAAAA9xnSIkj6cbb2Bo-9qfZs6GDho9-pNjFM-ylWKOqMnnj_0g6XH8yL9ioMAqj2rvbdLwdaWangTCwr4nPpLn4s3rjJleKC26enM9msFxhqpxe4XY4thMeKtyNPIscPaMp4EhCWCwzC8qz-usW8zB6Rcc3dGhTnkD2TeFfDTE0PaEUnEEkj_vazFw",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ_37VWp2i0DERTYwlb66kKtY",
+    "plus_code": {
+      "compound_code": "F9HV+VG Pontian District, Johor",
+      "global_code": "6PH5F9HV+VG"
+    },
+    "rating": 2.9,
+    "reference": "ChIJ_37VWp2i0DERTYwlb66kKtY",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "No 4, 1st Floor, Jalan Johor, Batu 36, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4774793,
+        "lng": 103.3887003
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.478729379892722,
+          "lng": 103.3900651798927
+        },
+        "southwest": {
+          "lat": 1.476029720107278,
+          "lng": 103.3873655201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "0f6642d042086d2298cf7c76111828b97c6dafd9",
+    "name": "Pontian Seaview Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106761687503132301641\">Pontian Seaview Hotel</a>"
+        ],
+        "photo_reference": "CmRaAAAAjAniK2NFyc8Rep9iHunBRHxscHy0mUsWf1DUCfXj7MmoRDPl708l0biSfHS_NscbZImYiQ3Tb8IHWmOErr6j-ZSJ8iMUSCMtxHbchsIMV2DG9RK_w3N4WALnSd019NvZEhBfHHn1xs62M595WW_jGxZUGhRojbUhIilPa7NTcYAOfEfsm-kuSA",
+        "width": 1168
+      }
+    ],
+    "place_id": "ChIJF87zy52i0DERs4WdUhA6XEA",
+    "plus_code": {
+      "compound_code": "F9GQ+XF Pontian District, Johor",
+      "global_code": "6PH5F9GQ+XF"
+    },
+    "rating": 4.1,
+    "reference": "ChIJF87zy52i0DERs4WdUhA6XEA",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "35, Jalan Delima 3, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4993439,
+        "lng": 103.3931678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.500699579892722,
+          "lng": 103.3945204798927
+        },
+        "southwest": {
+          "lat": 1.497999920107278,
+          "lng": 103.3918208201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "bc04a06985b1057af514edc998fd358746ff1e25",
+    "name": "Semerah Garden Hotel",
+    "photos": [
+      {
+        "height": 852,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115819008395122097061\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAXdwr-MQVrpfoDH9Jit5aljk6A2xOCv_4PvZkXA2_XWwhArHVYeAcd4P448kn0vfSCjK0SCsCk0tXyTUblZcZvPuTKttVJ10aQE5z8oSmKDL8O_21aHgCJXwMTzEm0vH-EhBa0RKrv78O8WlKyEGjzuT8GhT2LUdEaeIGkunuPgmkXj1O3vHaOw",
+        "width": 1136
+      }
+    ],
+    "place_id": "ChIJ_95ErUKY0DER4JArF7oObv0",
+    "plus_code": {
+      "compound_code": "F9XV+P7 Pontian District, Johor",
+      "global_code": "6PH5F9XV+P7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ_95ErUKY0DER4JArF7oObv0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 180,
+    "vicinity": "1, Jln Sri Semerah 1, Kampung Parit Semerah, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4800828,
+        "lng": 103.3967144
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.481490329892722,
+          "lng": 103.3980450798927
+        },
+        "southwest": {
+          "lat": 1.478790670107278,
+          "lng": 103.3953454201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "2855d5187f84737c24ce9383074bf426cb8a6198",
+    "name": "New Dawn Hotel, Pontian, Johore.",
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116959155109280155384\">Yong Wooi Kee</a>"
+        ],
+        "photo_reference": "CmRaAAAA6kw8xrOrvNWSiMpHfYGxXDP7qMxpUXvJg5lfoVn5n00mElEwoSjTQ8ZYdlWFe_dGjjNuCclBbvvumpJm4Qv2Xh1MN0uVzMZeYudGTCT-ICkmfTKBGK2xZ5Btf1zxUUoiEhDATTwmTSDEt__la8Dr2uL9GhSQ1iL2q2rhyAs4MjU4Elv8S_IvLQ",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJ45D1hXiY0DERNM93ej0EnN4",
+    "plus_code": {
+      "compound_code": "F9JW+2M Pontian District, Johor",
+      "global_code": "6PH5F9JW+2M"
+    },
+    "rating": 4,
+    "reference": "ChIJ45D1hXiY0DERNM93ej0EnN4",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "No. 2 Jalan Kota Emas 2, Taman Kota Emas, Batu 36, Jalan Johor, Pontian Kecil"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4854595,
+        "lng": 103.3903071
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.486805029892722,
+          "lng": 103.3916444798927
+        },
+        "southwest": {
+          "lat": 1.484105370107278,
+          "lng": 103.3889448201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "bb27487f36d05b58132808249a1607cc8e00be31",
+    "name": "OYO 900 Princess Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107642009626699567955\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAANHSTZPT8qDIW64jIirC-JO_4Wu82hnhG63-NKXT00GkSpScKcfo_dIVEwn-WVf6fUdx6RsrxpP0l_0qQrZTMeUgENiutx3s-9y4gs70Y5CjVxqeX9fSZd9ytRLxhNuB1EhDYy-68GUApGJupTQ4DNLd_GhTMmdRgQK6YRPPrkc6BAW-8vT84Cg",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJK8SbH3GY0DERm5zm9O1KO4E",
+    "plus_code": {
+      "compound_code": "F9PR+54 Pontian District, Johor",
+      "global_code": "6PH5F9PR+54"
+    },
+    "rating": 5,
+    "reference": "ChIJK8SbH3GY0DERm5zm9O1KO4E",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "672-673, Jalan Taib, Pontian Kecil, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4796575,
+        "lng": 103.387155
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.481020879892722,
+          "lng": 103.3884663798927
+        },
+        "southwest": {
+          "lat": 1.478321220107278,
+          "lng": 103.3857667201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "431b592729b8e96b7fef7347baf621ee1b207872",
+    "name": "Pontian Garden Hotel, Pontian, Johore.",
+    "photos": [
+      {
+        "height": 2240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975660511796283462\">zh er</a>"
+        ],
+        "photo_reference": "CmRaAAAAnVCLEI-tT6q_IBToAukTAiuRjQh_P0dYfrIVtc4uAPmAnqlPXFahK2hVmJMULID73w9sPEY4xSNuzVu25B9N8bEQdHt7DguCXDQsExRmkhkdYkG_3hMyxTdJU3rP6eTxEhDQQ6IikYUhGftRlFFza8OeGhTHWkCTapEla9fqI82dtK83lpPpvg",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJbTXo-HWY0DERGX2dV_X9lKI",
+    "plus_code": {
+      "compound_code": "F9HP+VV Pontian District, Johor",
+      "global_code": "6PH5F9HP+VV"
+    },
+    "rating": 3.8,
+    "reference": "ChIJbTXo-HWY0DERGX2dV_X9lKI",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 148,
+    "vicinity": "No. 1,, Jln Delima 7, Pusat Perdagangan Pontian, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4775301,
+        "lng": 103.3902016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.479037279892722,
+          "lng": 103.3911559298927
+        },
+        "southwest": {
+          "lat": 1.476337620107278,
+          "lng": 103.3884562701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "ad3a4009760b5433085f8fe397f7e502db30a17d",
+    "name": "OYO 586 My Residence",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101508067979683565026\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAXOuYZA7wdv0ZXVzkkIBEhIB9f8c_DLzpjU4g9o4CshcrI1v0YPNqyf1MuYGgWK-wfDlHrbkI9avB0dRqQ8xNrV8tO5ToeKg5I-LV1pcM7WfGta6-1DhgbYjwpo3BjdsWEhBvUDDksvpdw90457iQ_ZFnGhRyYXY-P4Y0g6tTpMSI5htyFfyYRw",
+        "width": 1952
+      }
+    ],
+    "place_id": "ChIJYfxyhjSj0DERXU7JTVRy7Ow",
+    "plus_code": {
+      "compound_code": "F9HR+23 Pontian District, Johor",
+      "global_code": "6PH5F9HR+23"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYfxyhjSj0DERXU7JTVRy7Ow",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "1-7, Jalan Delima 3, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4794802,
+        "lng": 103.388883
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.480827429892722,
+          "lng": 103.3902252798927
+        },
+        "southwest": {
+          "lat": 1.478127770107278,
+          "lng": 103.3875256201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "efbdf5082d44d85303b18663a67d6b4874935168",
+    "name": "WAN LOONG HOTEL",
+    "photos": [
+      {
+        "height": 674,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117821657489400454542\">WAN LOONG HOTEL</a>"
+        ],
+        "photo_reference": "CmRaAAAAPWL3xbfUZgw62sHuE8RN_5mtvlgQ1I7z6JDU2-sZxy6owXRFsnCSJQzfb_pqR9oGdC6lguhfuwqgNuO_wJjX65gh3b9GMlf7TV9ZBkhIA7RhYrL0-SsBejtqBc5rAu3EEhCytNZCmwcB46yrxvQJX1UwGhT_3pT6U9p00oRH0Y99ro_MHvFB_w",
+        "width": 1011
+      }
+    ],
+    "place_id": "ChIJ_7D8H3aY0DERK3l6-3RcbaM",
+    "plus_code": {
+      "compound_code": "F9HQ+QH Pontian District, Johor",
+      "global_code": "6PH5F9HQ+QH"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ_7D8H3aY0DERK3l6-3RcbaM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "No: 28, Jln Delima 2, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4808651,
+        "lng": 103.3851779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.482152179892722,
+          "lng": 103.3865092298927
+        },
+        "southwest": {
+          "lat": 1.479452520107278,
+          "lng": 103.3838095701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "c51d448306931ddde02227a971e4f5dd79692b8d",
+    "name": "H by Nobita Homestay",
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108558946517080170867\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAii2gpbdIN4gn6Qt5x0vZbL2ahLZoe_eXx-lG7Nry7x_3ez2Lcs7mNv75Xq19DiAB6WlKfwJ1z3Q89295DWc8qDiCqtwd8jlGwTDztd2FtWRsKI_eKrZb_16XorJIBcu4EhCI2K17shIs-On9P5jHYKYaGhRucH2BnA-9w4TCxBEK5_SeNbHJIQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ1zJIonWY0DERbNO1L-zJdUM",
+    "plus_code": {
+      "compound_code": "F9JP+83 Pontian District, Johor",
+      "global_code": "6PH5F9JP+83"
+    },
+    "rating": 0,
+    "reference": "ChIJ1zJIonWY0DERbNO1L-zJdUM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "7-2, 12, Jalan Delima 1, Pusat Perdagangan Pontian, Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.486332,
+        "lng": 103.391389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.487726329892722,
+          "lng": 103.3927200298927
+        },
+        "southwest": {
+          "lat": 1.485026670107278,
+          "lng": 103.3900203701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "caeca3410cca93a386db867bcca2c34a05884d89",
+    "name": "OYO 884 Sun Flower Express Hotel",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116932590061578029405\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAyMIhihhCxvTZjaKF6rYipd4f2kXLzbuOzxY8HdbEQTDjdX_QipFE6-vQ0snYSMpubiEloemgehMACzNs4hUrcEFr5sy1LK6OE3N1mLFVR-juqqO1vk2Jwb4YyFOEhzEmEhBdTBew15Scc4ELk6xM-hx6GhS66fw0Bst-CDUWz67HmZKfZU8fcQ",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJ7bZY32uZ0DERkRtAGfmKy1w",
+    "plus_code": {
+      "compound_code": "F9PR+GH Pontian District, Johor",
+      "global_code": "6PH5F9PR+GH"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ7bZY32uZ0DERkRtAGfmKy1w",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "726, Jalan Taib, Kampung Atap, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4783928,
+        "lng": 103.3900628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.479711479892722,
+          "lng": 103.3914173298927
+        },
+        "southwest": {
+          "lat": 1.477011820107278,
+          "lng": 103.3887176701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "55b2e68c2c42f82b1db4e4d677c3f21f15f8b3b3",
+    "name": "OYO 89902 Semerah Suites Homestay Pontian",
+    "photos": [
+      {
+        "height": 1136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118289791925057760148\">semerah suites</a>"
+        ],
+        "photo_reference": "CmRZAAAACFxz73FexwoGpkXTRyxyyS01GVB5en4JryJTwwczCB1TETuGy_wP7lZwE6QH015XtDxBwvjGoQJpOtyt7ikrcC_vKyuzfUfY_mag_sUSlbdGucakWKeGPlw1hKylZFGYEhCwA3e1NfyLm5Ndg79ZRvCLGhQ51KpsdHm3D6yL-PQvTlHQ9T4hJw",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJQzc_dJ2i0DERnXISKS-2voA",
+    "plus_code": {
+      "compound_code": "F9HR+92 Pontian District, Johor",
+      "global_code": "6PH5F9HR+92"
+    },
+    "rating": 3.9,
+    "reference": "ChIJQzc_dJ2i0DERnXISKS-2voA",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "NO 18, FIRST FLOOR, Jalan Delima, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4482178,
+        "lng": 103.4055291
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.449653279892722,
+          "lng": 103.4068372798927
+        },
+        "southwest": {
+          "lat": 1.446953620107278,
+          "lng": 103.4041376201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "d4e4d30195c7f537c67bb37ee4fd230ece8e45a6",
+    "name": "Homestay D Rose, Rambah, Johore.",
+    "photos": [
+      {
+        "height": 1970,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109074831099259525518\">A Google User</a>"
+        ],
+        "photo_reference": "CmRaAAAAtFqA2eySBE4GpjN7sKFOWcVkoy0OZ8zXLLQWJGZjPvRfr1uoVreyWC5-mSeNs5W41ZN-xAzSQL7WX93WLCeBbYAwUvna2ej12E5G35l5bm0H4ApfFmVmEOoDTCvybb1lEhDmRyNe2R9IQEL7fB38JuSDGhRgebN4uz-EjosgW-xdvVO_76Nwgw",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJVyEPKiSj0DERPPRBXtLbdns",
+    "plus_code": {
+      "compound_code": "CCX4+76 Rambah, Johor",
+      "global_code": "6PH5CCX4+76"
+    },
+    "rating": 0,
+    "reference": "ChIJVyEPKiSj0DERPPRBXtLbdns",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Kg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4732904,
+        "lng": 103.4004034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.474651479892722,
+          "lng": 103.4017730298927
+        },
+        "southwest": {
+          "lat": 1.471951820107278,
+          "lng": 103.3990733701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "bc8523303bba04f81b28ac3b79cb083e7f811f60",
+    "name": "Brilliant Pontian",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116819266056818814849\">Abdul Razar</a>"
+        ],
+        "photo_reference": "CmRaAAAAPceQ4t07OrW5LvinHEg-C804G_lj3UOBmNa67MauZHLsbIUhfiM7YKmBhoy0AYumR7HjcKxTpo4K8CCXBfonXSw8FLr4KPcQWUEP3zIVq3shuYKw0eX3zcamA18wlQmjEhD6iGEW-bbr16wFBsJAQMsOGhSFR8wYEcy1wPXIXmddknASYCE9Ng",
+        "width": 1836
+      }
+    ],
+    "place_id": "ChIJn0OHk4ai0DER4FurrZ3ntes",
+    "plus_code": {
+      "compound_code": "FCF2+85 Pontian District, Johor",
+      "global_code": "6PH5FCF2+85"
+    },
+    "rating": 3.3,
+    "reference": "ChIJn0OHk4ai0DER4FurrZ3ntes",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "78, Jalan Sungai Gurap, Taman Kota Emas, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4807973,
+        "lng": 103.3853727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.482089129892722,
+          "lng": 103.3867054298927
+        },
+        "southwest": {
+          "lat": 1.479389470107278,
+          "lng": 103.3840057701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "f48fa757e778b898ad77038388c15f9bdecdb5c4",
+    "name": "Pcc",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107354695551637165961\">jackie lua</a>"
+        ],
+        "photo_reference": "CmRaAAAATX3H5T4yZLfkFmzIbdPrGInKs2eCGByUZy7IlmGdkhI6VCRoDIM0UUynTyaB1Y-izW0QbAnd19UusGiwhLSR1LdQ9cUBniJdz9gbeu-qER0dGV3eKHkCRx29at33gPxuEhA6vQYpNpIeDOoka9Y4225kGhTwjRvxAs3lGugzaKnCHrvHn-lnlA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJRaN6M1yZ0DERykR2HmE7PEc",
+    "plus_code": {
+      "compound_code": "F9JP+84 Pontian District, Johor",
+      "global_code": "6PH5F9JP+84"
+    },
+    "rating": 5,
+    "reference": "ChIJRaN6M1yZ0DERykR2HmE7PEc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "10-2, Jalan Delima 12, Pusat Perdagangan Pontian, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4808133,
+        "lng": 103.384965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.482173229892722,
+          "lng": 103.3863178298927
+        },
+        "southwest": {
+          "lat": 1.479473570107278,
+          "lng": 103.3836181701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "ada5eee3b26c956a12e932aad849d01c777682c4",
+    "name": "Oppa Homestay\u6b27\u5df4\u6c11\u5bbf",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJSxjHoXWY0DERpm48Cluk-Fk",
+    "plus_code": {
+      "compound_code": "F9JM+8X Pontian District, Johor",
+      "global_code": "6PH5F9JM+8X"
+    },
+    "rating": 4,
+    "reference": "ChIJSxjHoXWY0DERpm48Cluk-Fk",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Pontian District"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4819112,
+        "lng": 103.3911086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.483244079892722,
+          "lng": 103.3924215298927
+        },
+        "southwest": {
+          "lat": 1.480544420107278,
+          "lng": 103.3897218701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "19956d8c90e84022be51a3ab14767a8279d3dcc3",
+    "name": "Pontian Music Homestay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100264993001001840786\">Jerry Liu</a>"
+        ],
+        "photo_reference": "CmRaAAAADu5uqyPLoML7aeNfcoOTNe09ec8tmLqV7lHAcFzIrE_1Anysf8vVOwaAMQ41xCZNGApNJBgthHOj880XQsG6ygSkmeJCYtcE9uxkWNtzmM0jeDN4QvVrFou_snUP28Q-EhCYpBsvLcuE1hYFI4dz6dSeGhQkAPZ_c_aQfOIxKi4g8fJ56V_t0g",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJrwDOUXaY0DER4qtVe_KWRpU",
+    "plus_code": {
+      "compound_code": "F9JR+QC Pontian District, Johor",
+      "global_code": "6PH5F9JR+QC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJrwDOUXaY0DER4qtVe_KWRpU",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "903, Jalan Bakek, Kampung Atap, Pontian"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4779223,
+        "lng": 103.3916517
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.479350729892722,
+          "lng": 103.3929939298927
+        },
+        "southwest": {
+          "lat": 1.476651070107278,
+          "lng": 103.3902942701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "37e3be674530ee75db47726fe9d706ec7981ca5e",
+    "name": "My Residence",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1119,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117401739629617269569\">My Residence</a>"
+        ],
+        "photo_reference": "CmRaAAAAxgejR4CpuUte5V9XTccIdepCgqwYMpnsCY_PBGDO2odPc3k_W6JYH0Kc9pFj6S71Z5QrsC4hTpADsD3nunuAGY6fXwq_EvJMq5yer9BaahWAjaCW3n_XQuBzMQB9lrU4EhCOxE3pxVB6VhEZJiD5WObWGhS6xzIzrIoTbhogMcSBo05SUt-RYA",
+        "width": 2810
+      }
+    ],
+    "place_id": "ChIJEcveFp2i0DERA8gLcrTwBiw",
+    "plus_code": {
+      "compound_code": "F9HR+5M Pusat Perdagangan Pontian, Pontian District, Johor",
+      "global_code": "6PH5F9HR+5M"
+    },
+    "rating": 3.8,
+    "reference": "ChIJEcveFp2i0DERA8gLcrTwBiw",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 100,
+    "vicinity": "No 1-7,, Jalan Delima 3, Pusat Perdagangan Pontian, Pontian Kecil"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 1.4933676,
+        "lng": 103.403097
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.494685029892722,
+          "lng": 103.4043400798927
+        },
+        "southwest": {
+          "lat": 1.491985370107278,
+          "lng": 103.4016404201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "699017e93ff391b855b865d33adca08a9454253c",
+    "name": "Shariff Homestay Pontian",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114374030648728553492\">Mohd Syahir</a>"
+        ],
+        "photo_reference": "CmRaAAAAKfniaRp9NZWqVCXxD2MWvBvGeKRTgVWWqb9KpCxRlF2hoBz2-OZyjZIJzWOH4uKZVqmdaJzA7Z_3FcAHMddB9uZQKRHIyhmyGecVoTDErttYRW_ftQ2v0OZyW50IzArpEhCFJ4yiQDOWaI6_aGjW0eH8GhRtGWiXyhMZhb8UHl9achpaRLxktw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJE5eTO5OZ0DER-bYMr5gqbyc",
+    "plus_code": {
+      "compound_code": "FCV3+86 Pontian District, Johor",
+      "global_code": "6PH5FCV3+86"
+    },
+    "rating": 5,
+    "reference": "ChIJE5eTO5OZ0DER-bYMr5gqbyc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "J50, Kampung Duku, Pontian District"
+  }
+]

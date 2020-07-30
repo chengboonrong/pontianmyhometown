@@ -1,0 +1,253 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Wisma Koperasi, No. 742, Jalan Taib, 82000, Pontian Kechil, Johor, Malaysia, Kampung Atap, 82000 Pontian Kechil, Johor, Malaysia",
+    "formatted_phone_number": "07-687 1533",
+    "name": "CIMB Bank Berhad - ATM",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "website": "https://www.cimbbank.com.my/",
+    "photo": ["../static/image/altImg.jpg"]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Petronas Sungai Gurap, No. Lot 1035 GM 2243, Jalan Johor, Mukim Rimba Terjun, Johor, Kampung Duku, 82000 Pontian District, Johor, Malaysia",
+    "formatted_phone_number": "03-9206 8118",
+    "name": "RHB Bank",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 6:00 PM",
+        "Tuesday: 9:00 AM \u2013 6:00 PM",
+        "Wednesday: 9:00 AM \u2013 6:00 PM",
+        "Thursday: 9:00 AM \u2013 6:00 PM",
+        "Friday: 9:00 AM \u2013 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "photo": ["../static/image/altImg.jpg"]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "663;;664, Jalan Taib Utama, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 6388",
+    "name": "Ambank",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:00 AM \u2013 4:30 PM",
+        "Tuesday: 9:00 AM \u2013 4:30 PM",
+        "Wednesday: 9:00 AM \u2013 4:30 PM",
+        "Thursday: 9:00 AM \u2013 4:30 PM",
+        "Friday: 9:00 AM \u2013 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 2,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "website": "http://www.ambankgroup.com/",
+    "photo": ["../static/image/altImg.jpg"]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "29, Jalan Delima, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-688 1909",
+    "name": "Bank Islam",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:30 AM \u2013 4:30 PM",
+        "Tuesday: 9:30 AM \u2013 4:30 PM",
+        "Wednesday: 9:30 AM \u2013 4:30 PM",
+        "Thursday: 9:30 AM \u2013 4:30 PM",
+        "Friday: 9:30 AM \u2013 12:30 PM, 2:30 \u2013 4:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112925650275198963901\">Izat Iberzat</a>"
+        ],
+        "photo_reference": "CmRaAAAAMxOpFgsz874NvynRLHVlaTWRByE6a6cH2if1rX8nprbGEg2DwD0rDNy2t-o-RKFZSJu0JlHS8jHhL26TpJwzKBydiWhQzyxZrLjVQ0slY6ViiIoN6aqfN2vaH71si5kpEhDcXNPOea69UtwDe5OVdl7YGhSm5SMh9AdkpEP6_NUCAcfLjL7TZw",
+        "width": 1064
+      }
+    ],
+    "rating": 3.8,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "website": "http://www.bankislam.com.my/",
+    "photo": [
+      "/static/image/pontian/atm/BankIslam-0.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "No 30 & 31, Jalan Delima, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 5002",
+    "name": "Hong Leong Bank",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:15 AM \u2013 4:30 PM",
+        "Tuesday: 9:15 AM \u2013 4:30 PM",
+        "Wednesday: 9:15 AM \u2013 4:30 PM",
+        "Thursday: 9:15 AM \u2013 4:30 PM",
+        "Friday: 9:15 AM \u2013 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112925650275198963901\">Izat Iberzat</a>"
+        ],
+        "photo_reference": "CmRaAAAAyHV2tgb8uQJEKGyAj2OfEMBcJ1dhd8Ay6t_5xZyTHcVwBGL3uO6xevD1xmkvGXZDi_CIhdmWemCELu7B8-OIAhMr2OMJIKc2BHGQl0K-LUa3L1hDiDhxArk7y8r--EOfEhCkPyEvtYc4eDJYnG7vUnKNGhRM7RCNL5MGjpTvHh9dGUbHIh8nTQ",
+        "width": 1074
+      },
+      {
+        "height": 1227,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112925650275198963901\">Izat Iberzat</a>"
+        ],
+        "photo_reference": "CmRaAAAAdqXivusfU68kXFxnbQt0jCRd4SoW_RAETyY5S9EP-aMqTMqGpRic8AXkLQAjUWXIG9ZfrL-C4AMA9IueKHD94lkuej3rSm2qeZ9NZaJAZxS1OcRyTp7JMdj79uxQD0TfEhBBm4VqlrydiNusNw4RdxjcGhRM0i2HAAqCse-U83gKw7-scDUwhQ",
+        "width": 1080
+      },
+      {
+        "height": 1059,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112925650275198963901\">Izat Iberzat</a>"
+        ],
+        "photo_reference": "CmRaAAAAppC6egx6Yet1EvlP7MGyWxFvIrAJPfl9jQVYxgBqhD1GcPTn_mwnVWdhyeM335sJwmDwaEnQbxsh7_4YVxafOgwnhE42F_XUSWjktOWo3a8u80RzrfIqPD8e6Y8N31qqEhA26w5X1kYvPgKM_qKIiyY7GhTmc8xnpgZRA0llkRgrrk0ngcqjTw",
+        "width": 1080
+      }
+    ],
+    "rating": 3,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "website": "https://www.hlb.com.my/",
+    "photo": [
+      "/static/image/pontian/atm/HongLeongBank-0.jpg",
+      "/static/image/pontian/atm/HongLeongBank-1.jpg",
+      "/static/image/pontian/atm/HongLeongBank-2.jpg"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "761, Jalan Taib, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+    "formatted_phone_number": "07-687 9601",
+    "name": "Public Bank",
+    "opening_hours": {
+      "weekday_text": [
+        "Monday: 9:30 AM \u2013 4:00 PM",
+        "Tuesday: 9:30 AM \u2013 4:00 PM",
+        "Wednesday: 9:30 AM \u2013 4:00 PM",
+        "Thursday: 9:30 AM \u2013 4:00 PM",
+        "Friday: 9:30 AM \u2013 4:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105847270007472018662\">\u4f50\u3005\u6728\u9ece\u660e</a>"
+        ],
+        "photo_reference": "CmRaAAAAMPg1HdeHPfW-VOPzlB2N8LoBRFL-OmOQg5wk_yaaQWH84GVTNpqf_SoZkYXgX0_AgUKL89MJA-OFsDOEt_RZgTaZmVDl-tbG3SoaqLRJU9qzG8mLC3X5z_NZk3WNCLk1EhAxyk27PE5TpPHVnZUHOXKVGhSDXul9xSniDem73xaz0af_n57SmQ",
+        "width": 5472
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101090502511970313221\">Jamon Chok</a>"
+        ],
+        "photo_reference": "CmRaAAAAa8MDesIkeOe79ECLPQy82S39-68B2884b15bICZMn_TxIh-HfXq2wcHdgzEn9zdhMElOIfJ2PZmzx1RmJ9Ox5kGDJG7E9h6o7J_Na79jJk8s8KjLmNKqS86fTcDenUGkEhDRQVa16dLKPmsIkrK8B3zVGhTNlyRkmwSDVlT-FWVbuXPbyOhCpw",
+        "width": 3456
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101090502511970313221\">Jamon Chok</a>"
+        ],
+        "photo_reference": "CmRaAAAAghW4z9_KDpWRH4btWMj5DrsAikci1JOHPgGfTKGrL1-Cy_0bzac6VwunI-VOu4DrGg-kEFS6a-pin-PVbJm2MQ2N2q8-yEl0AtozDD4kEArEd0v4WLb8ny-WFn-UPDLFEhA3luhX9euckrGtTnGTzEr-GhRrYsjKAKIK6zWwmRWwfLDau9AsCQ",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101090502511970313221\">Jamon Chok</a>"
+        ],
+        "photo_reference": "CmRaAAAA11dxoeTdd9PHfqt6Z6YeBvYybSkf-GquHW2EYdpab1Xc2AhusbCtalcJkzeecKVGgq1D8zxbEJVbYfPtTR7vCbgEAkZ1d0n4A1BLyDJUuwqNNxzpSVsDGA51wW0Pg3uHEhCnYjg8jnjU4SWJszSBbhGhGhSC2ji0fFpXLQH9bOw0Zce6dCvUcQ",
+        "width": 4160
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101090502511970313221\">Jamon Chok</a>"
+        ],
+        "photo_reference": "CmRaAAAAJWAYG6V0m7ON1CmDav2U2XGf-hq8HQIp5YRKZ-rKudKCyGWQrF0upe-oN6ek5Q4KKJpV1mC6X2EgidKGmnEHmOeDyvhPvu0k7X9OjbNgCrUm8Zqs-hhblaiW1w_YWxNqEhCaKGhnCMKkeV8FymrzWvzHGhRPJOBI_wl4-0V-ge2e01S4cP9Qug",
+        "width": 4160
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100699453741025595883\">s c</a>"
+        ],
+        "photo_reference": "CmRaAAAAR9gItrEB9BMofg8wDcmOjXrAckKxk_6CaHC4WE0LHLQRJXHt0Ij7WRP5EKJCyrE6nfzibFt3JHM3IhJdUB6x34pXbTvPJXGjjfB_uf47RFAFRs1_Rqa55Bzp77HZtvNPEhAL5tXtQOp7kg7kZFK2kZ2EGhRdLanDsyi5HlqVWnrW149mBPY_ng",
+        "width": 4032
+      }
+    ],
+    "rating": 3.4,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "website": "https://www.pbebank.com/",
+    "photo": [
+      "/static/image/pontian/atm/PublicBank-0.jpg",
+      "/static/image/pontian/atm/PublicBank-1.jpg",
+      "/static/image/pontian/atm/PublicBank-2.jpg",
+      "/static/image/pontian/atm/PublicBank-3.jpg",
+      "/static/image/pontian/atm/PublicBank-4.jpg",
+      "/static/image/pontian/atm/PublicBank-5.jpg"
+    ]
+  }
+]
