@@ -26,18 +26,22 @@ types = ['atm', 'restaurant', 'hotel', 'school']
 def home():
     raw_data = requests.get(API_URL).json()
     weather_data = [round(raw_data['main']['temp'], 0), raw_data['main']['humidity'], round(raw_data['wind']['speed'] / 1000 * 3600, 1)  , raw_data['visibility'], raw_data['main']['pressure'], raw_data['clouds']['all']]
-    # print(weather_data)
     data = {str(i): wd for i, wd in enumerate(weather_data)}
-    # print(data)
+    
+    #### rainAPI.py ####
+    
     # res = requests.post('http://localhost:8001', json = data)
     # print(res.json())
     # cor = res.json()
-
+    
+    ####################
+    
     with open('./data/pontianCity.json', 'r') as file_:
             data = json.load(file_)
             mapCities = [c for c in data['cities']]
             # print(mapCities[0])
 
+    ### change 'cor' to cor
     return render_template('home.html', raw=raw_data ,data=weather_data, cor='cor', cities=[p for p in cities], mapCities=mapCities)
 
 @app.route('/test')
